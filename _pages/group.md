@@ -215,7 +215,7 @@ author_profile: true
 </div>
 
 <div class="member-card">
-  <img src="/files/laya-binu.jpg" alt="Laya Binu" class="member-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
+  <img src="/images/group/laya-binu.png" alt="Laya Binu" class="member-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
   <div class="member-photo-placeholder" style="display:none;">No photo</div>
   <div class="member-info">
     <h3>Laya Binu</h3>
@@ -235,7 +235,7 @@ author_profile: true
 </div>
 
 <div class="member-card">
-  <img src="/files/manasvini-komandur.jpg" alt="Manasvini Komandur" class="member-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
+  <img src="/images/group/manasvini-komandur.jpg" alt="Manasvini Komandur" class="member-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
   <div class="member-photo-placeholder" style="display:none;">No photo</div>
   <div class="member-info">
     <h3>Manasvini Komandur</h3>
@@ -245,7 +245,7 @@ author_profile: true
 </div>
 
 <div class="member-card">
-  <img src="/files/saina-kadni.jpg" alt="Saina Kadni" class="member-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
+  <img src="/images/group/saina-kadni.jpg" alt="Saina Kadni" class="member-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
   <div class="member-photo-placeholder" style="display:none;">No photo</div>
   <div class="member-info">
     <h3>Saina Kadni</h3>
@@ -255,7 +255,7 @@ author_profile: true
 </div>
 
 <div class="member-card">
-  <img src="/files/suoi-nguon-pham.jpg" alt="Suoi-Nguon Pham" class="member-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
+  <img src="/images/group/suoi-nguon-pham.jpg" alt="Suoi-Nguon Pham" class="member-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
   <div class="member-photo-placeholder" style="display:none;">No photo</div>
   <div class="member-info">
     <h3>Suoi-Nguon Pham</h3>
@@ -299,7 +299,7 @@ author_profile: true
 </div>
 
 <div class="member-card">
-  <img src="/files/angel-hernandez.jpg" alt="Ángel Hernández" class="member-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
+  <img src="/images/group/angel-hernandez.jpg" alt="Ángel Hernández" class="member-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
   <div class="member-photo-placeholder" style="display:none;">No photo</div>
   <div class="member-info">
     <h3>Ángel Hernández</h3>
