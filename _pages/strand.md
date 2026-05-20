@@ -80,6 +80,7 @@ author_profile: true
 <h3>AY 2025–26 — Summer 2025</h3>
 <table class="strand-table">
   <tr><th>Date</th><th>Time</th><th>Speaker</th><th>Location</th></tr>
+  <tr><td>Aug 29, 2025</td><td>11:00am</td><td>Floor Broekgaarden (GWTC-4 update)</td><td>SERF 383</td></tr>
   <tr><td>Aug 13, 2025</td><td>2:00pm</td><td>Chin Yi Tan</td><td>SERF 383</td></tr>
   <tr><td>Aug 1, 2025</td><td>11:00am</td><td>Athira Menon (Columbia University)</td><td>SERF 383</td></tr>
 </table>
@@ -112,7 +113,7 @@ author_profile: true
 <h3>AY 2024–25 — Fall 2024</h3>
 <table class="strand-table">
   <tr><th>Date</th><th>Time</th><th>Speaker</th><th>Location</th></tr>
-  <tr><td>Dec 12, 2024</td><td>10:00am</td><td>Kyle Rocha-Ruiz</td><td>SERF 383</td></tr>
+  <tr><td>Dec 12, 2024</td><td>10:00am</td><td>Kyle Rocha</td><td>SERF 383</td></tr>
   <tr><td>Dec 5, 2024</td><td>10:00am</td><td>Brenna Mockler</td><td>SERF 383</td></tr>
   <tr><td>Nov 19, 2024</td><td>10:00am</td><td>Tatsuya Akiba &amp; Angel Hernandez</td><td>SERF 383</td></tr>
   <tr><td>Nov 12, 2024</td><td>10:00am</td><td>Lucas de Sá</td><td>SERF 383</td></tr>
