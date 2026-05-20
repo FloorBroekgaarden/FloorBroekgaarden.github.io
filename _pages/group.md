@@ -41,7 +41,7 @@ author_profile: true
 
 # UCSD Gravitational-Wave Paleontology Lab
 
-<img src="/images/GWpaleontology_Group.png" alt="GW Paleontology Group" style="width:100%; border-radius:6px; margin-bottom:1.5em;">
+<img src="/images/gwpaleontology_group.png" alt="GW Paleontology Group" style="width:100%; border-radius:6px; margin-bottom:1.5em;">
 
 ---
 
