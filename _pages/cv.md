@@ -9,4 +9,4 @@ redirect_from:
 
 My full CV is available as a PDF:
 
-**[Download CV (PDF)](/files/CV_Floor_Broekgaarden.pdf)**
+**[Download CV (PDF)](/files/Floor_Broekgaarden_CV.pdf)**
