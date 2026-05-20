@@ -249,6 +249,92 @@ This page collects resources I have found useful or that were shared by colleagu
 </div>
 
 <div class="res-section">
+<h2>Recordings</h2>
+
+<h3>Job Applications</h3>
+<ul>
+  <li><a href="https://youtu.be/QEYqqyONGOU">How to apply for faculty jobs</a> (Lisa Kewley) — <a href="https://www.broekgaarden.nl/floor/wordpress/wp-content/uploads/2022/08/How_to_apply_to_Faculty_jobs_Lisa_Kewley.pdf">[slides]</a></li>
+  <li><a href="https://www.youtube.com/watch?v=hTc8_5B6zzU">How to apply for postdoc positions</a> (Dave Charbonneau) — <a href="http://www.broekgaarden.nl/floor/wordpress/wp-content/uploads/2022/06/Charbonneau_how_to_apply_to_a_postdoc-1.pdf">[slides]</a></li>
+  <li><a href="https://www.youtube.com/watch?v=tz42lx6BhqY">Your personal statement sucks</a> (Angela Collier, 2023)</li>
+  <li><a href="https://www.youtube.com/watch?v=-N-M8MR0WPY">Applying to graduate school</a> (Women+ of Color Project)</li>
+  <li><a href="https://www.youtube.com/watch?v=5oQxATL08SM">Statement of Purpose &amp; demystifying graduate admissions</a> (Women+ of Color Project)</li>
+  <li><a href="https://www.youtube.com/watch?v=AstUVUGKf7E">Recommendation letters</a> (Osase Omoruyi, Women+ of Color Project)</li>
+  <li><a href="https://www.youtube.com/watch?v=UynK5ZarDR8">Fellowships &amp; funding</a> (Women+ of Color Project)</li>
+  <li><a href="https://www.youtube.com/watch?v=tG0LCtUpYxs">Grad school: what to expect &amp; finding URM+ support</a> (Malika Grayson, Women+ of Color Project, 2021)</li>
+</ul>
+
+<h3>Thriving in Graduate School</h3>
+<ul>
+  <li><a href="https://www.youtube.com/watch?v=EYHmFOEMTRk">How to thrive in graduate school</a> (VanguardSTEM — Anicca Harriot, Geraldine Ezeka, Arianna Long)</li>
+</ul>
+
+<h3>Postdoc Life</h3>
+<ul>
+  <li><a href="https://youtu.be/6VAfiPGsvxQ">Meet the Hubble fellows panel</a> (Black in Astro — Dr. Arianna Long, Dr. Sinclaire Manning, Dr. Kiersten Boley)</li>
+</ul>
+
+<h3>Imposter Syndrome</h3>
+<ul>
+  <li><a href="https://www.youtube.com/watch?v=natKv595gUQ">Talk on imposter syndrome</a> (Sarah Rugheimer, EAS 2021)</li>
+  <li><a href="https://www.youtube.com/watch?v=H-CH_eKOq8k">Overcoming imposter syndrome</a> (Jocelyn Bell Burnell, Google Zeitgeist 2019)</li>
+  <li><a href="https://www.youtube.com/watch?v=e2XtTuUbN-4">On imposter syndrome and how to fight it</a> (Dr. Simone Hyater-Adams, Women+ of Color Project 2021)</li>
+</ul>
+
+<h3>Non-Academic Careers</h3>
+<ul>
+  <li><a href="https://www.youtube.com/watch?v=OX3aUONcLP0">Leveraging your astronomy-powered experience</a> (Alaina G. Levine, AAS 2022)</li>
+  <li><a href="https://youtu.be/9VtclBIqF6Y">All things aerospace with Sonya Smith</a> (Black in Astro, 2024)</li>
+  <li><a href="https://youtu.be/2fiyzy5AYrM">Launching a career in space panel</a> (Black in Astro, 2021)</li>
+  <li><a href="https://youtu.be/Zem17_9fps8">Space humanities panel: what it means to be a human studying space</a> (Black in Astro, 2024)</li>
+  <li><a href="https://www.youtube.com/live/Ljp-997TjEQ">Pursuing careers in instrumentation</a> (Black in Astro, 2023)</li>
+</ul>
+
+<h3>First-Generation Astronomers</h3>
+<ul>
+  <li><a href="https://www.youtube.com/watch?v=e-GKGF-zXi4">First generation graduate students</a> (Angela Collier, 2021)</li>
+</ul>
+
+<h3>Research Skills</h3>
+<ul>
+  <li><a href="https://www.youtube.com/watch?v=cE35HpSQWA8">Research tools: Overleaf, Zenodo, arXiv</a> (Logan Pearce, 2022)</li>
+  <li><a href="https://www.youtube.com/watch?v=QtQUkuLYSSo">Workshop on reading articles</a> (Logan Pearce, 2022)</li>
+</ul>
+
+<h3>Presentations &amp; Communication</h3>
+<ul>
+  <li><a href="https://www.youtube.com/watch?v=ufeGYUo1g_E">Talking about your research</a> (Steven B. Torrisi, Women+ of Color Project 2022)</li>
+</ul>
+
+<h3>Mentoring</h3>
+<ul>
+  <li><a href="https://www.youtube.com/watch?v=RyNAFFqDbpM">Decolonize your mentoring relationships</a> (Dr. Arianna Long, VanguardSTEM 2024)</li>
+</ul>
+
+<h3>Diversity, Equity &amp; Inclusion</h3>
+<ul>
+  <li><a href="https://www.youtube.com/watch?v=rQDzeDuCLLs">The inclusion revolution</a> (Dara J. Norman, AAS 236 2020)</li>
+  <li><a href="https://www.youtube.com/watch?v=j2QAHGGel8Q">The stars belong to everyone: fostering diversity and inclusion in astronomy</a> (RASC DDO panel, 2020)</li>
+  <li><a href="https://www.youtube.com/watch?v=g8_O5wyu_LU">Understanding diversity and promoting equity in astronomy</a> (Dr. Stefania Varano, SciAccess — ASL interpreted)</li>
+  <li><a href="https://youtu.be/2a9IA6jWALA">Black Space Week 2024 For The Culture panel</a> (Black in Astro — Dr. Moiya McTier, Dr. Tana Joseph, Dr. Tshiamiso Makwela)</li>
+</ul>
+
+<h3>Additional Topics</h3>
+<ul>
+  <li><a href="https://www.youtube.com/watch?v=NiGAVf2K-Kc">Reflecting on reproductive health and trans rights</a> (Marie Sgouros, VanguardSTEM 2023)</li>
+  <li><a href="https://www.youtube.com/watch?v=Z-_i82w_eCo">The history, politics, and science of Black hair</a> (VanguardSTEM — Drs. Anicca Harriot, Arianna Long, Geraldine Ezeka)</li>
+  <li><a href="https://youtu.be/aoXbDVqkcHs">The impact of citizen science efforts</a> (Black in Astro, 2023)</li>
+</ul>
+
+<h3>Podcasts</h3>
+<ul>
+  <li><a href="https://podcasts.apple.com/gb/podcast/self-care-with-drs-sarah/id1029803533">Self-care with Drs. Sarah</a> (Sarah Rugheimer &amp; Sarah Ballard) — mental health and navigating academia</li>
+  <li><a href="https://astrosoundbites.com/">Astro[Sound]Bites</a> — cutting-edge astronomy research</li>
+  <li><a href="https://voicesofacademia.com/podcast/">Voices of Academia podcast</a></li>
+</ul>
+
+</div>
+
+<div class="res-section">
 <h2>Other Useful Links</h2>
 <ul>
   <li><a href="https://www.astrobetter.com/">AstroBetter</a> — community blog for professional astronomers</li>
