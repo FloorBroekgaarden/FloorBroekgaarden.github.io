@@ -33,15 +33,8 @@ author_profile: true
 </div>
 
 <div class="strand-section">
-<h2>Upcoming Talks — AY 2025–26 Spring</h2>
+<h2>Current Talk Schedule — AY 2025–26 Spring</h2>
 
-<p>No talks are scheduled yet for the remaining weeks of Spring 2026. New talks for AY 2026–27 will be posted in September 2026.</p>
-</div>
-
-<div class="strand-section">
-<h2>Past Talks</h2>
-
-<h3>AY 2025–26 — Spring 2026</h3>
 <table class="strand-table">
   <tr><th>Date</th><th>Time</th><th>Speaker</th><th>Location</th></tr>
   <tr><td>May 14, 2026</td><td>11:00am</td><td>Anna Wright (CCA)</td><td>SERF 383</td></tr>
@@ -50,6 +43,10 @@ author_profile: true
   <tr><td>Apr 16, 2026</td><td>11:00am</td><td>Daichi Tsuna</td><td>SERF 383</td></tr>
   <tr><td>Apr 9, 2026</td><td>1:00pm</td><td>Pratik Gandhi (Yale; virtual)</td><td>SERF 383</td></tr>
 </table>
+</div>
+
+<div class="strand-section">
+<h2>Past Talks</h2>
 
 <h3>AY 2025–26 — Winter 2026</h3>
 <table class="strand-table">
