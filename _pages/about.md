@@ -7,24 +7,28 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor in the [Department of Astronomy](https://astronomy.ucsd.edu/) at UC San Diego (since Fall 2024), where I lead a research group on **Gravitational Wave Paleontology** — using gravitational wave observations to study the evolutionary history of massive stars through their compact object merger remnants (black holes and neutron stars).
+I am an Assistant Professor in the Astronomy department of UC San Diego in La Jolla, California since fall 2024, where I am currently building my research group in [**Gravitational Wave Paleontology**](https://www.broekgaarden.nl/floor/wordpress/). 
 
-Previously, I was a Junior Fellow at the [Simons Society of Fellows](https://www.simonsfoundation.org/simons-society-of-fellows/) (2023–2024), hosted at [Columbia University](https://www.astro.columbia.edu/) and the [Simons Foundation](https://www.simonsfoundation.org/). I earned my Ph.D. in Astrophysics from Harvard University (2023) via the [Center for Astrophysics \| Harvard & Smithsonian](https://cfa.harvard.edu/), and dual B.S. degrees in Mathematics and in Physics & Astronomy from the University of Amsterdam (2017).
+Before joining UCSD, I was a Junior Fellow of the [Simons Society of Fellows](https://www.simonsfoundation.org/simons-society-of-fellows/) (2023–2024), hosted at [Columbia University](https://www.astro.columbia.edu/) and the [Simons Foundation](https://www.simonsfoundation.org/) in New York City. I obtained my Ph.D. in Astrophysics in 2023 from Harvard University via the [Center for Astrophysics \| Harvard & Smithsonian](https://cfa.harvard.edu/), and I have dual Bachelor's degrees in Mathematics and in Physics & Astronomy from the University of Amsterdam (2017), with an exchange in Applied Mathematics at Lund University.
 
-Research interests
+Research
 ======
-My work sits at the intersection of stellar astrophysics, gravitational wave science, and statistical/machine-learning methods. Key topics include:
+My research focuses on **Gravitational Wave Paleontology** — using gravitational wave observations of merging black holes and neutron stars as fossils to study the evolutionary history of massive stars. This involves:
 
-- **Stellar evolution & compact objects** — modeling how massive stars evolve into black holes and neutron stars
-- **Binary population synthesis** — understanding double compact object merger rates, masses, and spins across cosmic time
-- **Gravitational wave astrophysics** — connecting theoretical models to LIGO/Virgo/KAGRA observations, and preparing for next-generation detectors (Einstein Telescope, Cosmic Explorer)
-- **Astro-statistics & AI/ML** — developing efficient computational methods for comparing large model populations to data
+- Building and comparing large theoretical populations of double compact object binaries using rapid stellar evolution codes (e.g., [COMPAS](https://compas.science))
+- Developing statistical and machine-learning methods to efficiently compare models with gravitational wave data
+- Investigating how stellar physics (winds, mass transfer, supernovae) shapes the observed properties of mergers detected by LIGO/Virgo/KAGRA
+- Preparing for next-generation detectors: the [Einstein Telescope](https://www.et-gw.eu/) and [Cosmic Explorer](https://cosmicexplorer.org/)
 
-I am an active member of the [COMPAS](https://compas.science) stellar evolution collaboration, and involved in the Einstein Telescope and Cosmic Explorer science communities. I co-founded the [SMASH Initiative](https://www.broekgaarden.nl/floor/wordpress/) at UCSD — an interdisciplinary effort spanning Astronomy, Physics, the Halıcıoğlu Data Science Institute (HDSI), and the San Diego Supercomputer Center.
+I co-founded the [SMASH Initiative](https://www.broekgaarden.nl/floor/wordpress/) at UCSD — a cross-disciplinary effort between the Astronomy, Physics, and Data Science departments and the San Diego Supercomputer Center.
 
 Community
 ======
-I care deeply about supporting early-career astronomers. I founded an early-career astronomer support group, organize workshops and resources for the community, and am active in mentorship and outreach.
+I care deeply about creating an inclusive and supportive environment for early-career astronomers. I founded an early-career astronomer support community, organize workshops and career-development resources, and am active in mentorship and outreach. More information can be found on the [UCSD ECA Workshops](https://www.broekgaarden.nl/floor/wordpress/) page.
+
+Outside of work
+======
+When not doing astronomy, I enjoy hiking and trail running in the mountains, playing volleyball, cycling, juggling, and exploring local bakeries.
 
 Contact
 ======

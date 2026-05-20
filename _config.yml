@@ -23,10 +23,10 @@ repository               : "FloorBroekgaarden/FloorBroekgaarden.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Floor Broekgaarden"
   pronouns         : "she/her"
-  bio              : "Assistant Professor of Astronomy at UC San Diego. Gravitational wave astrophysics & stellar evolution."
+  bio              : "Assistant Professor of Astronomy at UC San Diego. Building a research group in Gravitational Wave Paleontology."
   location         : "La Jolla, CA"
   employer         : "UC San Diego"
   uri              : "https://www.broekgaarden.nl/floor/wordpress/"
