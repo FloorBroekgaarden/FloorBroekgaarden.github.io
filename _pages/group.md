@@ -63,7 +63,7 @@ author_profile: true
 <h2>Postdoctoral Fellows</h2>
 
 <div class="member-card">
-  <img src="/files/kyle-rocha.jpg" alt="Kyle Akira Rocha" class="member-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
+  <img src="/images/group/kyle-rocha.jpg" alt="Kyle Akira Rocha" class="member-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
   <div class="member-photo-placeholder" style="display:none;">No photo</div>
   <div class="member-info">
     <h3>Kyle Akira Rocha</h3>
@@ -73,7 +73,7 @@ author_profile: true
 </div>
 
 <div class="member-card">
-  <img src="/files/steffani-grondin.jpg" alt="Steffani Grondin" class="member-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
+  <img src="/images/group/steffani-grondin.jpg" alt="Steffani Grondin" class="member-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
   <div class="member-photo-placeholder" style="display:none;">No photo</div>
   <div class="member-info">
     <h3>Steffani Grondin</h3>
@@ -97,7 +97,7 @@ author_profile: true
 <h2>PhD Students</h2>
 
 <div class="member-card">
-  <img src="/files/sasha-levina.jpg" alt="Sasha Levina" class="member-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
+  <img src="/images/group/sasha-levina.jpg" alt="Sasha Levina" class="member-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
   <div class="member-photo-placeholder" style="display:none;">No photo</div>
   <div class="member-info">
     <h3>Sasha Levina</h3>
@@ -107,7 +107,7 @@ author_profile: true
 </div>
 
 <div class="member-card">
-  <img src="/files/melanie-santiago.jpg" alt="Melanie Santiago" class="member-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
+  <img src="/images/group/melanie-santiago.jpg" alt="Melanie Santiago" class="member-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
   <div class="member-photo-placeholder" style="display:none;">No photo</div>
   <div class="member-info">
     <h3>Melanie Santiago</h3>
@@ -131,7 +131,7 @@ author_profile: true
 <h2>Master's Students &amp; Post-baccalaureates</h2>
 
 <div class="member-card">
-  <img src="/files/rhea-senthil-kumar.jpg" alt="Rhea Senthil Kumar" class="member-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
+  <img src="/images/group/rhea-senthil-kumar.png" alt="Rhea Senthil Kumar" class="member-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
   <div class="member-photo-placeholder" style="display:none;">No photo</div>
   <div class="member-info">
     <h3>Rhea Senthil Kumar</h3>
@@ -141,7 +141,7 @@ author_profile: true
 </div>
 
 <div class="member-card">
-  <img src="/files/julia-haynes.jpg" alt="Julia Haynes" class="member-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
+  <img src="/images/group/julia-haynes.png" alt="Julia Haynes" class="member-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
   <div class="member-photo-placeholder" style="display:none;">No photo</div>
   <div class="member-info">
     <h3>Julia Haynes</h3>
@@ -165,7 +165,7 @@ author_profile: true
 <h2>Undergraduate Students</h2>
 
 <div class="member-card">
-  <img src="/files/joseph-rodriguez.jpg" alt="Joseph Rodriguez" class="member-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
+  <img src="/images/group/joseph-rodriguez.jpg" alt="Joseph Rodriguez" class="member-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
   <div class="member-photo-placeholder" style="display:none;">No photo</div>
   <div class="member-info">
     <h3>Joseph Rodriguez (he/him)</h3>
@@ -175,7 +175,7 @@ author_profile: true
 </div>
 
 <div class="member-card">
-  <img src="/files/ashleann-chen.jpg" alt="Ashleann Chen" class="member-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
+  <img src="/images/group/ashleann-chen.jpg" alt="Ashleann Chen" class="member-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
   <div class="member-photo-placeholder" style="display:none;">No photo</div>
   <div class="member-info">
     <h3>Ashleann Chen</h3>
@@ -185,7 +185,7 @@ author_profile: true
 </div>
 
 <div class="member-card">
-  <img src="/files/araav-diwan.jpg" alt="Araav Diwan" class="member-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
+  <img src="/images/group/araav-diwan.jpg" alt="Araav Diwan" class="member-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
   <div class="member-photo-placeholder" style="display:none;">No photo</div>
   <div class="member-info">
     <h3>Araav Diwan</h3>
@@ -195,7 +195,7 @@ author_profile: true
 </div>
 
 <div class="member-card">
-  <img src="/files/harry-miao.jpg" alt="Haoyu (Harry) Miao" class="member-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
+  <img src="/images/group/harry-miao.jpg" alt="Haoyu (Harry) Miao" class="member-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
   <div class="member-photo-placeholder" style="display:none;">No photo</div>
   <div class="member-info">
     <h3>Haoyu (Harry) Miao</h3>
@@ -205,7 +205,7 @@ author_profile: true
 </div>
 
 <div class="member-card">
-  <img src="/files/kera-yu.jpg" alt="Kera Yu" class="member-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
+  <img src="/images/group/kera-yu.jpg" alt="Kera Yu" class="member-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
   <div class="member-photo-placeholder" style="display:none;">No photo</div>
   <div class="member-info">
     <h3>Kera Yu</h3>
@@ -225,7 +225,7 @@ author_profile: true
 </div>
 
 <div class="member-card">
-  <img src="/files/matthew-mccall.jpg" alt="Matthew McCall" class="member-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
+  <img src="/images/group/matthew-mccall.png" alt="Matthew McCall" class="member-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
   <div class="member-photo-placeholder" style="display:none;">No photo</div>
   <div class="member-info">
     <h3>Matthew McCall</h3>
@@ -279,7 +279,7 @@ author_profile: true
 </div>
 
 <div class="member-card">
-  <img src="/files/phil-van-lane.jpg" alt="Phil Van-Lane" class="member-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
+  <img src="/images/group/phil-van-lane.jpg" alt="Phil Van-Lane" class="member-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
   <div class="member-photo-placeholder" style="display:none;">No photo</div>
   <div class="member-info">
     <h3>Phil Van-Lane</h3>
@@ -289,7 +289,7 @@ author_profile: true
 </div>
 
 <div class="member-card">
-  <img src="/files/tyler-smith.jpg" alt="Tyler B. Smith" class="member-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
+  <img src="/images/group/tyler-smith.jpg" alt="Tyler B. Smith" class="member-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
   <div class="member-photo-placeholder" style="display:none;">No photo</div>
   <div class="member-info">
     <h3>Tyler B. Smith</h3>
@@ -309,7 +309,7 @@ author_profile: true
 </div>
 
 <div class="member-card">
-  <img src="/files/caua-rodrigues.jpg" alt="Cauã Rodrigues" class="member-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
+  <img src="/images/group/caua-rodrigues.png" alt="Cauã Rodrigues" class="member-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
   <div class="member-photo-placeholder" style="display:none;">No photo</div>
   <div class="member-info">
     <h3>Cauã Rodrigues</h3>
@@ -319,7 +319,7 @@ author_profile: true
 </div>
 
 <div class="member-card">
-  <img src="/files/feranmi-falodun.jpg" alt="Feranmi Falodun" class="member-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
+  <img src="/images/group/feranmi-falodun.jpg" alt="Feranmi Falodun" class="member-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
   <div class="member-photo-placeholder" style="display:none;">No photo</div>
   <div class="member-info">
     <h3>Feranmi Falodun</h3>
