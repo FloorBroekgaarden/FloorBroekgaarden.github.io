@@ -179,8 +179,8 @@
 
   a {
     display: block;
-    margin: 0 1rem;
-    padding: 0.5rem 0;
+    margin: 0 0.6rem;
+    padding: 0.4rem 0;
     color: var(--global-masthead-link-color);
     text-decoration: none;
 
@@ -202,16 +202,22 @@
     z-index: 100;
   }
 
+  button {
+    display: none !important;
+  }
+
   .visible-links {
-    display: table;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
 
     li {
-      display: table-cell;
-      vertical-align: middle;
+      display: flex;
+      align-items: center;
+      white-space: nowrap;
 
       &:first-child {
         font-weight: bold;
-        text-wrap: wrap;
 
         a {
           margin-left: 0;
