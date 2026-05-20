@@ -29,7 +29,7 @@ author_profile: true
 
 <p><strong>Where:</strong> SERF 383 &amp; <a href="https://ucsd.zoom.us/j/92125727620?pwd=iJVU7c6t1xHAGZRafhD6q6OBSd8yg6.1">Zoom</a></p>
 
-<p>To be added to the mailing list or inquire about presenting, reach out to any of the organizers.</p>
+<p>Astronomers are warmly encouraged to reach out to any of the organizers to schedule a talk. We also welcome requests to be added to the mailing list or to receive the Zoom link.</p>
 </div>
 
 <div class="strand-section">
