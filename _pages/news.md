@@ -13,8 +13,23 @@ author_profile: true
 </style>
 
 <div class="news-item">
+  <div class="news-date">Apr 1, 2026</div>
+  <div class="news-text">Khushi Karthikeyan's research on black hole seeds in our group was highlighted in <em>Science News Explores</em>, a science magazine for high school students. <a href="https://www.snexplores.org/article/supermassive-black-holes-ancient-stars">[article]</a></div>
+</div>
+
+<div class="news-item">
+  <div class="news-date">Mar 12, 2026</div>
+  <div class="news-text"><img src="/images/shapley-lecturers-2026.png" class="news-img" alt="AAS 2026 Shapley Lecturers">Congratulations to Steffani Grondin on being selected as an <a href="https://aas.org/press/aas-announces-2026-shapley-lecturers">AAS Harlow Shapley Lecturer 2026</a>! The Shapley Lectureship is a prestigious AAS program that brings distinguished astronomers to schools and communities across North America to share the wonder of the Universe — a tradition dating back to 1958.</div>
+</div>
+
+<div class="news-item">
   <div class="news-date">Feb 21, 2026</div>
   <div class="news-text">Received an honorable mention for the 2026 <a href="https://bssw.io/pages/meet-our-fellows">Better Scientific Software (BSSw) Fellowship Program</a>, recognizing work on advancing software citation practices to make astronomical research more reproducible and transparent.</div>
+</div>
+
+<div class="news-item">
+  <div class="news-date">Dec 1, 2025</div>
+  <div class="news-text"><img src="/images/iau-g2-cecilia-payne-gaposchkin-lecture.png" class="news-img" alt="IAU G2 Cecilia Payne-Gaposchkin Lecture">Gave the IAU G2 Cecilia Payne-Gaposchkin Lecture as an online invited talk — <em>What Stars Are Made Of</em>: Celebrating 100 Years of Cecilia Payne-Gaposchkin's Revolutionary PhD Thesis. <a href="https://www.youtube.com/watch?v=-Tn5m5QwoY4">[video]</a></div>
 </div>
 
 <div class="news-item">
@@ -98,6 +113,16 @@ author_profile: true
 </div>
 
 <div class="news-item">
+  <div class="news-date">Feb 10, 2025</div>
+  <div class="news-text">Featured in <a href="https://www.smithsonianmag.com/science-nature/astronomers-suspect-colliding-supermassive-black-holes-left-the-universe-awash-in-gravitational-waves-180985909/"><em>Smithsonian Magazine</em></a> in an article about gravitational waves from colliding supermassive black holes.</div>
+</div>
+
+<div class="news-item">
+  <div class="news-date">Jan 30, 2025</div>
+  <div class="news-text">Mentioned in a <a href="https://today.ucsd.edu/story/department-embraces-new-year-of-discovery">UC San Diego Today article</a> about the launch of UCSD's new Department of Astronomy and Astrophysics and its six new faculty members.</div>
+</div>
+
+<div class="news-item">
   <div class="news-date">Jan 27, 2025</div>
   <div class="news-text">Participated as a speaker at the Conference for Undergraduate Women in Physics (CUWIP).</div>
 </div>
@@ -178,6 +203,11 @@ author_profile: true
 </div>
 
 <div class="news-item">
+  <div class="news-date">Apr 27, 2023</div>
+  <div class="news-text">Featured in the <a href="https://www.simonsfoundation.org/2023/04/27/2023-class-of-junior-fellows-joins-the-simons-society-of-fellows/">Simons Foundation announcement</a> of the 2023 class of Junior Fellows of the Simons Society of Fellows.</div>
+</div>
+
+<div class="news-item">
   <div class="news-date">Apr 24, 2023</div>
   <div class="news-text"><img src="https://www.broekgaarden.nl/floor/wordpress/wp-content/uploads/2023/05/FufC9CWWAAEZrZa-1024x768.jpeg" class="news-img" alt="">Successfully defended my PhD dissertation! <a href="https://docs.google.com/presentation/d/1gN3p3KspTrM21PY5R9LdM5EAqzq_j6HH/edit?usp=share_link&ouid=105945932062731719388&rtpof=true&sd=true">[slides]</a></div>
 </div>
@@ -189,7 +219,7 @@ author_profile: true
 
 <div class="news-item">
   <div class="news-date">Mar 9, 2023</div>
-  <div class="news-text"><img src="https://www.broekgaarden.nl/floor/wordpress/wp-content/uploads/2023/03/Screenshot-2023-03-20-at-6.31.13-PM-1024x592.png" class="news-img" alt="">Harvard published an interview about my PhD research as part of the Horizons 2023 program. <a href="https://gsas.harvard.edu/news/stories/streamlining-search-for-black-holes">[interview]</a></div>
+  <div class="news-text"><img src="https://www.broekgaarden.nl/floor/wordpress/wp-content/uploads/2023/03/Screenshot-2023-03-20-at-6.31.13-PM-1024x592.png" class="news-img" alt="">Harvard CfA published an interview about my PhD research as part of the Horizons 2023 program. <a href="https://www.cfa.harvard.edu/news/streamlining-search-black-holes">[article]</a></div>
 </div>
 
 <div class="news-item">
