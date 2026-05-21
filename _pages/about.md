@@ -34,3 +34,47 @@ Contact
 ======
 **Office:** SERF 407, 9500 Gilman Dr #0417, La Jolla, CA 92093, USA  
 **Email:** fbroekgaarden [at] ucsd.edu
+
+---
+
+<style>
+.media-section { margin-top: 2em; }
+.media-section h2 { border-bottom: 1px solid #ccc; padding-bottom: 0.3em; margin-bottom: 1em; }
+.video-wrap { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-bottom: 2em; border-radius: 6px; }
+.video-wrap iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0; }
+.video-label { font-weight: 600; margin-bottom: 0.5em; font-size: 0.95em; }
+.photo-wrap { margin-bottom: 1.5em; }
+.photo-wrap img { width: 100%; border-radius: 6px; display: block; }
+.photo-caption { font-size: 0.88em; color: #666; margin-top: 0.4em; }
+</style>
+
+<div class="media-section">
+<h2>Videos</h2>
+
+<p class="video-label">Public Talk: Black Hole Paleontology — launch of UC San Diego Astronomy Department (May 2025)</p>
+<div class="video-wrap">
+  <iframe src="https://www.youtube.com/embed/cJj191cJSPg?start=2482&end=3475" allowfullscreen></iframe>
+</div>
+
+<p class="video-label">Research Overview: Gravitational Wave Paleontology</p>
+<div class="video-wrap">
+  <iframe src="https://www.youtube.com/embed/wl4syO5dJiE" allowfullscreen></iframe>
+</div>
+</div>
+
+<div class="media-section">
+<h2>Photos</h2>
+
+<div class="photo-wrap">
+  <img src="https://www.broekgaarden.nl/floor/wordpress/wp-content/uploads/2023/05/7c5b58af-a0d4-4ccb-b892-6a32c4ffcc12.jpeg" alt="Research group photo">
+</div>
+
+<div class="photo-wrap">
+  <img src="https://www.broekgaarden.nl/floor/wordpress/wp-content/uploads/2023/05/Screenshot-2023-05-10-at-5.37.08-PM-2048x1365.png" alt="">
+</div>
+
+<div class="photo-wrap">
+  <img src="https://www.broekgaarden.nl/floor/wordpress/wp-content/uploads/2022/03/WhatsApp-Image-2022-01-27-at-3.44.23-PM-1.jpeg" alt="Teaching a COMPAS demo at the Saas-Fee Ph.D. school">
+  <p class="photo-caption">Teaching a COMPAS demo at the Saas-Fee Ph.D. school in 2022</p>
+</div>
+</div>
