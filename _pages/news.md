@@ -13,6 +13,11 @@ author_profile: true
 </style>
 
 <div class="news-item">
+  <div class="news-date">Feb 21, 2026</div>
+  <div class="news-text">Received an honorable mention for the 2026 <a href="https://bssw.io/pages/meet-our-fellows">Better Scientific Software (BSSw) Fellowship Program</a>, recognizing work on advancing software citation practices to make astronomical research more reproducible and transparent.</div>
+</div>
+
+<div class="news-item">
   <div class="news-date">Aug 26, 2025</div>
   <div class="news-text"><img src="https://www.broekgaarden.nl/floor/wordpress/wp-content/uploads/2025/08/Screenshot-2025-08-26-at-2.23.03%20PM-300x169.png" class="news-img" alt="">New gravitational-wave results released from LIGO, Virgo, and KAGRA (GWTC-4). I made an astrophysics-focused summary of the new catalog. <a href="https://docs.google.com/document/d/1eiVeKh0Q3A9h_569n5Thm89uYJdg7NHL9OeM5wGs4Uw/edit?usp=sharing">[summary]</a></div>
 </div>
