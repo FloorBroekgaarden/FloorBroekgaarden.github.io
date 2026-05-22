@@ -19,9 +19,9 @@ author_profile: true
 <div class="strand-section">
 <h2>About STRAND</h2>
 
-<p>STRAND — <em>Simulations, TheoRy AND more</em> — is a weekly seminar series at the UC San Diego Department of Astronomy &amp; Astrophysics. It brings together researchers working on theoretical astrophysics, numerical simulations, gravitational-wave science, and related topics from across the UCSD Astronomy &amp; Astrophysics and Physics departments.</p>
+<p>STRAND — <em>Simulations, TheoRy AND more</em> — is a weekly seminar series at the UC San Diego Department of Astronomy &amp; Astrophysics. Despite its name, STRAND covers a diverse range of topics — from supernovae, stellar evolution, and white dwarfs to gravitational-wave science, theory and simulations, cosmology, and small-scale structure. Many talks lean toward high-energy astrophysics, but we warmly welcome speakers from across all areas of astrophysics.</p>
 
-<p>Each session typically opens with 30 minutes of news, recent papers, and group updates, followed by a 30-minute research talk with discussion. Meetings are hybrid: in person in <strong>SERF 383</strong> and via Zoom.</p>
+<p>Talks are typically given by early-career researchers such as PhD students and postdocs on the job market. The format is flexible: either a single 20–25 minute talk with extended questions and discussion (before, during, or after — depending on what the speaker prefers), or two 25-minute talks each with 5 minutes of Q&amp;A. Meetings are hybrid: in person in <strong>SERF 383</strong> and via Zoom.</p>
 
 <p><strong>Organizers:</strong> Floor Broekgaarden, Kyle Kremer, and Ethan Nadler</p>
 
