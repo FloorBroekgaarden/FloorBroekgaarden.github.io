@@ -94,6 +94,16 @@ author_profile: true
 </div>
 
 <div class="news-item">
+  <div class="news-date">Nov 11, 2025</div>
+  <div class="news-text">Mentioned in a <a href="https://today.ucsd.edu/story/second-cohort-of-uc-san-diegos-2025-convene-and-influence-awardees-announced">UC San Diego Today article</a> announcing the 2025 Convene and Influence Awardees, recognizing the SMASH initiative for accelerating cosmic breakthroughs through AI at UC San Diego.</div>
+</div>
+
+<div class="news-item">
+  <div class="news-date">Oct 20, 2025</div>
+  <div class="news-text">Played in the student vs. faculty volleyball match at UCSD! <a href="https://www.instagram.com/reel/DP69tRigCyt/">[reel]</a></div>
+</div>
+
+<div class="news-item">
   <div class="news-date">Aug 26, 2025</div>
   <div class="news-text"><img src="https://www.broekgaarden.nl/floor/wordpress/wp-content/uploads/2025/08/Screenshot-2025-08-26-at-2.23.03%20PM-300x169.png" class="news-img" alt="">New gravitational-wave results released from LIGO, Virgo, and KAGRA (GWTC-4). I made an astrophysics-focused summary of the new catalog. <a href="https://docs.google.com/document/d/1eiVeKh0Q3A9h_569n5Thm89uYJdg7NHL9OeM5wGs4Uw/edit?usp=sharing">[summary]</a></div>
 </div>
