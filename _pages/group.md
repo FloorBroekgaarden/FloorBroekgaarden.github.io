@@ -83,7 +83,7 @@ author_profile: true
 </div>
 
 <div class="member-card">
-  <img src="/files/marko-ristic.jpg" alt="Marko Ristić" class="member-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
+  <img src="/images/marko-ristic.jpg" alt="Marko Ristić" class="member-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
   <div class="member-photo-placeholder" style="display:none;">No photo</div>
   <div class="member-info">
     <h3>Marko Ristić</h3>
@@ -465,7 +465,8 @@ author_profile: true
 <h3 style="color: #555; font-size: 1em; margin-bottom: 1em;">2022–2023</h3>
 
 <div class="member-card">
-  <div class="member-photo-placeholder">No photo</div>
+  <img src="/images/group/simone-abeti.jpg" alt="Simone Abeti" class="member-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
+  <div class="member-photo-placeholder" style="display:none;">No photo</div>
   <div class="member-info">
     <h3>Simone Abeti</h3>
     <p class="role">Undergraduate, Milan University, Italy, 2022–2023</p>

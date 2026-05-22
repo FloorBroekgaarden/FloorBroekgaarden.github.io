@@ -54,6 +54,11 @@ author_profile: true
 </div>
 
 <div class="news-item">
+  <div class="news-date">Mar 20, 2026</div>
+  <div class="news-text"><img src="/images/meera-desawale-poster-2026.jpg" class="news-img" alt="Meera Desawale poster competition">Congratulations to high school student Meera Desawale on winning 1st place in the Physics and Astronomy category at the Science Poster Competition! 🎉</div>
+</div>
+
+<div class="news-item">
   <div class="news-date">Mar 12, 2026</div>
   <div class="news-text"><img src="/images/shapley-lecturers-2026.png" class="news-img" alt="AAS 2026 Shapley Lecturers">Congratulations to Steffani Grondin on being selected as an <a href="https://aas.org/press/aas-announces-2026-shapley-lecturers">AAS Harlow Shapley Lecturer 2026</a>! The Shapley Lectureship is a prestigious AAS program that brings distinguished astronomers to schools and communities across North America to share the wonder of the Universe — a tradition dating back to 1958.</div>
 </div>
