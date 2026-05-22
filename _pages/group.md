@@ -176,6 +176,15 @@ author_profile: true
 <h2>Undergraduate Students</h2>
 
 <div class="member-card">
+  <img src="/images/group/alexandre-franco.jpg" alt="Alexandre Riddell Franco" class="member-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
+  <div class="member-photo-placeholder" style="display:none;">No photo</div>
+  <div class="member-info">
+    <h3>Alexandre Riddell Franco</h3>
+    <p class="role">1st-year Undergraduate Student (Astronomy), UC San Diego &mdash; <a href="mailto:ariddellfranco@ucsd.edu">ariddellfranco@ucsd.edu</a></p>
+  </div>
+</div>
+
+<div class="member-card">
   <img src="/images/group/joseph-rodriguez.jpg" alt="Joseph Rodriguez" class="member-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
   <div class="member-photo-placeholder" style="display:none;">No photo</div>
   <div class="member-info">
@@ -206,11 +215,20 @@ author_profile: true
 </div>
 
 <div class="member-card">
+  <img src="/images/group/eugene-shang.jpg" alt="Eugene Shang" class="member-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
+  <div class="member-photo-placeholder" style="display:none;">No photo</div>
+  <div class="member-info">
+    <h3>Eugene Shang</h3>
+    <p class="role">2nd-year Undergraduate Student (Mathematics), UC San Diego &mdash; <a href="mailto:eshang@ucsd.edu">eshang@ucsd.edu</a></p>
+  </div>
+</div>
+
+<div class="member-card">
   <img src="/images/group/harry-miao.jpg" alt="Haoyu (Harry) Miao" class="member-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
   <div class="member-photo-placeholder" style="display:none;">No photo</div>
   <div class="member-info">
     <h3>Haoyu (Harry) Miao</h3>
-    <p class="role">Undergraduate Student, UC San Diego &mdash; h3miao@ucsd.edu</p>
+    <p class="role">1st-year Undergraduate Student (Physics), UC San Diego &mdash; <a href="mailto:h3miao@ucsd.edu">h3miao@ucsd.edu</a></p>
     <p>Harry is majoring in Physics. His research focuses on computational astrophysics and binary stellar evolution. He works with the binary population synthesis framework POSYDON to model compact-object binary populations and contribute to the development of the GROWL catalog.</p>
   </div>
 </div>
@@ -265,13 +283,26 @@ author_profile: true
   </div>
 </div>
 
+</div>
+
+<div class="group-section">
+<h2>High School Students</h2>
+
 <div class="member-card">
-  <img src="/images/group/suoi-nguon-pham.jpg" alt="Suoi-Nguon Pham" class="member-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
+  <img src="/images/group/khushi-karthikeyan.jpg" alt="Khushi Karthikeyan" class="member-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
   <div class="member-photo-placeholder" style="display:none;">No photo</div>
   <div class="member-info">
-    <h3>Suoi-Nguon Pham</h3>
-    <p class="role">Undergraduate Student, UC San Diego (B.S. Astronomy &amp; Astrophysics)</p>
-    <p>His research focuses on investigating several different formation channels for binary black hole pairs, specifically those formed from primordial black holes, and comparatively analyzing them in relation to binary black holes formed from pairs of stars or from within globular clusters.</p>
+    <h3>Khushi Karthikeyan</h3>
+    <p class="role">High School Student (Astronomy) &mdash; <a href="mailto:kjkarthikeyan1@gmail.com">kjkarthikeyan1@gmail.com</a></p>
+  </div>
+</div>
+
+<div class="member-card">
+  <img src="/images/group/meera-desawale.jpg" alt="Meera Desawale" class="member-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
+  <div class="member-photo-placeholder" style="display:none;">No photo</div>
+  <div class="member-info">
+    <h3>Meera Desawale</h3>
+    <p class="role">High School Student (Astronomy) &mdash; <a href="mailto:desawale.meera@gmail.com">desawale.meera@gmail.com</a></p>
   </div>
 </div>
 </div>
@@ -300,16 +331,6 @@ author_profile: true
 </div>
 
 <div class="member-card">
-  <img src="/images/group/angel-hernandez.jpg" alt="Ángel Hernández" class="member-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
-  <div class="member-photo-placeholder" style="display:none;">No photo</div>
-  <div class="member-info">
-    <h3>Ángel Hernández</h3>
-    <p class="role">Incoming Master's Student, DePaul University</p>
-    <p>Ángel's current interests include massive stars, high-energy astrophysics, and observational astronomy. He is working on a computational astrophysics project focused on massive star formation using the population synthesis code Cogsworth. Outside of studying the universe, he enjoys playing guitar, going on walks with his dog Rocco, and eating cookies.</p>
-  </div>
-</div>
-
-<div class="member-card">
   <img src="/images/group/caua-rodrigues.png" alt="Cauã Rodrigues" class="member-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
   <div class="member-photo-placeholder" style="display:none;">No photo</div>
   <div class="member-info">
@@ -319,15 +340,6 @@ author_profile: true
   </div>
 </div>
 
-<div class="member-card">
-  <img src="/images/group/feranmi-falodun.jpg" alt="Feranmi Falodun" class="member-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
-  <div class="member-photo-placeholder" style="display:none;">No photo</div>
-  <div class="member-info">
-    <h3>Feranmi Falodun</h3>
-    <p class="role">Undergraduate Student, California State University, East Bay</p>
-    <p>Feranmi is studying Computer Engineering. She is working on a project that analyzes binary black hole merger rates and their properties across redshift using StarTrack.</p>
-  </div>
-</div>
 
 </div>
 
