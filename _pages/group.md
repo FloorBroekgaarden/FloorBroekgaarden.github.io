@@ -403,6 +403,31 @@ author_profile: true
   </div>
 </div>
 
+<div class="member-card">
+  <div class="member-photo-placeholder">No photo</div>
+  <div class="member-info">
+    <h3>Danielle Smart</h3>
+    <p class="role">CENCE Bridge Program (main advisor: Ana Lam), 2024–2025</p>
+  </div>
+</div>
+
+<div class="member-card">
+  <div class="member-photo-placeholder">No photo</div>
+  <div class="member-info">
+    <h3>Ana Lam</h3>
+    <p class="role">MSc Student, CUNY/CCA, 2023–2025</p>
+  </div>
+</div>
+
+<div class="member-card">
+  <img src="/files/amedeo-romagnolo.jpg" alt="Amedeo Romagnolo" class="member-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
+  <div class="member-photo-placeholder" style="display:none;">No photo</div>
+  <div class="member-info">
+    <h3>Amedeo Romagnolo</h3>
+    <p class="role">MSc/Predoc, UCSD, 2024–2025 &mdash; now Postdoc, University of Padua</p>
+  </div>
+</div>
+
 <h3 style="color: #555; font-size: 1em; margin-bottom: 1em;">2025–2026</h3>
 
 <div class="member-card">
@@ -412,6 +437,64 @@ author_profile: true
     <h3>Esther Park</h3>
     <p class="role">Post-baccalaureate, UC San Diego</p>
     <p>Esther worked on data science for computational astrophysics to understand how massive stars influence the evolution of the universe and their roles as progenitors of gravitational-wave sources. She practices kendo outside of research!</p>
+  </div>
+</div>
+
+<h3 style="color: #555; font-size: 1em; margin-bottom: 1em;">2022–2024</h3>
+
+<div class="member-card">
+  <div class="member-photo-placeholder">No photo</div>
+  <div class="member-info">
+    <h3>Adam Boesky</h3>
+    <p class="role">Undergraduate, Harvard University, 2022–2024 &mdash; now PhD student, Harvard University</p>
+  </div>
+</div>
+
+<h3 style="color: #555; font-size: 1em; margin-bottom: 1em;">2022–2023</h3>
+
+<div class="member-card">
+  <div class="member-photo-placeholder">No photo</div>
+  <div class="member-info">
+    <h3>Simone Abeti</h3>
+    <p class="role">Undergraduate, Milan University, Italy, 2022–2023</p>
+  </div>
+</div>
+
+<h3 style="color: #555; font-size: 1em; margin-bottom: 1em;">2021–2022</h3>
+
+<div class="member-card">
+  <div class="member-photo-placeholder">No photo</div>
+  <div class="member-info">
+    <h3>Kaylie Hausknecht</h3>
+    <p class="role">Undergraduate, Harvard University, 2021–2022</p>
+  </div>
+</div>
+
+<h3 style="color: #555; font-size: 1em; margin-bottom: 1em;">2019–2021</h3>
+
+<div class="member-card">
+  <div class="member-photo-placeholder">No photo</div>
+  <div class="member-info">
+    <h3>Tom Wagg</h3>
+    <p class="role">Undergraduate, Harvard University, 2019–2021 &mdash; now PhD, University of Washington &rarr; CCA Prize Postdoc, Flatiron Institute</p>
+  </div>
+</div>
+
+<h3 style="color: #555; font-size: 1em; margin-bottom: 1em;">2019–2020</h3>
+
+<div class="member-card">
+  <div class="member-photo-placeholder">No photo</div>
+  <div class="member-info">
+    <h3>Loki Khandelwal</h3>
+    <p class="role">MSc Student, University of Amsterdam, The Netherlands, 2019–2020</p>
+  </div>
+</div>
+
+<div class="member-card">
+  <div class="member-photo-placeholder">No photo</div>
+  <div class="member-info">
+    <h3>Floris Kummer</h3>
+    <p class="role">MSc Student, University of Amsterdam, The Netherlands, 2019–2020 &mdash; now PhD student, University of Amsterdam</p>
   </div>
 </div>
 </div>
