@@ -170,15 +170,6 @@ author_profile: true
   </div>
 </div>
 
-<div class="member-card">
-  <img src="/files/esther-park.jpg" alt="Esther Park" class="member-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
-  <div class="member-photo-placeholder" style="display:none;">No photo</div>
-  <div class="member-info">
-    <h3>Esther Park</h3>
-    <p class="role">Post-baccalaureate, UC San Diego</p>
-    <p>Esther works on data science for computational astrophysics to understand how massive stars influence the evolution of the universe and their roles as progenitors of gravitational-wave sources. She practices kendo outside of research!</p>
-  </div>
-</div>
 </div>
 
 <div class="group-section">
@@ -281,6 +272,22 @@ author_profile: true
     <h3>Suoi-Nguon Pham</h3>
     <p class="role">Undergraduate Student, UC San Diego (B.S. Astronomy &amp; Astrophysics)</p>
     <p>His research focuses on investigating several different formation channels for binary black hole pairs, specifically those formed from primordial black holes, and comparatively analyzing them in relation to binary black holes formed from pairs of stars or from within globular clusters.</p>
+  </div>
+</div>
+</div>
+
+<div class="group-section">
+<h2>Past Group Members</h2>
+
+<h3 style="color: #555; font-size: 1em; margin-bottom: 1em;">2025–2026</h3>
+
+<div class="member-card">
+  <img src="/files/esther-park.jpg" alt="Esther Park" class="member-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
+  <div class="member-photo-placeholder" style="display:none;">No photo</div>
+  <div class="member-info">
+    <h3>Esther Park</h3>
+    <p class="role">Post-baccalaureate, UC San Diego</p>
+    <p>Esther worked on data science for computational astrophysics to understand how massive stars influence the evolution of the universe and their roles as progenitors of gravitational-wave sources. She practices kendo outside of research!</p>
   </div>
 </div>
 </div>
