@@ -23,7 +23,9 @@ author_profile: true
 
 <p>Talks are typically given by early-career researchers such as PhD students and postdocs on the job market. The format is flexible: either a single 20–25 minute talk with extended questions and discussion (before, during, or after — depending on what the speaker prefers), or two 25-minute talks each with 5 minutes of Q&amp;A. Meetings are hybrid: in person in <strong>SERF 383</strong> and via Zoom.</p>
 
-<p><strong>Organizers:</strong> Floor Broekgaarden, Kyle Kremer, and Ethan Nadler</p>
+<p><strong>Organizers:</strong> Floor Broekgaarden, Kyle Kremer, Ethan Nadler, and Melanie Santiago</p>
+
+<p><strong>Organizers 2024–2025:</strong> Floor Broekgaarden, Kyle Kremer, Ethan Nadler, and Thomas Wong</p>
 
 <p><strong>When:</strong> Thursdays, 11:00am PT (time may vary — see schedule below)</p>
 
