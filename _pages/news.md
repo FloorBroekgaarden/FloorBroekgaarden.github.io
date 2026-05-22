@@ -18,8 +18,39 @@ author_profile: true
 </div>
 
 <div class="news-item">
+  <div class="news-date">May 8, 2026</div>
+  <div class="news-text">
+    <img src="/images/sd100-finish.png" class="news-img" alt="SD100 finish line">
+    Ran 100 miles this weekend at SD100. What an experience! ❤️
+    <br><br>
+    When I moved to San Diego two years ago, life felt overwhelming at times — a new job, visa uncertainty, being far away from friends and family, and trying to build a new life from scratch. But somewhere along the way, I completely fell in love with this place — and especially with its people. The running community here has been such an unexpected gift: inspiring, supportive, adventurous, nature-loving humans who genuinely show up for one another.
+    <br><br>
+    Running 100 miles was something I genuinely never thought I could do. Especially with ~15,000 feet of elevation gain — which feels pretty absurd for someone who grew up in one of the flattest places imaginable 😅. And doing it while balancing the chaos, stress, failures, and self-doubt that come with a busy academic career often made it feel even more impossible.
+    <br><br>
+    This race became a reminder to myself that things that seem impossible sometimes can be done — step by step, mile by mile, with the help of an amazing community around you. So proud. So grateful. So thankful. ❤️
+    <br><br>
+    <img src="/images/sd100-trail.png" style="width: 100%; max-width: 400px; border-radius: 4px;" alt="SD100 trail">
+  </div>
+</div>
+
+<div class="news-item">
+  <div class="news-date">May 15, 2026</div>
+  <div class="news-text">We are co-organizing the <a href="https://indico.cern.ch/event/1654479/">Fast Machine Learning for Science Conference 2026</a>, taking place August 31 – September 4 at UC San Diego! The conference explores emerging ML methods and their applications in scientific discovery, with topics spanning accelerated inference, algorithm design, and applications across physics, genomics, climate science, and more. Abstract submission is now open — standard abstracts due June 1, extended abstracts (4-page papers) due June 15.</div>
+</div>
+
+<div class="news-item">
   <div class="news-date">Apr 1, 2026</div>
   <div class="news-text">Khushi Karthikeyan's research on black hole seeds in our group was highlighted in <em>Science News Explores</em>, a science magazine for high school students. <a href="https://www.snexplores.org/article/supermassive-black-holes-ancient-stars">[article]</a></div>
+</div>
+
+<div class="news-item">
+  <div class="news-date">Mar 22, 2026</div>
+  <div class="news-text"><img src="/images/software-citation-workshop-2026.png" class="news-img" alt="Software Citation Workshop 2026">Had a blast organizing the Software Citation Workshop at UC San Diego's School of Physical Sciences &amp; San Diego Supercomputer Center, with great contributions and discussions from a broad range of participants and experts. Made possible by the amazing support of a NASA HPOSS grant. ✨ Our improved <a href="https://lnkd.in/gC26Q7Ef">Software Citation Station</a> is publicly available, and we will soon share more exciting outcomes from the workshop — full of hackathons, discussions, and (of course!) some beach volleyball. 🌟</div>
+</div>
+
+<div class="news-item">
+  <div class="news-date">Mar 22, 2026</div>
+  <div class="news-text">Congratulations to group alumna Feranmi Falodun, who is starting a new position as a SULI Intern at Lawrence Berkeley National Laboratory, working within the Computing Sciences department!</div>
 </div>
 
 <div class="news-item">
@@ -28,8 +59,33 @@ author_profile: true
 </div>
 
 <div class="news-item">
+  <div class="news-date">Feb 24, 2026</div>
+  <div class="news-text">Group member Amedeo Romagnolo launched the <a href="https://amedeorom.github.io/Stellar_Winds_Atlas/">Stellar Winds Explorer</a> website, an interactive resource accompanying the Stellar Winds Atlas paper.</div>
+</div>
+
+<div class="news-item">
   <div class="news-date">Feb 21, 2026</div>
   <div class="news-text">Received an honorable mention for the 2026 <a href="https://bssw.io/pages/meet-our-fellows">Better Scientific Software (BSSw) Fellowship Program</a>, recognizing work on advancing software citation practices to make astronomical research more reproducible and transparent.</div>
+</div>
+
+<div class="news-item">
+  <div class="news-date">Feb 1, 2026</div>
+  <div class="news-text"><img src="/images/levina2026_fig.png" class="news-img" alt="Sasha Levina 2026 paper figure">Huge congrats to PhD student Sasha Levina on her first first-author paper, out on arXiv today! 🎉 Sasha links cosmic star formation histories with stellar evolution models to explore how binary black hole (BBH) merger populations evolve across cosmic time. A key finding: the analytical star formation history fits commonly used in the field don't accurately represent the true underlying star formation rate, often imprinting artificial features in BBH distribution predictions — including an overly strong peak near ~8 M☉. Sasha is now working on making TNG star formation rate models more accessible to the BBH modeling community. All code to reproduce the work is publicly available. <a href="https://lnkd.in/gE-n2E7B">[arXiv]</a> 🎉</div>
+</div>
+
+<div class="news-item">
+  <div class="news-date">Jan 29, 2026</div>
+  <div class="news-text"><img src="/images/khushi-regeneron-sts-2026.png" class="news-img" alt="Khushi Karthikeyan Regeneron STS Scholar">So proud of high school student Khushi Karthikeyan, who has been recognized as a <a href="https://lnkd.in/gdhxy_xq">Regeneron Science Talent Search Scholar</a> 💫! The Regeneron STS is the nation's oldest and most prestigious science and math competition for high school seniors. Khushi worked with Amedeo Romagnolo and Floor Broekgaarden in the GW Paleontology group this summer, studying the formation of intermediate-mass black holes. Her project: <em>The Supermassive Problem: Probing Potential Stellar Formation Pathways of Intermediate-Mass Black Holes</em>. Fingers crossed for the top 40 finalists announcement on January 21! 🤞</div>
+</div>
+
+<div class="news-item">
+  <div class="news-date">Jan 19, 2026</div>
+  <div class="news-text">
+    <img src="/images/smash-hackathon-2026-banner.png" class="news-img" alt="UCSD SMASH & NSF HDR ML Hackathon 2026">
+    The 2nd Annual UCSD SMASH &amp; NSF HDR ML Hackathon concluded — and it was a tremendous success! A special shout-out to student Sonata Simonaitis-Boyd, who did a fantastic job as lead organizer. Many thanks also to Prof. Javier Duarte and Prof. Liang Yang for their huge contributions, and to all the HDSI, A&amp;A, and Physics volunteers. The event was supported by the UCSD Strategic Convene and Influence Award. Teams tackled three scientific ML challenges: beetles as sentinel taxa, forecasting monkey motor neuron behavior, and predicting coastal flooding events.
+    <br><br>
+    <img src="/images/smash-hackathon-2026-awards.png" style="width: 48%; border-radius: 4px; margin-right: 2%;" alt="Hackathon awards ceremony"><img src="/images/smash-hackathon-2026-lecture.png" style="width: 48%; border-radius: 4px;" alt="Hackathon lecture hall">
+  </div>
 </div>
 
 <div class="news-item">

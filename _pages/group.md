@@ -293,7 +293,7 @@ author_profile: true
   <div class="member-photo-placeholder" style="display:none;">No photo</div>
   <div class="member-info">
     <h3>Khushi Karthikeyan</h3>
-    <p class="role">High School Student (Astronomy) &mdash; <a href="mailto:kjkarthikeyan1@gmail.com">kjkarthikeyan1@gmail.com</a></p>
+    <p class="role">High School Student (Astronomy) &mdash; incoming undergraduate, University of Chicago &mdash; <a href="mailto:kjkarthikeyan1@gmail.com">kjkarthikeyan1@gmail.com</a></p>
   </div>
 </div>
 
