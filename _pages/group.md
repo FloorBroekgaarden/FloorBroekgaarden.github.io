@@ -277,22 +277,6 @@ author_profile: true
 </div>
 
 <div class="group-section">
-<h2>Past Group Members</h2>
-
-<h3 style="color: #555; font-size: 1em; margin-bottom: 1em;">2025–2026</h3>
-
-<div class="member-card">
-  <img src="/files/esther-park.jpg" alt="Esther Park" class="member-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
-  <div class="member-photo-placeholder" style="display:none;">No photo</div>
-  <div class="member-info">
-    <h3>Esther Park</h3>
-    <p class="role">Post-baccalaureate, UC San Diego</p>
-    <p>Esther worked on data science for computational astrophysics to understand how massive stars influence the evolution of the universe and their roles as progenitors of gravitational-wave sources. She practices kendo outside of research!</p>
-  </div>
-</div>
-</div>
-
-<div class="group-section">
 <h2>Visiting Researchers &amp; External Collaborators</h2>
 
 <div class="member-card">
@@ -345,4 +329,20 @@ author_profile: true
   </div>
 </div>
 
+</div>
+
+<div class="group-section">
+<h2>Past Group Members</h2>
+
+<h3 style="color: #555; font-size: 1em; margin-bottom: 1em;">2025–2026</h3>
+
+<div class="member-card">
+  <img src="/files/esther-park.jpg" alt="Esther Park" class="member-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
+  <div class="member-photo-placeholder" style="display:none;">No photo</div>
+  <div class="member-info">
+    <h3>Esther Park</h3>
+    <p class="role">Post-baccalaureate, UC San Diego</p>
+    <p>Esther worked on data science for computational astrophysics to understand how massive stars influence the evolution of the universe and their roles as progenitors of gravitational-wave sources. She practices kendo outside of research!</p>
+  </div>
+</div>
 </div>
