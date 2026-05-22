@@ -135,6 +135,16 @@ author_profile: true
     <p>Shasha is a 4th-year PhD candidate specializing in particle astrophysics and cosmology. His research examines the thermal and gravitational signatures of primordial black holes in the early universe, the formation and stability of supermassive stars, and the interplay between ground-based experiments and cosmological probes of neutrinos. He also leads the Simons Array search for axion-like dark matter signatures and develops N-body gravitational evolution codes. In his free time, he plays violin, reads Proust and Dostoevsky, paints in watercolor, and each year disappears into Paris for a few weeks.</p>
   </div>
 </div>
+
+<div class="member-card">
+  <img src="/images/group/tyler-smith.jpg" alt="Tyler B. Smith" class="member-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
+  <div class="member-photo-placeholder" style="display:none;">No photo</div>
+  <div class="member-info">
+    <h3>Tyler B. Smith</h3>
+    <p class="role">NSF Graduate Research Fellow, UC Irvine &mdash; Upcoming Postdoc, USC &mdash; tylerbs@uci.edu</p>
+    <p>Tyler's research is focused on black holes, dark matter, and neutrinos. He combines theoretical modeling with computational methods to develop predictions testable against LIGO-Virgo-KAGRA and JWST data. He is deeply committed to mentorship and community building through SACNAS and the Physics and Community Excellence Program (PACE). Beyond academia he enjoys weightlifting and spending time with his family at the beach.</p>
+  </div>
+</div>
 </div>
 
 <div class="group-section">
@@ -295,16 +305,6 @@ author_profile: true
     <h3>Phil Van-Lane</h3>
     <p class="role">PhD Candidate, University of Toronto &mdash; Visiting Graduate Student, UC San Diego</p>
     <p>Phil's research is focused on developing statistical, machine learning, and AI methodologies to study variability in low-mass stars, with the goal of improving age constraints for exoplanet hosts. Outside of work, he loves backcountry camping, canoeing, hiking, and sports such as hockey, tennis, and triathlons (and now surfing!).</p>
-  </div>
-</div>
-
-<div class="member-card">
-  <img src="/images/group/tyler-smith.jpg" alt="Tyler B. Smith" class="member-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
-  <div class="member-photo-placeholder" style="display:none;">No photo</div>
-  <div class="member-info">
-    <h3>Tyler B. Smith</h3>
-    <p class="role">NSF Graduate Research Fellow, UC Irvine &mdash; Upcoming Postdoc, USC &mdash; tylerbs@uci.edu</p>
-    <p>Tyler's research is focused on black holes, dark matter, and neutrinos. He combines theoretical modeling with computational methods to develop predictions testable against LIGO-Virgo-KAGRA and JWST data. He is deeply committed to mentorship and community building through SACNAS and the Physics and Community Excellence Program (PACE). Beyond academia he enjoys weightlifting and spending time with his family at the beach.</p>
   </div>
 </div>
 
