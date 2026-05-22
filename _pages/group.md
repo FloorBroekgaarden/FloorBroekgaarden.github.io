@@ -117,6 +117,16 @@ author_profile: true
 </div>
 
 <div class="member-card">
+  <img src="/images/group/alex-migala.jpg" alt="Alexander Migala" class="member-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
+  <div class="member-photo-placeholder" style="display:none;">No photo</div>
+  <div class="member-info">
+    <h3>Alexander (Alex) Migala</h3>
+    <p class="role">Physics PhD Student, UC San Diego &mdash; <a href="https://physics.ucsd.edu/people/profile?id=amigala">profile</a></p>
+    <p>Alex's research focuses on understanding the massive stars probed by binary black hole mergers detected by LIGO-Virgo-KAGRA, and in particular what stellar environments — especially metallicity — these gravitational-wave sources are tracing across cosmic history.</p>
+  </div>
+</div>
+
+<div class="member-card">
   <img src="/files/shasha-arani.jpg" alt="Shasha Arani" class="member-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
   <div class="member-photo-placeholder" style="display:none;">No photo</div>
   <div class="member-info">
