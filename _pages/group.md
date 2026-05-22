@@ -334,6 +334,75 @@ author_profile: true
 <div class="group-section">
 <h2>Past Group Members</h2>
 
+<h3 style="color: #555; font-size: 1em; margin-bottom: 1em;">2024–2025</h3>
+
+<div class="member-card">
+  <div class="member-photo-placeholder">No photo</div>
+  <div class="member-info">
+    <h3>Jayjanth Bharadwaj</h3>
+    <p class="role">Undergraduate Student (Astronomy), UC San Diego</p>
+  </div>
+</div>
+
+<div class="member-card">
+  <div class="member-photo-placeholder">No photo</div>
+  <div class="member-info">
+    <h3>Hanan Sayes</h3>
+    <p class="role">Summer Student, Undergraduate (Astronomy), UC San Diego</p>
+  </div>
+</div>
+
+<div class="member-card">
+  <img src="/images/group/feranmi-falodun.jpg" alt="Feranmi Falodun" class="member-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
+  <div class="member-photo-placeholder" style="display:none;">No photo</div>
+  <div class="member-info">
+    <h3>Feranmi Falodun</h3>
+    <p class="role">CalBridge Fellow, Undergraduate (Astronomy), California State University, East Bay &mdash; now SULI Intern, Lawrence Berkeley National Laboratory</p>
+  </div>
+</div>
+
+<div class="member-card">
+  <img src="/images/group/suoi-nguon-pham.jpg" alt="Suoi-Nguon Pham" class="member-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
+  <div class="member-photo-placeholder" style="display:none;">No photo</div>
+  <div class="member-info">
+    <h3>Suoi-Nguon Pham</h3>
+    <p class="role">STARTastro Fellow, Undergraduate (Astronomy), UC San Diego</p>
+  </div>
+</div>
+
+<div class="member-card">
+  <img src="/images/group/angel-hernandez.jpg" alt="Ángel Hernández" class="member-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
+  <div class="member-photo-placeholder" style="display:none;">No photo</div>
+  <div class="member-info">
+    <h3>Ángel Hernández</h3>
+    <p class="role">Summer Student, MSc Student (Astronomy) &mdash; <a href="mailto:Angel.Hernandez@colorado.edu">Angel.Hernandez@colorado.edu</a></p>
+  </div>
+</div>
+
+<div class="member-card">
+  <div class="member-photo-placeholder">No photo</div>
+  <div class="member-info">
+    <h3>Alexis Vazquez</h3>
+    <p class="role">CalBridge Fellow, Undergraduate (Astronomy), UC San Diego</p>
+  </div>
+</div>
+
+<div class="member-card">
+  <div class="member-photo-placeholder">No photo</div>
+  <div class="member-info">
+    <h3>Ayanah Cason</h3>
+    <p class="role">Virtual Student, MSc (Astronomy) &mdash; <a href="mailto:ayanah1121@gmail.com">ayanah1121@gmail.com</a></p>
+  </div>
+</div>
+
+<div class="member-card">
+  <div class="member-photo-placeholder">No photo</div>
+  <div class="member-info">
+    <h3>Prajakta Saraf</h3>
+    <p class="role">MSc Student, Computer Science, UC San Diego &mdash; <a href="mailto:pssaraf@ucsd.edu">pssaraf@ucsd.edu</a></p>
+  </div>
+</div>
+
 <h3 style="color: #555; font-size: 1em; margin-bottom: 1em;">2025–2026</h3>
 
 <div class="member-card">
