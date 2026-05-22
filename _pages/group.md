@@ -424,7 +424,8 @@ author_profile: true
 </div>
 
 <div class="member-card">
-  <div class="member-photo-placeholder">No photo</div>
+  <img src="/images/group/ana-lam.jpg" alt="Ana Lam" class="member-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
+  <div class="member-photo-placeholder" style="display:none;">No photo</div>
   <div class="member-info">
     <h3>Ana Lam</h3>
     <p class="role">MSc Student, CUNY/CCA, 2023–2025</p>
