@@ -9,7 +9,7 @@ author_profile: true
 .news-item { display: flex; gap: 1.2em; padding: 0.6em 0; border-bottom: 1px solid #f0f0f0; }
 .news-date { min-width: 110px; color: #666; font-size: 0.9em; padding-top: 0.1em; }
 .news-text { font-size: 0.95em; overflow: hidden; }
-.news-img { float: right; margin-left: 1em; margin-bottom: 0.3em; width: 120px; height: auto; border-radius: 4px; }
+.news-img { float: right; margin-left: 1em; margin-bottom: 0.3em; width: 240px; height: auto; border-radius: 4px; }
 </style>
 
 <div class="news-item">
