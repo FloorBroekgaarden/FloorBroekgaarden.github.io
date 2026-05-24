@@ -37,6 +37,16 @@ author_profile: true
 </div>
 
 <div class="media-section">
+<h2>Pictures of the Group</h2>
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1em; margin-top: 1em;">
+  <img src="/images/group-photo-campus.png" alt="GW Paleontology group on campus" style="width: 100%; border-radius: 6px; object-fit: cover;">
+  <img src="/images/group-photo-neptune.png" alt="GW Paleontology group at Neptune statue" style="width: 100%; border-radius: 6px; object-fit: cover;">
+  <img src="/images/group-photo-conference.png" alt="GW Paleontology group at conference" style="width: 100%; border-radius: 6px; object-fit: cover;">
+  <img src="/images/group-photo-neptune-2.png" alt="GW Paleontology group at Neptune statue" style="width: 100%; border-radius: 6px; object-fit: cover;">
+</div>
+</div>
+
+<div class="media-section">
 <h2>Recorded Talks</h2>
 <ul class="media-list">
   <li>

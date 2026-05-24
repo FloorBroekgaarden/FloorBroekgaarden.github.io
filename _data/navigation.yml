@@ -22,6 +22,9 @@ main:
   - title: "STRAND"
     url: /strand/
 
+  - title: "SMASH AI"
+    url: /smash/
+
   - title: "Interactive Figures"
     url: /interactive-figures/
 
