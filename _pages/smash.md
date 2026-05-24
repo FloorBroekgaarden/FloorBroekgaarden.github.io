@@ -10,6 +10,8 @@ author_profile: true
 .smash-intro h2 { border-bottom: 1px solid #ccc; padding-bottom: 0.3em; margin: 1.6em 0 0.7em; }
 </style>
 
+<img src="/images/smash-banner.png" alt="SMASH banner" style="width: 100%; border-radius: 6px; margin-bottom: 1.5em;">
+
 <div class="smash-intro">
 
 <img src="/images/smash-logo.png" alt="SMASH logo" style="width: 160px; float: right; margin: 0 0 1em 1.5em;">
