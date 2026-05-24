@@ -109,8 +109,18 @@ author_profile: true
 </div>
 
 <div class="news-item">
+  <div class="news-date">Nov 20, 2025</div>
+  <div class="news-text">Quoted in <a href="https://www.scientificamerican.com/article/new-research-shows-how-ai-could-transform-math-physics-cancer-research-and/"><em>Scientific American</em></a> on how AI could transform physics research.</div>
+</div>
+
+<div class="news-item">
   <div class="news-date">Aug 26, 2025</div>
   <div class="news-text"><img src="https://www.broekgaarden.nl/floor/wordpress/wp-content/uploads/2025/08/Screenshot-2025-08-26-at-2.23.03%20PM-300x169.png" class="news-img" alt="">New gravitational-wave results released from LIGO, Virgo, and KAGRA (GWTC-4). I made an astrophysics-focused summary of the new catalog. <a href="https://docs.google.com/document/d/1eiVeKh0Q3A9h_569n5Thm89uYJdg7NHL9OeM5wGs4Uw/edit?usp=sharing">[summary]</a></div>
+</div>
+
+<div class="news-item">
+  <div class="news-date">Aug 21, 2025</div>
+  <div class="news-text"><img src="/images/summer-research-presentations-2025.png" class="news-img" alt="Summer research presentations 2025">Fantastic final presentations at the conference for undergraduate summer research by Saina, Manasvini, Laya, and Esther (left to right) from the Gravitational-Wave Paleontology group!</div>
 </div>
 
 <div class="news-item">
@@ -181,6 +191,31 @@ author_profile: true
 <div class="news-item">
   <div class="news-date">May 2, 2025</div>
   <div class="news-text"><img src="https://www.broekgaarden.nl/floor/wordpress/wp-content/uploads/2025/08/thumbnail_IMG_1893.jpg" class="news-img" alt="">Gave a public talk on Black Hole Paleontology at UC San Diego to celebrate the launch of the new Astronomy department. <a href="https://www.youtube.com/watch?v=cJj191cJSPg&t=2482s">[video]</a></div>
+</div>
+
+<div class="news-item">
+  <div class="news-date">Apr 22, 2025</div>
+  <div class="news-text"><img src="/images/stand-up-for-science-2025.png" class="news-img" alt="Stand Up for Science protest UCSD">Joined the UCSD protest to stand up for science in the USA.</div>
+</div>
+
+<div class="news-item">
+  <div class="news-date">Mar 13, 2025</div>
+  <div class="news-text">
+    <img src="/images/adam-riess-visit-2025-1.png" class="news-img" alt="Adam Riess virtual visit">
+    Honored that Prof. and Nobel Prize winner Adam Riess visited virtually my ASTR 121 class today at UCSD to have a Q&amp;A with our Explosive Universe students.
+    <br><br>
+    <img src="/images/adam-riess-visit-2025-2.png" style="width: 100%; max-width: 400px; border-radius: 4px;" alt="Adam Riess Q&A ASTR 121">
+  </div>
+</div>
+
+<div class="news-item">
+  <div class="news-date">Feb 20, 2025</div>
+  <div class="news-text"><img src="/images/aas-meeting-group-2025.jpg" class="news-img" alt="GW Paleontology group at AAS meeting">Group picture at the AAS Meeting!</div>
+</div>
+
+<div class="news-item">
+  <div class="news-date">Feb 27, 2025</div>
+  <div class="news-text"><img src="/images/ana-lam-strand-seminar-2025.png" class="news-img" alt="Ana Lam STRAND seminar">Ana Lam gave the STRAND seminar at UCSD on her work on quantifying survival fractions in binary stellar evolution.</div>
 </div>
 
 <div class="news-item">
