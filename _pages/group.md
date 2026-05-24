@@ -83,7 +83,7 @@ author_profile: true
 </div>
 
 <div class="member-card">
-  <img src="/files/marko-ristic.jpg" alt="Marko Ristić" class="member-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
+  <img src="/images/marko-ristic.jpg" alt="Marko Ristić" class="member-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
   <div class="member-photo-placeholder" style="display:none;">No photo</div>
   <div class="member-info">
     <h3>Marko Ristić</h3>
@@ -176,21 +176,12 @@ author_profile: true
 <h2>Undergraduate Students</h2>
 
 <div class="member-card">
-  <img src="/images/group/alexandre-franco.jpg" alt="Alexandre Riddell Franco" class="member-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
+  <img src="/images/group/laya-binu.png" alt="Laya Binu" class="member-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
   <div class="member-photo-placeholder" style="display:none;">No photo</div>
   <div class="member-info">
-    <h3>Alexandre Riddell Franco</h3>
-    <p class="role">1st-year Undergraduate Student (Astronomy), UC San Diego &mdash; <a href="mailto:ariddellfranco@ucsd.edu">ariddellfranco@ucsd.edu</a></p>
-  </div>
-</div>
-
-<div class="member-card">
-  <img src="/images/group/joseph-rodriguez.jpg" alt="Joseph Rodriguez" class="member-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
-  <div class="member-photo-placeholder" style="display:none;">No photo</div>
-  <div class="member-info">
-    <h3>Joseph Rodriguez (he/him)</h3>
-    <p class="role">Undergraduate Student, UC San Diego &mdash; jrodriguezruelas@ucsd.edu</p>
-    <p>Joseph studies the origin and diversity of gamma-ray bursts by combining binary population synthesis (COMPAS) with cosmological modeling. His work uses binary neutron star and neutron star–black hole merger populations to predict the rates, properties, and offset distributions of merger-driven GRBs across cosmic time. He's also VP of the Astronomy Club at UCSD. Off the clock, you'll find him behind a camera, on a tennis court, or out under the stars.</p>
+    <h3>Laya Binu</h3>
+    <p class="role">Undergraduate Student, UC San Diego</p>
+    <p>Laya is majoring in Astronomy and Astrophysics. She is working on a project using StarTrack data to investigate the rates of binary black holes and binary neutron stars across redshift.</p>
   </div>
 </div>
 
@@ -215,51 +206,21 @@ author_profile: true
 </div>
 
 <div class="member-card">
-  <img src="/images/group/eugene-shang.jpg" alt="Eugene Shang" class="member-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
+  <img src="/images/group/alexandre-franco.jpg" alt="Alexandre Riddell Franco" class="member-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
   <div class="member-photo-placeholder" style="display:none;">No photo</div>
   <div class="member-info">
-    <h3>Eugene Shang</h3>
-    <p class="role">2nd-year Undergraduate Student (Mathematics), UC San Diego &mdash; <a href="mailto:eshang@ucsd.edu">eshang@ucsd.edu</a></p>
+    <h3>Alexandre Riddell Franco</h3>
+    <p class="role">1st-year Undergraduate Student (Astronomy), UC San Diego &mdash; <a href="mailto:ariddellfranco@ucsd.edu">ariddellfranco@ucsd.edu</a></p>
   </div>
 </div>
 
 <div class="member-card">
-  <img src="/images/group/harry-miao.jpg" alt="Haoyu (Harry) Miao" class="member-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
+  <img src="/images/group/saina-kadni.jpg" alt="Saina Kadni" class="member-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
   <div class="member-photo-placeholder" style="display:none;">No photo</div>
   <div class="member-info">
-    <h3>Haoyu (Harry) Miao</h3>
-    <p class="role">1st-year Undergraduate Student (Physics), UC San Diego &mdash; <a href="mailto:h3miao@ucsd.edu">h3miao@ucsd.edu</a></p>
-    <p>Harry is majoring in Physics. His research focuses on computational astrophysics and binary stellar evolution. He works with the binary population synthesis framework POSYDON to model compact-object binary populations and contribute to the development of the GROWL catalog.</p>
-  </div>
-</div>
-
-<div class="member-card">
-  <img src="/images/group/kera-yu.jpg" alt="Kera Yu" class="member-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
-  <div class="member-photo-placeholder" style="display:none;">No photo</div>
-  <div class="member-info">
-    <h3>Kera Yu</h3>
+    <h3>Saina Kadni</h3>
     <p class="role">Undergraduate Student, UC San Diego</p>
-    <p>Kera is majoring in Physics with Specialization in Astrophysics. She is working on delay-time distributions and offsets of compact binary mergers.</p>
-  </div>
-</div>
-
-<div class="member-card">
-  <img src="/images/group/laya-binu.png" alt="Laya Binu" class="member-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
-  <div class="member-photo-placeholder" style="display:none;">No photo</div>
-  <div class="member-info">
-    <h3>Laya Binu</h3>
-    <p class="role">Undergraduate Student, UC San Diego</p>
-    <p>Laya is majoring in Astronomy and Astrophysics. She is working on a project using StarTrack data to investigate the rates of binary black holes and binary neutron stars across redshift.</p>
-  </div>
-</div>
-
-<div class="member-card">
-  <img src="/images/group/matthew-mccall.png" alt="Matthew McCall" class="member-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
-  <div class="member-photo-placeholder" style="display:none;">No photo</div>
-  <div class="member-info">
-    <h3>Matthew McCall</h3>
-    <p class="role">Undergraduate Student, UC San Diego &mdash; mmccall@ucsd.edu</p>
-    <p>Matthew is studying Astronomy and Astrophysics. His research previously focused on using SEVN data with Cosmic Integration code to calculate mass distributions and merger rates for binary black holes. He now works with COMPAS data to determine bottlenecks of double compact object formation.</p>
+    <p>Saina is majoring in Physics with a specialization in Astrophysics. She is working on a project using COMPAS data to investigate models with different cosmic integration assumptions, and how these impact the expected properties and rates of binary black holes.</p>
   </div>
 </div>
 
@@ -274,12 +235,51 @@ author_profile: true
 </div>
 
 <div class="member-card">
-  <img src="/images/group/saina-kadni.jpg" alt="Saina Kadni" class="member-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
+  <img src="/images/group/matthew-mccall.png" alt="Matthew McCall" class="member-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
   <div class="member-photo-placeholder" style="display:none;">No photo</div>
   <div class="member-info">
-    <h3>Saina Kadni</h3>
+    <h3>Matthew McCall</h3>
+    <p class="role">Undergraduate Student, UC San Diego &mdash; mmccall@ucsd.edu</p>
+    <p>Matthew is studying Astronomy and Astrophysics. His research previously focused on using SEVN data with Cosmic Integration code to calculate mass distributions and merger rates for binary black holes. He now works with COMPAS data to determine bottlenecks of double compact object formation.</p>
+  </div>
+</div>
+
+<div class="member-card">
+  <img src="/images/group/harry-miao.jpg" alt="Haoyu (Harry) Miao" class="member-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
+  <div class="member-photo-placeholder" style="display:none;">No photo</div>
+  <div class="member-info">
+    <h3>Haoyu (Harry) Miao</h3>
+    <p class="role">1st-year Undergraduate Student (Physics), UC San Diego &mdash; <a href="mailto:h3miao@ucsd.edu">h3miao@ucsd.edu</a></p>
+    <p>Harry is majoring in Physics. His research focuses on computational astrophysics and binary stellar evolution. He works with the binary population synthesis framework POSYDON to model compact-object binary populations and contribute to the development of the GROWL catalog.</p>
+  </div>
+</div>
+
+<div class="member-card">
+  <img src="/images/group/joseph-rodriguez.jpg" alt="Joseph Rodriguez" class="member-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
+  <div class="member-photo-placeholder" style="display:none;">No photo</div>
+  <div class="member-info">
+    <h3>Joseph Rodriguez (he/him)</h3>
+    <p class="role">Undergraduate Student, UC San Diego &mdash; jrodriguezruelas@ucsd.edu</p>
+    <p>Joseph studies the origin and diversity of gamma-ray bursts by combining binary population synthesis (COMPAS) with cosmological modeling. His work uses binary neutron star and neutron star–black hole merger populations to predict the rates, properties, and offset distributions of merger-driven GRBs across cosmic time. He's also VP of the Astronomy Club at UCSD. Off the clock, you'll find him behind a camera, on a tennis court, or out under the stars.</p>
+  </div>
+</div>
+
+<div class="member-card">
+  <img src="/images/group/eugene-shang.jpg" alt="Eugene Shang" class="member-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
+  <div class="member-photo-placeholder" style="display:none;">No photo</div>
+  <div class="member-info">
+    <h3>Eugene Shang</h3>
+    <p class="role">2nd-year Undergraduate Student (Mathematics), UC San Diego &mdash; <a href="mailto:eshang@ucsd.edu">eshang@ucsd.edu</a></p>
+  </div>
+</div>
+
+<div class="member-card">
+  <img src="/images/group/kera-yu.jpg" alt="Kera Yu" class="member-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
+  <div class="member-photo-placeholder" style="display:none;">No photo</div>
+  <div class="member-info">
+    <h3>Kera Yu</h3>
     <p class="role">Undergraduate Student, UC San Diego</p>
-    <p>Saina is majoring in Physics with a specialization in Astrophysics. She is working on a project using COMPAS data to investigate models with different cosmic integration assumptions, and how these impact the expected properties and rates of binary black holes.</p>
+    <p>Kera is majoring in Physics with Specialization in Astrophysics. She is working on delay-time distributions and offsets of compact binary mergers.</p>
   </div>
 </div>
 
@@ -424,7 +424,8 @@ author_profile: true
 </div>
 
 <div class="member-card">
-  <div class="member-photo-placeholder">No photo</div>
+  <img src="/images/group/ana-lam.jpg" alt="Ana Lam" class="member-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
+  <div class="member-photo-placeholder" style="display:none;">No photo</div>
   <div class="member-info">
     <h3>Ana Lam</h3>
     <p class="role">MSc Student, CUNY/CCA, 2023–2025</p>
@@ -465,7 +466,8 @@ author_profile: true
 <h3 style="color: #555; font-size: 1em; margin-bottom: 1em;">2022–2023</h3>
 
 <div class="member-card">
-  <div class="member-photo-placeholder">No photo</div>
+  <img src="/images/group/simone-abeti.jpg" alt="Simone Abeti" class="member-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
+  <div class="member-photo-placeholder" style="display:none;">No photo</div>
   <div class="member-info">
     <h3>Simone Abeti</h3>
     <p class="role">Undergraduate, Milan University, Italy, 2022–2023</p>

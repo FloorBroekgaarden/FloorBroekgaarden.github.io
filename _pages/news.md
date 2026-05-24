@@ -54,6 +54,11 @@ author_profile: true
 </div>
 
 <div class="news-item">
+  <div class="news-date">Mar 20, 2026</div>
+  <div class="news-text"><img src="/images/meera-desawale-poster-2026.jpg" class="news-img" alt="Meera Desawale poster competition">Congratulations to high school student Meera Desawale on winning 1st place in the Physics and Astronomy category at the Science Poster Competition! 🎉</div>
+</div>
+
+<div class="news-item">
   <div class="news-date">Mar 12, 2026</div>
   <div class="news-text"><img src="/images/shapley-lecturers-2026.png" class="news-img" alt="AAS 2026 Shapley Lecturers">Congratulations to Steffani Grondin on being selected as an <a href="https://aas.org/press/aas-announces-2026-shapley-lecturers">AAS Harlow Shapley Lecturer 2026</a>! The Shapley Lectureship is a prestigious AAS program that brings distinguished astronomers to schools and communities across North America to share the wonder of the Universe — a tradition dating back to 1958.</div>
 </div>
@@ -91,6 +96,16 @@ author_profile: true
 <div class="news-item">
   <div class="news-date">Dec 1, 2025</div>
   <div class="news-text"><img src="/images/iau-g2-cecilia-payne-gaposchkin-lecture.png" class="news-img" alt="IAU G2 Cecilia Payne-Gaposchkin Lecture">Gave the IAU G2 Cecilia Payne-Gaposchkin Lecture as an online invited talk — <em>What Stars Are Made Of</em>: Celebrating 100 Years of Cecilia Payne-Gaposchkin's Revolutionary PhD Thesis. <a href="https://www.youtube.com/watch?v=-Tn5m5QwoY4">[video]</a></div>
+</div>
+
+<div class="news-item">
+  <div class="news-date">Nov 11, 2025</div>
+  <div class="news-text">Mentioned in a <a href="https://today.ucsd.edu/story/second-cohort-of-uc-san-diegos-2025-convene-and-influence-awardees-announced">UC San Diego Today article</a> announcing the 2025 Convene and Influence Awardees, recognizing the SMASH initiative for accelerating cosmic breakthroughs through AI at UC San Diego.</div>
+</div>
+
+<div class="news-item">
+  <div class="news-date">Oct 20, 2025</div>
+  <div class="news-text">Played in the student vs. faculty volleyball match at UCSD! <a href="https://www.instagram.com/reel/DP69tRigCyt/">[reel]</a></div>
 </div>
 
 <div class="news-item">
