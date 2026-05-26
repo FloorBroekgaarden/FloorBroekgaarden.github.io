@@ -34,5 +34,8 @@ main:
   - title: "Media"
     url: /media/
 
+  - title: "Software"
+    url: /software/
+
   - title: "Resources"
     url: /resources/
