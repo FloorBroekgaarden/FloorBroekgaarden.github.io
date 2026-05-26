@@ -189,6 +189,11 @@ author_profile: true
 </div>
 
 <div class="news-item">
+  <div class="news-date">May 11, 2025</div>
+  <div class="news-text">Featured in an interview by Lucas Ellerbroek for <em>NRC</em> (Dutch national newspaper). <a href="https://lucasellerbroek.nl/nrc/interview-met-floor-broekgaarden/">[interview]</a></div>
+</div>
+
+<div class="news-item">
   <div class="news-date">May 2, 2025</div>
   <div class="news-text"><img src="https://www.broekgaarden.nl/floor/wordpress/wp-content/uploads/2025/08/thumbnail_IMG_1893.jpg" class="news-img" alt="">Gave a public talk on Black Hole Paleontology at UC San Diego to celebrate the launch of the new Astronomy department. <a href="https://www.youtube.com/watch?v=cJj191cJSPg&t=2482s">[video]</a></div>
 </div>
