@@ -211,6 +211,7 @@ author_profile: true
   <div class="member-info">
     <h3>Alexandre Riddell Franco</h3>
     <p class="role">1st-year Undergraduate Student (Astronomy), UC San Diego &mdash; <a href="mailto:ariddellfranco@ucsd.edu">ariddellfranco@ucsd.edu</a></p>
+    <p>Alexandre is an undergraduate student at UCSD majoring in Astronomy and Astrophysics. His research focuses on computational astrophysics and binary stellar evolution. He works with the binary population synthesis framework POSYDON to model compact-object binary populations.</p>
   </div>
 </div>
 
@@ -447,10 +448,10 @@ author_profile: true
 <h3 style="color: #555; font-size: 1em; margin-bottom: 1em;">2025–2026</h3>
 
 <div class="member-card">
-  <img src="/files/esther-park.jpg" alt="Esther Park" class="member-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
+  <img src="/images/esther-park.png" alt="Esther Park" class="member-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
   <div class="member-photo-placeholder" style="display:none;">No photo</div>
   <div class="member-info">
-    <h3>Esther Park</h3>
+    <h3><a href="https://www.linkedin.com/in/esther-park-/" style="color:inherit;">Esther Park</a></h3>
     <p class="role">Post-baccalaureate, UC San Diego</p>
     <p>Esther worked on data science for computational astrophysics to understand how massive stars influence the evolution of the universe and their roles as progenitors of gravitational-wave sources. She practices kendo outside of research!</p>
   </div>
