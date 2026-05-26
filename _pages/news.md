@@ -109,13 +109,13 @@ author_profile: true
 </div>
 
 <div class="news-item">
-  <div class="news-date">Oct 20, 2025</div>
-  <div class="news-text">Played in the student vs. faculty volleyball match at UCSD! <a href="https://www.instagram.com/reel/DP69tRigCyt/">[reel]</a></div>
+  <div class="news-date">Nov 20, 2025</div>
+  <div class="news-text">Quoted in <a href="https://www.scientificamerican.com/article/new-research-shows-how-ai-could-transform-math-physics-cancer-research-and/"><em>Scientific American</em></a> on how AI could transform physics research.</div>
 </div>
 
 <div class="news-item">
-  <div class="news-date">Nov 20, 2025</div>
-  <div class="news-text">Quoted in <a href="https://www.scientificamerican.com/article/new-research-shows-how-ai-could-transform-math-physics-cancer-research-and/"><em>Scientific American</em></a> on how AI could transform physics research.</div>
+  <div class="news-date">Oct 20, 2025</div>
+  <div class="news-text">Played in the student vs. faculty volleyball match at UCSD! <a href="https://www.instagram.com/reel/DP69tRigCyt/">[reel]</a></div>
 </div>
 
 <div class="news-item">
