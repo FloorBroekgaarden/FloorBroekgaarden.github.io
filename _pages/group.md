@@ -401,10 +401,12 @@ author_profile: true
 </div>
 
 <div class="member-card">
-  <div class="member-photo-placeholder">No photo</div>
+  <img src="/images/ayanah-cason.png" alt="Ayanah Cason" class="member-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
+  <div class="member-photo-placeholder" style="display:none;">No photo</div>
   <div class="member-info">
-    <h3>Ayanah Cason</h3>
-    <p class="role">Virtual Student, MSc (Astronomy) &mdash; <a href="mailto:ayanah1121@gmail.com">ayanah1121@gmail.com</a></p>
+    <h3><a href="https://www.fisk-vanderbilt-bridge.org/ayanah-cason" style="color:inherit;">Ayanah Cason</a></h3>
+    <p class="role">MSc Student, Fisk-Vanderbilt Bridge Program &mdash; <a href="mailto:ayanah1121@gmail.com">ayanah1121@gmail.com</a></p>
+    <p>I use simulations to investigate the rates and metallicity dependence of suggested progenitors of radio loud- long Gamma-Ray Bursts. I am also interested in ethics and intersection of accessibility and inclusion of sciences.</p>
   </div>
 </div>
 
