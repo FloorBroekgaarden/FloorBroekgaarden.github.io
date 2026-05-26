@@ -34,6 +34,11 @@ author_profile: true
 </div>
 
 <div class="news-item">
+  <div class="news-date">May 26, 2026</div>
+  <div class="news-text">Congratulations to Matthew McCall for getting accepted into the Astrophysics Master's program at USC, where he will start this Fall!</div>
+</div>
+
+<div class="news-item">
   <div class="news-date">May 15, 2026</div>
   <div class="news-text">We are co-organizing the <a href="https://indico.cern.ch/event/1654479/">Fast Machine Learning for Science Conference 2026</a>, taking place August 31 – September 4 at UC San Diego! The conference explores emerging ML methods and their applications in scientific discovery, with topics spanning accelerated inference, algorithm design, and applications across physics, genomics, climate science, and more. Abstract submission is now open — standard abstracts due June 1, extended abstracts (4-page papers) due June 15.</div>
 </div>
