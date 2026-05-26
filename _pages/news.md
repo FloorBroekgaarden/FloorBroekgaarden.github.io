@@ -14,6 +14,13 @@ author_profile: true
 
 <div class="news-item">
   <div class="news-date">May 26, 2026</div>
+  <div class="news-text"><img src="/images/mai-nguyen-smash-talk-2026.jpg" class="news-img" alt="Mai Nguyen SMASH talk">Great SMASH talk today by San Diego Supercomputer Center's expert Mai Nguyen on Cyberinfrastructure for AI-Enabled Science at SDSC 😎 💻
+  <br><br>
+  Talking about all the latest development in computing including <a href="https://nationaldataplatform.org/">National Data Platform</a>, <a href="https://www.sdsc.edu/systems/nrp/index.html">NRP</a>, <a href="https://access-ci.org/">ACCESS</a> and so much more! Happy Computing on Tuesday 🖥️</div>
+</div>
+
+<div class="news-item">
+  <div class="news-date">May 26, 2026</div>
   <div class="news-text">Congratulations to Matthew McCall for getting accepted into the Astrophysics Master's program at USC, where he will start this Fall!</div>
 </div>
 
