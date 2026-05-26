@@ -459,9 +459,10 @@ author_profile: true
 <h3 style="color: #555; font-size: 1em; margin-bottom: 1em;">2022–2024</h3>
 
 <div class="member-card">
-  <div class="member-photo-placeholder">No photo</div>
+  <img src="/images/adam-boesky.png" alt="Adam Boesky" class="member-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
+  <div class="member-photo-placeholder" style="display:none;">No photo</div>
   <div class="member-info">
-    <h3>Adam Boesky</h3>
+    <h3><a href="https://adamboesky.me/" style="color:inherit;">Adam Boesky</a></h3>
     <p class="role">Undergraduate, Harvard University, 2022–2024 &mdash; now PhD student, Harvard University</p>
   </div>
 </div>
@@ -490,10 +491,11 @@ author_profile: true
 <h3 style="color: #555; font-size: 1em; margin-bottom: 1em;">2019–2021</h3>
 
 <div class="member-card">
-  <div class="member-photo-placeholder">No photo</div>
+  <img src="/images/tom-wagg.jpg" alt="Tom Wagg" class="member-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
+  <div class="member-photo-placeholder" style="display:none;">No photo</div>
   <div class="member-info">
-    <h3>Tom Wagg</h3>
-    <p class="role">Undergraduate, Harvard University, 2019–2021 &mdash; now PhD, University of Washington &rarr; CCA Prize Postdoc, Flatiron Institute</p>
+    <h3><a href="https://www.tomwagg.com/" style="color:inherit;">Tom Wagg</a></h3>
+    <p class="role">Undergraduate, Harvard University, 2019–2021 &rarr; PhD in Astronomy, University of Washington &rarr; CCA Prize Postdoc, Flatiron Institute</p>
   </div>
 </div>
 
