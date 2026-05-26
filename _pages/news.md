@@ -120,7 +120,7 @@ author_profile: true
 
 <div class="news-item">
   <div class="news-date">Aug 21, 2025</div>
-  <div class="news-text"><img src="/images/summer-research-presentations-2025.png" class="news-img" alt="Summer research presentations 2025">Fantastic final presentations at the conference for undergraduate summer research by Saina, Manasvini, Laya, and Esther (left to right) from the Gravitational-Wave Paleontology group!</div>
+  <div class="news-text">Fantastic final presentations at the conference for undergraduate summer research by Saina, Manasvini, Laya, and Esther (left to right) from the Gravitational-Wave Paleontology group!</div>
 </div>
 
 <div class="news-item">
@@ -195,17 +195,12 @@ author_profile: true
 
 <div class="news-item">
   <div class="news-date">Apr 22, 2025</div>
-  <div class="news-text"><img src="/images/stand-up-for-science-2025.png" class="news-img" alt="Stand Up for Science protest UCSD">Joined the UCSD protest to stand up for science in the USA.</div>
+  <div class="news-text">Joined the UCSD protest to stand up for science in the USA.</div>
 </div>
 
 <div class="news-item">
   <div class="news-date">Mar 13, 2025</div>
-  <div class="news-text">
-    <img src="/images/adam-riess-visit-2025-1.png" class="news-img" alt="Adam Riess virtual visit">
-    Honored that Prof. and Nobel Prize winner Adam Riess visited virtually my ASTR 121 class today at UCSD to have a Q&amp;A with our Explosive Universe students.
-    <br><br>
-    <img src="/images/adam-riess-visit-2025-2.png" style="width: 100%; max-width: 400px; border-radius: 4px;" alt="Adam Riess Q&A ASTR 121">
-  </div>
+  <div class="news-text">Honored that Prof. and Nobel Prize winner Adam Riess visited virtually my ASTR 121 class today at UCSD to have a Q&amp;A with our Explosive Universe students.</div>
 </div>
 
 <div class="news-item">
@@ -215,7 +210,7 @@ author_profile: true
 
 <div class="news-item">
   <div class="news-date">Feb 27, 2025</div>
-  <div class="news-text"><img src="/images/ana-lam-strand-seminar-2025.png" class="news-img" alt="Ana Lam STRAND seminar">Ana Lam gave the STRAND seminar at UCSD on her work on quantifying survival fractions in binary stellar evolution.</div>
+  <div class="news-text">Ana Lam gave the STRAND seminar at UCSD on her work on quantifying survival fractions in binary stellar evolution.</div>
 </div>
 
 <div class="news-item">
