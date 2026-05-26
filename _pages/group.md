@@ -127,7 +127,7 @@ author_profile: true
 </div>
 
 <div class="member-card">
-  <img src="/files/shasha-arani.jpg" alt="Shasha Arani" class="member-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
+  <img src="/images/shasha-arani.png" alt="Shasha Arani" class="member-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
   <div class="member-photo-placeholder" style="display:none;">No photo</div>
   <div class="member-info">
     <h3>Shasha Arani (Shahed Shayan Arani)</h3>
@@ -140,7 +140,7 @@ author_profile: true
   <img src="/images/group/tyler-smith.jpg" alt="Tyler B. Smith" class="member-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
   <div class="member-photo-placeholder" style="display:none;">No photo</div>
   <div class="member-info">
-    <h3>Tyler B. Smith</h3>
+    <h3><a href="https://tylerbs.github.io/" style="color:inherit;">Tyler B. Smith</a></h3>
     <p class="role">NSF Graduate Research Fellow, UC Irvine &mdash; Upcoming Postdoc, USC &mdash; tylerbs@uci.edu</p>
     <p>Tyler's research is focused on black holes, dark matter, and neutrinos. He combines theoretical modeling with computational methods to develop predictions testable against LIGO-Virgo-KAGRA and JWST data. He is deeply committed to mentorship and community building through SACNAS and the Physics and Community Excellence Program (PACE). Beyond academia he enjoys weightlifting and spending time with his family at the beach.</p>
   </div>
@@ -392,7 +392,8 @@ author_profile: true
 </div>
 
 <div class="member-card">
-  <div class="member-photo-placeholder">No photo</div>
+  <img src="/images/alexis-vazquez.png" alt="Alexis Vazquez" class="member-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
+  <div class="member-photo-placeholder" style="display:none;">No photo</div>
   <div class="member-info">
     <h3>Alexis Vazquez</h3>
     <p class="role">CalBridge Fellow, Undergraduate (Astronomy), UC San Diego</p>
