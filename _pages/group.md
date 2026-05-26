@@ -76,7 +76,7 @@ author_profile: true
   <img src="/images/group/steffani-grondin.jpg" alt="Steffani Grondin" class="member-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
   <div class="member-photo-placeholder" style="display:none;">No photo</div>
   <div class="member-info">
-    <h3>Steffani Grondin</h3>
+    <h3><a href="https://www.astro.utoronto.ca/~steffani.grondin/index.html" target="_blank">Steffani Grondin</a></h3>
     <p class="role">NSERC Postdoctoral Fellow, UC San Diego &mdash; sgrondin@ucsd.edu</p>
     <p>Steffani studies the evolution of binary star systems in star clusters using a variety of ground-based (Gemini, Lick, Keck) and space-based (Swift, Hubble) telescopes. Her work focuses on using white dwarf binaries to unravel the common envelope phase — a critical but poorly constrained process influencing type Ia supernovae, gravitational wave mergers, and UV-bright galaxies. Steffani is also passionate about expanding access to astronomy and STEM education in rural communities across Canada and the U.S. In her free time, you can find her racing in triathlons, exploring the outdoors, or learning how to surf!</p>
   </div>
@@ -86,7 +86,7 @@ author_profile: true
   <img src="/images/marko-ristic.jpg" alt="Marko Ristić" class="member-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
   <div class="member-photo-placeholder" style="display:none;">No photo</div>
   <div class="member-info">
-    <h3>Marko Ristić</h3>
+    <h3><a href="https://mristic.space/" target="_blank">Marko Ristić</a></h3>
     <p class="role">ISTI Postdoctoral Fellow, LANL &mdash; Incoming Schmidt AI in Science Fellow, UC San Diego</p>
     <p>Marko completed his PhD at the Rochester Institute of Technology in 2024. His research focuses on understanding the cosmic origins of heavy elements, Bayesian inference of transient phenomena, and surrogate modeling of detailed radiative transfer simulations. He has previously studied particle physics at CERN, laser characterization for the VIRGO collaboration, and is an APS Career Mentoring Fellow and National Mentoring Community mentor. In his free time, Marko enjoys strongman training and spending time with his family and their five cats.</p>
   </div>
