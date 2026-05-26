@@ -47,6 +47,13 @@ author_profile: true
 </div>
 
 <div class="media-section">
+<h2>Gravitational-Wave Paleontology Group Meetings</h2>
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1em; margin-top: 1em;">
+  <img src="/images/gwp-group-meeting.jpg" alt="GW Paleontology group meeting" style="width: 100%; border-radius: 6px; object-fit: cover;">
+</div>
+</div>
+
+<div class="media-section">
 <h2>Recorded Talks</h2>
 <ul class="media-list">
   <li>
