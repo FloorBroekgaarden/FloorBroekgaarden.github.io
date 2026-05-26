@@ -49,7 +49,7 @@ author_profile: true
 <h2>Faculty</h2>
 
 <div class="member-card">
-  <img src="/files/floor-broekgaarden.jpg" alt="Floor Broekgaarden" class="member-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
+  <img src="/images/floor-broekgaarden.webp" alt="Floor Broekgaarden" class="member-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
   <div class="member-photo-placeholder" style="display:none;">No photo</div>
   <div class="member-info">
     <h3>Floor Broekgaarden</h3>

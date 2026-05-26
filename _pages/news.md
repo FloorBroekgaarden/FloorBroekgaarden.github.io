@@ -55,6 +55,11 @@ author_profile: true
 
 <div class="news-item">
   <div class="news-date">Mar 20, 2026</div>
+  <div class="news-text"><img src="/images/sasha-levina-aps-talk-2026.jpg" class="news-img" alt="Sasha Levina giving talk at APS Meeting 2026">Proud of PhD student Sasha Levina, who gave a talk on her research at the APS Meeting!</div>
+</div>
+
+<div class="news-item">
+  <div class="news-date">Mar 20, 2026</div>
   <div class="news-text"><img src="/images/meera-desawale-poster-2026.jpg" class="news-img" alt="Meera Desawale poster competition">Congratulations to high school student Meera Desawale on winning 1st place in the Physics and Astronomy category at the Science Poster Competition! 🎉</div>
 </div>
 
@@ -114,6 +119,11 @@ author_profile: true
 </div>
 
 <div class="news-item">
+  <div class="news-date">Sep 24, 2025</div>
+  <div class="news-text"><img src="/images/ligo-hanford-visit-2025.jpg" class="news-img" alt="Visiting LIGO Hanford detector">Visited one of the LIGO detectors at the Hanford site in Washington!</div>
+</div>
+
+<div class="news-item">
   <div class="news-date">Aug 26, 2025</div>
   <div class="news-text"><img src="https://www.broekgaarden.nl/floor/wordpress/wp-content/uploads/2025/08/Screenshot-2025-08-26-at-2.23.03%20PM-300x169.png" class="news-img" alt="">New gravitational-wave results released from LIGO, Virgo, and KAGRA (GWTC-4). I made an astrophysics-focused summary of the new catalog. <a href="https://docs.google.com/document/d/1eiVeKh0Q3A9h_569n5Thm89uYJdg7NHL9OeM5wGs4Uw/edit?usp=sharing">[summary]</a></div>
 </div>
@@ -161,6 +171,16 @@ author_profile: true
 <div class="news-item">
   <div class="news-date">Jul 15, 2025</div>
   <div class="news-text"><img src="https://www.broekgaarden.nl/floor/wordpress/wp-content/uploads/2025/08/IMG_3729-768x1024.jpg" class="news-img" alt="">Participated as a panelist at UCSD's STARS Program workshop for summer research interns.</div>
+</div>
+
+<div class="news-item">
+  <div class="news-date">Jul 9, 2025</div>
+  <div class="news-text"><img src="/images/fullerton-workshop-group-2025.png" class="news-img" alt="Group picture at Fullerton r-process enrichment workshop">Group picture during the Fullerton r-process enrichment workshop!</div>
+</div>
+
+<div class="news-item">
+  <div class="news-date">Jul 8, 2025</div>
+  <div class="news-text"><img src="/images/fullerton-workshop-talk-2025.jpg" class="news-img" alt="Floor Broekgaarden giving invited talk at Fullerton workshop">Gave an invited talk at the Fullerton State University workshop connecting r-process enrichment and gravitational waves.</div>
 </div>
 
 <div class="news-item">
