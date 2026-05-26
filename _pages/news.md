@@ -39,6 +39,11 @@ author_profile: true
 </div>
 
 <div class="news-item">
+  <div class="news-date">May 19, 2026</div>
+  <div class="news-text">Steffani Grondin's astronomy outreach initiative was highlighted in the local newspaper — bringing a glimpse of the night sky to the Castlegar community. <a href="https://castlegarnews.com/2026/05/12/castlegar-astronomy-event-gives-glimpse-into-the-night-sky/">[article]</a></div>
+</div>
+
+<div class="news-item">
   <div class="news-date">May 15, 2026</div>
   <div class="news-text">We are co-organizing the <a href="https://indico.cern.ch/event/1654479/">Fast Machine Learning for Science Conference 2026</a>, taking place August 31 – September 4 at UC San Diego! The conference explores emerging ML methods and their applications in scientific discovery, with topics spanning accelerated inference, algorithm design, and applications across physics, genomics, climate science, and more. Abstract submission is now open — standard abstracts due June 1, extended abstracts (4-page papers) due June 15.</div>
 </div>
