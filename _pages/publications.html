@@ -41,3 +41,30 @@ author_profile: true
     <figcaption style="font-size: 0.85em; color: #555; margin-top: 0.5em;"><strong>Figure 6.</strong> Representative evolutionary histories for each of the three MRR channels. Each panel shows the total stellar masses (black and red) and core masses (magenta and green) of both stars as a function of time, with vertical dotted lines marking the two supernova events. From left to right: the core-growth channel in COMPAS, the core-growth channel in SEVN (illustrating how the two codes treat this process differently), the PPISN-shrinkage channel, and the asymmetric core-collapse supernova channel.</figcaption>
   </figure>
 </div>
+
+<hr style="margin: 2.5em 0;">
+
+<div style="margin-top: 1.5em;">
+  <p style="color: #666; font-size: 0.9em;">January 28, 2026</p>
+  <h3 style="margin-top: 0.2em;">From cosmological simulations to binary black hole mergers: The impact of using analytical star formation history models on gravitational-wave source populations</h3>
+  <p>Sasha Levina, Floor Broekgaarden, Lieke van Son, Emanuele Berti, Amedeo Romagnolo, Ruediger Pakmor, Ana Lam<br>
+  <a href="https://arxiv.org/abs/2601.20202" target="_blank">arXiv:2601.20202</a></p>
+
+  <p>To predict how many binary black hole mergers gravitational-wave detectors like LIGO and Virgo should see, theorists must combine a model of how stars form across cosmic time — the <strong>star formation history (SFH)</strong> — with a model of how binary stars evolve into merging black holes. In practice, most studies use simple analytical SFH models (e.g., power laws or fits to galaxy survey data), but these are approximations of a far more complex underlying reality. This paper asks: <em>how much does the choice of analytical SFH model actually matter?</em></p>
+
+  <p>The team uses the <strong>IllustrisTNG cosmological simulation</strong> as a ground truth for the star formation history and metallicity evolution of the universe, and compares it against four widely-used analytical SFH prescriptions. By running binary population synthesis models with <strong>COMPAS</strong> on top of each SFH, they quantify how the choice of SFH propagates through to predictions for BBH merger rates and mass distributions detectable by current and future gravitational-wave observatories.</p>
+
+  <p>A key finding (Figure 4 below) is that the predicted merger rate can vary by up to a factor of ~2–3 depending on which analytical SFH model is used, with the differences being most pronounced at high redshifts. This has direct implications for next-generation detectors like the Einstein Telescope and Cosmic Explorer, which will be sensitive to mergers across cosmic history. The metallicity evolution built into each SFH model is the primary driver of the spread: models that assign lower metallicities to star-forming gas at high redshift predict more BBH mergers because low-metallicity stars retain more mass and more readily form heavy black holes.</p>
+
+  <p>Figure 6 shows how the mass distributions of detectable BBH mergers shift depending on the SFH choice, with the IllustrisTNG-based prediction bracketed by the analytical models. The results underscore that SFH uncertainty is a non-negligible systematic in population-level gravitational-wave analyses — and that using cosmological simulations as a calibration anchor can help identify and bound this uncertainty.</p>
+
+  <figure style="margin: 2em 0;">
+    <img src="/images/levina2026_fig4.png" alt="Figure 4: BBH merger rate as a function of redshift for different SFH models" style="width: 100%; max-width: 860px; border-radius: 4px;">
+    <figcaption style="font-size: 0.85em; color: #555; margin-top: 0.5em;"><strong>Figure 4.</strong> Binary black hole merger rate density as a function of redshift for five star formation history models: IllustrisTNG (used as ground truth), and four analytical prescriptions. The choice of SFH leads to rate differences of up to a factor of ~2–3, with the spread growing at higher redshifts where metallicity evolution assumptions diverge most strongly.</figcaption>
+  </figure>
+
+  <figure style="margin: 2em 0;">
+    <img src="/images/levina2026_fig6.png" alt="Figure 6: Detectable BBH mass distributions for different SFH models" style="width: 100%; max-width: 860px; border-radius: 4px;">
+    <figcaption style="font-size: 0.85em; color: #555; margin-top: 0.5em;"><strong>Figure 6.</strong> Distributions of primary mass M₁ for detectable binary black hole mergers under each SFH model, for current LIGO-Virgo sensitivity (left) and next-generation detector sensitivity (right). The IllustrisTNG prediction (black) is bracketed by the analytical models, illustrating how SFH choice shifts the relative contribution of high-mass mergers — an effect that will become increasingly important as detector sensitivity improves.</figcaption>
+  </figure>
+</div>
