@@ -13,8 +13,23 @@ author_profile: true
 </style>
 
 <div class="news-item">
+  <div class="news-date">May 26, 2026</div>
+  <div class="news-text">Congratulations to Matthew McCall for getting accepted into the Astrophysics Master's program at USC, where he will start this Fall!</div>
+</div>
+
+<div class="news-item">
   <div class="news-date">May 22, 2026</div>
   <div class="news-text"><img src="/images/massquerade_paper.png" class="news-img" alt="Massquerade paper">New paper on arXiv: <a href="https://arxiv.org/abs/2605.21580"><em>Massquerade: Impacts of Mass Ratio Reversals on Binary Black Hole Merger Rates and Mass Distributions</em></a> by Tyler Smith, Floor Broekgaarden, Sasha Levina, Amedeo Romagnolo, Manasvini Komandur, Melanie Santiago, and Kyle Rocha. This is also the first arXiv paper for both Manasvini Komandur and Melanie Santiago — congratulations!</div>
+</div>
+
+<div class="news-item">
+  <div class="news-date">May 19, 2026</div>
+  <div class="news-text">Steffani Grondin's astronomy outreach initiative was highlighted in the local newspaper — bringing a glimpse of the night sky to the Castlegar community. <a href="https://castlegarnews.com/2026/05/12/castlegar-astronomy-event-gives-glimpse-into-the-night-sky/">[article]</a></div>
+</div>
+
+<div class="news-item">
+  <div class="news-date">May 15, 2026</div>
+  <div class="news-text">We are co-organizing the <a href="https://indico.cern.ch/event/1654479/">Fast Machine Learning for Science Conference 2026</a>, taking place August 31 – September 4 at UC San Diego! The conference explores emerging ML methods and their applications in scientific discovery, with topics spanning accelerated inference, algorithm design, and applications across physics, genomics, climate science, and more. Abstract submission is now open — standard abstracts due June 1, extended abstracts (4-page papers) due June 15.</div>
 </div>
 
 <div class="news-item">
@@ -31,21 +46,6 @@ author_profile: true
     <br><br>
     <img src="/images/sd100-trail.png" style="width: 100%; max-width: 400px; border-radius: 4px;" alt="SD100 trail">
   </div>
-</div>
-
-<div class="news-item">
-  <div class="news-date">May 26, 2026</div>
-  <div class="news-text">Congratulations to Matthew McCall for getting accepted into the Astrophysics Master's program at USC, where he will start this Fall!</div>
-</div>
-
-<div class="news-item">
-  <div class="news-date">May 19, 2026</div>
-  <div class="news-text">Steffani Grondin's astronomy outreach initiative was highlighted in the local newspaper — bringing a glimpse of the night sky to the Castlegar community. <a href="https://castlegarnews.com/2026/05/12/castlegar-astronomy-event-gives-glimpse-into-the-night-sky/">[article]</a></div>
-</div>
-
-<div class="news-item">
-  <div class="news-date">May 15, 2026</div>
-  <div class="news-text">We are co-organizing the <a href="https://indico.cern.ch/event/1654479/">Fast Machine Learning for Science Conference 2026</a>, taking place August 31 – September 4 at UC San Diego! The conference explores emerging ML methods and their applications in scientific discovery, with topics spanning accelerated inference, algorithm design, and applications across physics, genomics, climate science, and more. Abstract submission is now open — standard abstracts due June 1, extended abstracts (4-page papers) due June 15.</div>
 </div>
 
 <div class="news-item">
@@ -114,13 +114,13 @@ author_profile: true
 </div>
 
 <div class="news-item">
-  <div class="news-date">Nov 11, 2025</div>
-  <div class="news-text">Mentioned in a <a href="https://today.ucsd.edu/story/second-cohort-of-uc-san-diegos-2025-convene-and-influence-awardees-announced">UC San Diego Today article</a> announcing the 2025 Convene and Influence Awardees, recognizing the SMASH initiative for accelerating cosmic breakthroughs through AI at UC San Diego.</div>
+  <div class="news-date">Nov 20, 2025</div>
+  <div class="news-text">Quoted in <a href="https://www.scientificamerican.com/article/new-research-shows-how-ai-could-transform-math-physics-cancer-research-and/"><em>Scientific American</em></a> on how AI could transform physics research.</div>
 </div>
 
 <div class="news-item">
-  <div class="news-date">Nov 20, 2025</div>
-  <div class="news-text">Quoted in <a href="https://www.scientificamerican.com/article/new-research-shows-how-ai-could-transform-math-physics-cancer-research-and/"><em>Scientific American</em></a> on how AI could transform physics research.</div>
+  <div class="news-date">Nov 11, 2025</div>
+  <div class="news-text">Mentioned in a <a href="https://today.ucsd.edu/story/second-cohort-of-uc-san-diegos-2025-convene-and-influence-awardees-announced">UC San Diego Today article</a> announcing the 2025 Convene and Influence Awardees, recognizing the SMASH initiative for accelerating cosmic breakthroughs through AI at UC San Diego.</div>
 </div>
 
 <div class="news-item">
@@ -220,7 +220,7 @@ author_profile: true
 
 <div class="news-item">
   <div class="news-date">May 11, 2025</div>
-  <div class="news-text">Featured in an interview by Lucas Ellerbroek for <em>NRC</em> (Dutch national newspaper). <a href="https://lucasellerbroek.nl/nrc/interview-met-floor-broekgaarden/">[interview]</a></div>
+  <div class="news-text">Featured in an interview by Lucas Ellerbroek for <em>NRC</em> (Dutch national newspaper): <em>De verloving van twee zwarte gaten kan miljarden jaren duren en het eindigt altijd met een botsing.</em> <a href="https://www.nrc.nl/nieuws/2025/05/11/de-verloving-van-twee-zwarte-gaten-kan-miljarden-jaren-duren-en-het-eindigt-altijd-met-een-botsing-a4892498">[NRC]</a> <a href="https://lucasellerbroek.nl/nrc/interview-met-floor-broekgaarden/">[open version]</a></div>
 </div>
 
 <div class="news-item">
@@ -239,11 +239,6 @@ author_profile: true
 </div>
 
 <div class="news-item">
-  <div class="news-date">Feb 20, 2025</div>
-  <div class="news-text"><img src="/images/aas-meeting-group-2025.jpg" class="news-img" alt="GW Paleontology group at AAS meeting">Group picture at the AAS Meeting!</div>
-</div>
-
-<div class="news-item">
   <div class="news-date">Feb 27, 2025</div>
   <div class="news-text">Ana Lam gave the STRAND seminar at UCSD on her work on quantifying survival fractions in binary stellar evolution.</div>
 </div>
@@ -251,6 +246,11 @@ author_profile: true
 <div class="news-item">
   <div class="news-date">Feb 27, 2025</div>
   <div class="news-text"><img src="https://www.broekgaarden.nl/floor/wordpress/wp-content/uploads/2025/02/Screenshot-2025-02-27-at-7.38.21%20AM.png" class="news-img" alt="">My PhD thesis was selected as one of six finalists for the 2023 GWIC-Braccini Gravitational Wave Thesis Prize. <a href="https://gwic.ligo.org/thesis-prize.html">[prize info]</a></div>
+</div>
+
+<div class="news-item">
+  <div class="news-date">Feb 20, 2025</div>
+  <div class="news-text"><img src="/images/aas-meeting-group-2025.jpg" class="news-img" alt="GW Paleontology group at AAS meeting">Group picture at the AAS Meeting!</div>
 </div>
 
 <div class="news-item">
@@ -306,6 +306,11 @@ author_profile: true
 <div class="news-item">
   <div class="news-date">May 6, 2024</div>
   <div class="news-text"><img src="https://www.broekgaarden.nl/floor/wordpress/wp-content/uploads/2024/05/Screenshot-2024-05-08-at-2.05.43-PM-1024x718.png" class="news-img" alt="">Adam Boesky posted two first-author papers investigating binary black hole merger rates relative to star formation rates, submitted to ApJ.</div>
+</div>
+
+<div class="news-item">
+  <div class="news-date">May 3, 2024</div>
+  <div class="news-text">Selected as a Fellow to Realize the Full Potential of LSST. <a href="https://physics-astronomy.jhu.edu/2024/05/03/floor-broekgaarden-and-kevin-schlaufman-selected-as-fellows-to-realize-the-full-potential-of-lsst/">[announcement]</a></div>
 </div>
 
 <div class="news-item">
