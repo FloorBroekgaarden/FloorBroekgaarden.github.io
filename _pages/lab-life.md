@@ -95,6 +95,18 @@ details[open] summary::after {
 <p class="lab-intro">A glimpse into life in the GW Paleontology Lab — group activities, photos, podcasts, videos, and more. Click any item to expand it.</p>
 
 <details>
+  <summary>Sasha Levina — PhD Candidacy Exam <span class="item-date">May 27, 2026</span></summary>
+  <div class="details-content">
+    <img src="/images/gwp-news/26_05_27/sasha-candidacy-2026.gif" alt="Sasha Levina PhD candidacy exam" style="width: 100%; max-width: 600px; border-radius: 6px; margin-bottom: 1em;">
+    <p>So proud of Sasha Levina for passing her Astronomy PhD candidacy exam at UC San Diego today - with flying colors! 🛸 and a fun spherical cow analogy! 🐮 🐮</p>
+    <p>This is a major milestone in the PhD journey, typically completed at the end of the third year, where students lay out the vision and roadmap for the final phase of their dissertation research. Sasha is also the first student in our GW Paleontology group to reach this milestone, which makes today extra special. 💫</p>
+    <p>She gave a fan-tas-tic 45!-minute presentation on both her past and future work, including a wonderful analogy for her research: moving the gravitational-wave community's treatment of cosmic star formation histories from today's "spherical cow" models: simple, analytical approximations, toward more realistic, physics-rich "real cows." 🐄</p>
+    <p>This work will be essential for truly connecting the rapidly growing gravitational-wave catalog to the lives of stars across cosmic time: how stars formed, evolved, interacted, and died billions of years ago.</p>
+    <p>Huge congratulations, Sasha: excited for the next chapter of your PhD and all the discoveries ahead! 🐮</p>
+  </div>
+</details>
+
+<details>
   <summary>Group Photos — Campus &amp; Conferences <span class="item-date">2024–2026</span></summary>
   <div class="details-content">
     <div class="media-grid">

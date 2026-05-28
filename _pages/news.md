@@ -20,6 +20,11 @@ author_profile: true
 </div>
 
 <div class="news-item">
+  <div class="news-date">May 27, 2026</div>
+  <div class="news-text"><img src="/images/gwp-news/26_05_27/sasha-candidacy-2026.gif" class="news-img" alt="Sasha Levina PhD candidacy exam">So proud of Sasha Levina for passing her Astronomy PhD candidacy exam at UC San Diego today - with flying colors! 🛸 and a fun spherical cow analogy! 🐮 🐮 Sasha is the first student in our GW Paleontology group to reach this milestone. <a href="/lab-life/">[full post]</a></div>
+</div>
+
+<div class="news-item">
   <div class="news-date">May 26, 2026</div>
   <div class="news-text">Congratulations to Matthew McCall for getting accepted into the Astrophysics Master's program at USC, where he will start this Fall!</div>
 </div>
