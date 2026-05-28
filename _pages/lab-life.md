@@ -103,6 +103,11 @@ details[open] summary::after {
     <p>She gave a fan-tas-tic 45!-minute presentation on both her past and future work, including a wonderful analogy for her research: moving the gravitational-wave community's treatment of cosmic star formation histories from today's "spherical cow" models: simple, analytical approximations, toward more realistic, physics-rich "real cows." 🐄</p>
     <p>This work will be essential for truly connecting the rapidly growing gravitational-wave catalog to the lives of stars across cosmic time: how stars formed, evolved, interacted, and died billions of years ago.</p>
     <p>Huge congratulations, Sasha: excited for the next chapter of your PhD and all the discoveries ahead! 🐮</p>
+    <div class="media-grid" style="margin-top: 1em;">
+      <img src="/images/gwp-news/26_05_27/sasha-candidacy-slide1.png" alt="Sasha Levina candidacy exam slide">
+      <img src="/images/gwp-news/26_05_27/sasha-candidacy-slide2.png" alt="Sasha Levina candidacy exam slide">
+      <img src="/images/gwp-news/26_05_27/IMG_8853.jpeg" alt="Sasha Levina presenting at candidacy exam">
+    </div>
   </div>
 </details>
 
