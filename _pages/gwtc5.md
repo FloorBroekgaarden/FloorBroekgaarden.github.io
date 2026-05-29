@@ -139,16 +139,16 @@ author_profile: true
 
 <h2>Part II: The Companion Papers (Brief Overview)</h2>
 
-<p>Here are the eight papers in the release:</p>
+<p>Here are the eight papers in the release (2 are still to come out):</p>
 <ol class="papers-list">
   <li><strong>Intro:</strong> <a href="https://arxiv.org/abs/2605.27223">arXiv:2605.27223</a> — overview of the observing runs, detector network, and catalog conventions</li>
   <li><strong>Methods:</strong> <a href="https://arxiv.org/abs/2605.27224">arXiv:2605.27224</a> — how raw data become a catalog of events with inferred source properties</li>
   <li><strong>Open Data:</strong> <a href="https://arxiv.org/abs/2605.27090">arXiv:2605.27090</a> — what data are publicly available and how to access them</li>
   <li><strong>GWTC-5 Catalog:</strong> <a href="https://arxiv.org/abs/2605.27225">arXiv:2605.27225</a> — the new detections from O4b ⭐</li>
   <li><strong>GW Populations:</strong> <a href="https://arxiv.org/abs/2605.27226">arXiv:2605.27226</a> — population properties of compact binaries ⭐</li>
-  <li><strong>Cosmology:</strong> <a href="https://arxiv.org/abs/2605.27227">arXiv:2605.27227</a> — constraints on cosmic expansion and modified GW propagation</li>
-  <li><strong>Tests of GR</strong></li>
-  <li><strong>Lensing</strong></li>
+  <li><strong>GWTC-5.0: Constraints on the Cosmic Expansion Rate and Modified Gravitational-wave Propagation:</strong> <a href="https://arxiv.org/abs/2605.27227">arXiv:2605.27227</a> — constraints on cosmic expansion and modified GW propagation</li>
+  <li><strong> GWTC-5.0: Tests of General Relativity (to be published soon) </strong></li>
+  <li><strong>GWTC-5.0: Searches for Gravitational Wave Lensing Signatures (to be published) </strong></li>
 </ol>
 
 <p>I'm most interested in papers 4 and 5, which are what I'll focus on below. But a quick note on a few of the others:</p>
