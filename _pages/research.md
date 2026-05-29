@@ -75,7 +75,6 @@ author_profile: true
 
 <hr style="margin-bottom: 2em;">
 
-<p class="research-intro">My research focuses on <strong>Gravitational Wave Paleontology</strong> — using observations of merging black holes and neutron stars to study the evolutionary history of massive stars. A central challenge is the <em>Progenitor Uncertainty Challenge</em>: understanding and managing the large theoretical uncertainties in stellar evolution models so that gravitational-wave data can be used to extract meaningful astrophysical insights. My work spans stellar evolution simulations, statistical and machine-learning methods, population synthesis, and open-science infrastructure.</p>
 
 <div class="research-grid">
 
