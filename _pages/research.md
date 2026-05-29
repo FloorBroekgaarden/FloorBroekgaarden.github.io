@@ -55,6 +55,10 @@ author_profile: true
 }
 </style>
 
+<video autoplay loop muted playsinline style="width: 100%; max-width: 860px; border-radius: 6px; margin-bottom: 1.5em; display: block;">
+  <source src="/files/videos/GW_video_merger.mp4" type="video/mp4">
+</video>
+
 <div style="background: #f7f7f7; border-left: 4px solid #555; padding: 1em 1.4em; margin-bottom: 2em; max-width: 860px; border-radius: 0 4px 4px 0;">
 <p style="margin: 0; font-size: 0.97em; line-height: 1.75; font-style: italic;"><strong>Mission:</strong> Our mission is to open and lead the new frontier of gravitational-wave paleontology: reconstructing the history of massive stars and compact objects across cosmic time using gravitational waves as cosmic fossils. We seek to transform gravitational-wave astronomy from the discovery of individual events into a precision population science capable of revealing how massive stars form, evolve, interact, explode, and shape the Universe. By combining astrophysics, AI, statistics, and large-scale computation, our group develops the tools, simulation ecosystems, and uncertainty-aware frameworks needed to connect gravitational-wave observations back to their progenitor stars and tackle the fundamental "simulation silo" challenge in stellar evolution. Through interdisciplinary, student-driven research and a strong commitment to open and collaborative science, we aim to build a new framework for understanding the dynamic Universe; from the first generations of stars to the black holes and neutron stars merging today.</p>
 </div>

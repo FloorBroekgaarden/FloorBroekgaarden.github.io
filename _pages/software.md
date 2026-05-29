@@ -97,7 +97,7 @@ author_profile: true
 </div>
 
 <div class="software-item">
-  <h3>10. VIMES — Visualization of Massive Evolving Stars</h3>
+  <h3>9. VIMES — Visualization of Massive Evolving Stars</h3>
   <p class="software-meta">2025 · Laya Binu (GW Paleontology Lab, UC San Diego)</p>
   <p>VIMES is an interactive visualization tool for massive evolving stars, developed by group member Laya Binu. The tool provides visual representations of stellar evolution tracks and properties, making it easier to explore and communicate how massive stars evolve over their lifetimes.</p>
   <div class="software-links">
@@ -106,7 +106,7 @@ author_profile: true
 </div>
 
 <div class="software-item">
-  <h3>11. Stellar Winds Atlas &amp; ARGUS Code</h3>
+  <h3>10. Stellar Winds Atlas &amp; ARGUS Code</h3>
   <p class="software-meta">2026 · Amedeo Romagnolo (GW Paleontology Lab, UC San Diego)</p>
   <p>The Stellar Winds Atlas is an open data resource and interactive tool accompanying the Stellar Winds Atlas paper, providing a comprehensive atlas of stellar wind prescriptions and their impact on massive star evolution. Developed by group member Amedeo Romagnolo, with an accompanying interactive website at <a href="https://amedeorom.github.io/Stellar_Winds_Atlas/" target="_blank">amedeorom.github.io/Stellar_Winds_Atlas</a>.</p>
   <div class="software-links">
