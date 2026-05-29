@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research"
+title: "Gravitational Wave Paleontology Group Research"
 permalink: /research/
 author_profile: true
 ---
@@ -54,6 +54,22 @@ author_profile: true
   line-height: 1.55;
 }
 </style>
+
+<div style="font-size: 0.97em; line-height: 1.75; margin-bottom: 2em; max-width: 860px;">
+
+<p>The Gravitational-Wave Paleontology Group studies the formation, lives, and explosive deaths of massive stars across cosmic time using gravitational waves as "cosmic fossils." When black holes and neutron stars merge, they produce ripples in spacetime that carry information about the stars that formed them billions of years earlier. By studying these mergers, we aim to answer some of the biggest open questions in astrophysics today: How do black holes and neutron stars form? Which evolutionary pathways produce the gravitational-wave sources we observe? And what can these mergers teach us about the lives, environments, and deaths of massive stars throughout the history of the Universe? This emerging field — gravitational-wave paleontology — opens an entirely new way of studying stellar evolution, allowing us to probe populations of massive stars that are otherwise inaccessible to traditional light-based astronomy because they lived in the distant, early Universe or died long ago.</p>
+
+<p>We are entering the Big Data era of gravitational-wave astronomy. Over the next decade, detectors such as LIGO, Virgo, Cosmic Explorer, the Einstein Telescope, and LISA will increase the number of observed compact-object mergers from hundreds today to millions per year, extending observations to the edge of the observable Universe. However, interpreting this wealth of data requires overcoming a major challenge: gravitational waves do not directly reveal the properties of the progenitor stars that formed them. Instead, connecting observations back to stellar evolution requires large-scale theoretical simulations that model how massive binaries evolve over billions of years. At present, these simulations are computationally expensive, highly uncertain, and often fragmented into isolated "simulation silos," where different groups explore only narrow regions of parameter space within individual codes. These silos obscure uncertainties, bias physical interpretation, and limit our ability to learn robustly from gravitational-wave observations.</p>
+
+<p>Our group tackles this challenge by combining astrophysics, AI/ML, statistics, and scientific computing to build new uncertainty-aware frameworks, simulation catalogs, and data-driven tools that can transform gravitational-wave detections into a quantitative fossil record of massive-star evolution across cosmic time. Central to this effort is the development of <strong>GROWL</strong> (<em>GRavitatiOnal Wave paLeontology</em>), a next-generation, community-driven simulation ecosystem that will unify thousands of simulations across formation channels, stellar evolution codes, and physical assumptions into a single interoperable framework. By breaking today's fragmented "simulation silos," GROWL aims to make it possible, for the first time, to robustly connect observed gravitational-wave populations back to their progenitor stars and directly test which physical processes — such as mass transfer, supernovae, stellar winds, metallicity, and dynamical interactions — shape the black holes and neutron stars we observe across the Universe. Through this framework, our group seeks to answer some of the defining questions of modern astrophysics: How do gravitational-wave sources form? How did massive stars live and die in the early Universe? And what can black hole and neutron star mergers reveal about the cosmic history of stars, galaxies, and chemical enrichment?</p>
+
+<p>Our research spans scales from the interiors of massive stars to the evolution of galaxies across cosmic time. We develop large-scale gravitational-wave simulation catalogs, AI-driven statistical emulators, interactive visualization tools, and next-generation inference frameworks capable of exploring the enormous uncertainty landscape of stellar evolution. The group investigates some of the most uncertain and influential processes in astrophysics — including mass transfer, common envelope evolution, stellar winds, supernova explosions, compact-object formation, and chemical enrichment — while connecting gravitational-wave populations to electromagnetic observations across the multi-messenger Universe. Our projects range from black hole population synthesis, cosmological enrichment histories, and kilonova modeling to the science case of future observatories such as Cosmic Explorer, the Einstein Telescope, and LISA.</p>
+
+<p>The lab is deeply interdisciplinary and student-driven, bringing together researchers from astrophysics, data science, statistics, AI/ML, and scientific computing to develop both new scientific insight and new computational methodologies. Students in the group work at the frontier of gravitational-wave astronomy while gaining experience in high-performance computing, machine learning, visualization, statistical inference, and open-source scientific software development. By combining theory, computation, machine learning, and multi-messenger astrophysics, the lab aims not only to advance gravitational-wave astronomy, but to establish gravitational-wave paleontology as a foundational new frontier for understanding how massive stars shaped the Universe across cosmic history.</p>
+
+</div>
+
+<hr style="margin-bottom: 2em;">
 
 <p class="research-intro">My research focuses on <strong>Gravitational Wave Paleontology</strong> — using observations of merging black holes and neutron stars to study the evolutionary history of massive stars. A central challenge is the <em>Progenitor Uncertainty Challenge</em>: understanding and managing the large theoretical uncertainties in stellar evolution models so that gravitational-wave data can be used to extract meaningful astrophysical insights. My work spans stellar evolution simulations, statistical and machine-learning methods, population synthesis, and open-science infrastructure.</p>
 
