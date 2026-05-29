@@ -123,7 +123,7 @@ author_profile: true
 <p>Below is the official timeline of observing runs from the Intro paper. Between runs, LVK improves their detectors — sometimes substantially — so each new run typically covers a larger sensitive volume. The increase in detection rate is not just a matter of running longer; it reflects real engineering improvements including quantum squeezing, upgraded laser power, and better noise characterization.</p>
 
 <div class="fig-block">
-  <img src="/files/news/GWTC-5/Screenshot%202026-05-29%20at%209.07.25%20AM.png" alt="Timeline of LVK observing runs O1 through O4b">
+  <img src="/files/news/GWTC-5/Screenshot-2026-05-29-at-9.07.25-AM.png" alt="Timeline of LVK observing runs O1 through O4b">
   <div class="fig-caption"><strong>Figure 1</strong> from the Intro paper (<a href="https://arxiv.org/abs/2605.27223">arXiv:2605.27223</a>): Timeline of observing runs from 2015 through the beginning of O4c in January 2025. Each colored band shows the period a given detector was online, with the typical binary neutron star inspiral range labeled. Note that Virgo was absent for O4a but returned for O4b, significantly improving sky localization.</div>
 </div>
 
@@ -156,7 +156,7 @@ author_profile: true
 <p>The <strong>Methods paper</strong> describes the full pipeline from raw detector data to a catalog entry: how signals are found, how fake events ("glitches") are vetoed, how false-alarm rates are estimated, and how source properties like masses and spins are inferred via Bayesian parameter estimation. A key thing to appreciate is how many different independent search pipelines are involved. The table below shows some of them. Each pipeline has its own strengths and weaknesses, and having multiple is important — some events are only found by one pipeline.</p>
 
 <div class="fig-block">
-  <img src="/files/news/GWTC-5/Screenshot%202026-05-29%20at%209.19.29%20AM.png" alt="Table 3: Search pipelines used in O4b analysis">
+  <img src="/files/news/GWTC-5/Screenshot-2026-05-29-at-9.19.29-AM.png" alt="Table 3: Search pipelines used in O4b analysis">
   <div class="fig-caption"><strong>Table 3</strong> from the Methods paper (<a href="https://arxiv.org/abs/2605.27224">arXiv:2605.27224</a>): An overview of the different GW search pipelines used in the O4b analysis. They differ in how they model waveforms, handle noise, and rank candidates.</div>
 </div>
 
@@ -178,26 +178,26 @@ author_profile: true
 
 <div class="question-box">
   <div class="q-label">A question that comes up</div>
-  What's the difference between p<sub>astro</sub> and the false-alarm rate (FAR)? The FAR is a purely noise-based statement: how often would this pipeline produce a trigger of this significance from noise alone? The p<sub>astro</sub> also incorporates information about whether the signal looks like the rest of the astrophysical population (e.g., does it have masses consistent with a compact binary?). A p<sub>astro</sub> = 0.5 threshold is quite lenient — up to half those events could be noise. The FAR &lt; 1 yr<sup>−1</sup> threshold for parameter estimation is stricter and gives a higher-purity sample.
+  What's the difference between p<sub>astro</sub> and the false-alarm rate (FAR)? Intuitively, I think about it simplified as that the FAR is a purely noise-based statement: how often would this pipeline produce a trigger of this significance from noise alone? The p<sub>astro</sub> also incorporates information about whether the signal looks like the rest of the astrophysical population (e.g., does it have masses consistent with a compact binary?). A p<sub>astro</sub> = 0.5 threshold is quite lenient — up to half those events could be noise. The FAR &lt; 1 yr<sup>−1</sup> threshold for parameter estimation is stricter and gives a higher-purity sample.
 </div>
 
 <p>The full catalog table is large, but here is part of it — all the O4b events, listed by date with their total mass, component masses, effective spin χ<sub>eff</sub>, luminosity distance, sky area, and SNR:</p>
 
 <div class="fig-block">
-  <img src="/files/news/GWTC-5/Screenshot%202026-05-29%20at%209.37.33%20AM.png" alt="GWTC-5 catalog table part 1">
-  <img src="/files/news/GWTC-5/Screenshot%202026-05-29%20at%209.37.56%20AM.png" alt="GWTC-5 catalog table part 2" style="margin-top:0.5em;">
+  <img src="/files/news/GWTC-5/Screenshot-2026-05-29-at-9.37.33-AM.png" alt="GWTC-5 catalog table part 1">
+  <img src="/files/news/GWTC-5/Screenshot-2026-05-29-at-9.37.56-AM.png" alt="GWTC-5 catalog table part 2" style="margin-top:0.5em;">
   <div class="fig-caption"><strong>Table 2</strong> from the Catalog paper (<a href="https://arxiv.org/abs/2605.27225">arXiv:2605.27225</a>): O4b events with FAR &lt; 1 yr<sup>−1</sup>, including total mass M, chirp mass ℳ, component masses m<sub>1</sub> and m<sub>2</sub>, effective inspiral spin χ<sub>eff</sub>, luminosity distance D<sub>L</sub>, redshift z, sky localization area ΔΩ, and network SNR.</div>
 </div>
 
 <p>The figure below shows the 90% credible-region contours for all O4b events in the m<sub>1</sub>–m<sub>2</sub> mass plane (top) and the total mass–mass-ratio plane (bottom), with highlighted events in color:</p>
 
 <div class="fig-block">
-  <img src="/files/news/GWTC-5/Screenshot%202026-05-29%20at%209.44.21%20AM.png" alt="Mass contours for all O4b events">
+  <img src="/files/news/GWTC-5/Screenshot-2026-05-29-at-9.44.21-AM.png" alt="Mass contours for all O4b events">
   <div class="fig-caption"><strong>Figure 3</strong> (top) from the Catalog paper: 90% credible-region contours in primary vs secondary mass for all O4b candidates with FAR &lt; 1 yr<sup>−1</sup>. Colored contours highlight specific events discussed in the text.</div>
 </div>
 
 <div class="fig-block">
-  <img src="/files/news/GWTC-5/Screenshot%202026-05-29%20at%209.42.54%20AM.png" alt="Total mass vs mass ratio contours for O4b events">
+  <img src="/files/news/GWTC-5/Screenshot-2026-05-29-at-9.42.54-AM.png" alt="Total mass vs mass ratio contours for O4b events">
   <div class="fig-caption"><strong>Figure 3</strong> (bottom) from the Catalog paper: 90% credible-region contours in total mass vs mass ratio for all O4b candidates. The highlighted events (GW241011, GW241110, GW250114 etc.) stand out clearly.</div>
 </div>
 
@@ -231,7 +231,7 @@ author_profile: true
 </div>
 
 <div class="fig-block">
-  <img src="/files/news/GWTC-5/Screenshot%202026-05-29%20at%209.47.29%20AM.png" alt="Chirp mass vs chi_eff contours for highlighted O4b events">
+  <img src="/files/news/GWTC-5/Screenshot-2026-05-29-at-9.47.29-AM.png" alt="Chirp mass vs chi_eff contours for highlighted O4b events">
   <div class="fig-caption"><strong>Figure 4</strong> from the Catalog paper: 90% credible-region contours in chirp mass ℳ vs effective inspiral spin χ<sub>eff</sub> for the highlighted O4b candidates. Note the green contour (GW241011) firmly above zero, the dark green contour (GW241110) straddling zero with a possible negative tail, and the purple contour (GW250114) at high chirp mass.</div>
 </div>
 
@@ -272,14 +272,14 @@ author_profile: true
 </table>
 
 <div class="fig-block">
-  <img src="/files/news/GWTC-5/Screenshot%202026-05-29%20at%209.57.02%20AM.png" alt="2D mass distribution from populations paper">
+  <img src="/files/news/GWTC-5/Screenshot-2026-05-29-at-9.57.02-AM.png" alt="2D mass distribution from populations paper">
   <div class="fig-caption"><strong>Figure 1</strong> from the Populations paper (<a href="https://arxiv.org/abs/2605.27226">arXiv:2605.27226</a>): Differential merger rate as a function of both component masses m<sub>1</sub> and m<sub>2</sub>, for the FullPop (left) and PixelPop (right) models. The striking flat region at low primary masses in the PixelPop result arises partly as a modeling artifact — an overly flat prior — rather than a genuine astrophysical feature.</div>
 </div>
 
 <h3>Merger Rates</h3>
 
 <div class="fig-block">
-  <img src="/files/news/GWTC-5/Screenshot%202026-05-29%20at%209.58.09%20AM.png" alt="Merger rates table">
+  <img src="/files/news/GWTC-5/Screenshot-2026-05-29-at-9.58.09-AM.png" alt="Merger rates table">
   <div class="fig-caption"><strong>Table 2</strong> from the Populations paper: Inferred merger rates in Gpc<sup>−3</sup> yr<sup>−1</sup> for binary neutron stars (BNS), neutron star–black hole binaries (NSBH), binary black holes (BBH), and intermediate-mass black hole binaries (IMBH).</div>
 </div>
 
@@ -293,7 +293,7 @@ author_profile: true
 <h3>Mass Distribution</h3>
 
 <div class="fig-block">
-  <img src="/files/news/GWTC-5/Screenshot%202026-05-29%20at%209.59.11%20AM.png" alt="Primary mass and mass ratio distributions">
+  <img src="/files/news/GWTC-5/Screenshot-2026-05-29-at-9.59.11-AM.png" alt="Primary mass and mass ratio distributions">
   <div class="fig-caption"><strong>Figure 2</strong> from the Populations paper: Primary mass distribution (left) and mass ratio distribution (right) for the BBH population. Blue = PixelPop (GWTC-5), red = FullPop (GWTC-5), black = FullPop (GWTC-4). Dashed vertical lines indicate the 1% boundary of the parameter estimation prior — results in hatched regions should be treated with care.</div>
 </div>
 
@@ -314,7 +314,7 @@ author_profile: true
 <h3>Spin Distribution</h3>
 
 <div class="fig-block">
-  <img src="/files/news/GWTC-5/Screenshot%202026-05-29%20at%209.59.46%20AM.png" alt="Spin magnitude and tilt distributions">
+  <img src="/files/news/GWTC-5/Screenshot-2026-05-29-at-9.59.46-AM.png" alt="Spin magnitude and tilt distributions">
   <div class="fig-caption"><strong>Figure 3</strong> from the Populations paper: Differential BBH merger rate as a function of spin magnitude (left) and tilt angle cos θ (right). There is a concentration of events near zero spin magnitude and some preference for aligned (cos θ → 1) spins, though both models show significant uncertainty.</div>
 </div>
 
@@ -325,7 +325,7 @@ author_profile: true
 <p>This is the result I find most striking — and most confusing — from this entire release. Here is Figure 4 from the Populations paper:</p>
 
 <div class="fig-block">
-  <img src="/files/news/GWTC-5/Screenshot%202026-05-29%20at%2010.00.10%20AM.png" alt="Chi_eff distribution from populations paper">
+  <img src="/files/news/GWTC-5/Screenshot-2026-05-29-at-10.00.10-AM.png" alt="Chi_eff distribution from populations paper">
   <div class="fig-caption"><strong>Figure 4</strong> from the Populations paper: Population-level posterior on the effective inspiral spin χ<sub>eff</sub> (left) and precessing spin χ<sub>p</sub> (right). Blue = PixelPop, red = Bivariate Skewed χ<sub>eff</sub>/χ<sub>p</sub> model (GWTC-5), black = SkewNormal (GWTC-4). The inset shows the asymmetry parameter δχ = p(χ<sub>eff</sub> &gt; 0) − p(χ<sub>eff</sub> &lt; 0), which is clearly positive.</div>
 </div>
 
@@ -351,7 +351,7 @@ author_profile: true
 <p>The GWTC-5.0 finding that the <em>mean</em> correlation is weakening — while the <em>width</em> of χ<sub>eff</sub> may vary with q — is both a relief and a new puzzle. It suggests the earlier signal may have been partly a statistical fluctuation or a prior artifact, which would simplify the formation interpretation considerably. But a broadening of the χ<sub>eff</sub> distribution at certain mass ratios is itself interesting and warrants follow-up. As always: more data, more complexity.</p>
 
 <div class="fig-block">
-  <img src="/files/news/GWTC-5/Screenshot%202026-05-29%20at%2010.01.22%20AM.png" alt="10 solar mass feature mass ratio and spin distributions">
+  <img src="/files/news/GWTC-5/Screenshot-2026-05-29-at-10.01.22-AM.png" alt="10 solar mass feature mass ratio and spin distributions">
   <div class="fig-caption"><strong>Figure 6</strong> from the Populations paper: Mass ratio distribution (top) and effective spin distribution (bottom) for systems near the ~10 M<sub>☉</sub> peak (red), compared to the rest of the population (blue), inferred from three models (FullPop, PixelPop, and a Binned Gaussian Process). Systems near the 10 M<sub>☉</sub> feature tend to have mass ratios near q ~ 1 and a distinct spin distribution — a potential signature of a specific formation pathway.</div>
 </div>
 
@@ -362,7 +362,7 @@ author_profile: true
 <h3>Redshift Evolution</h3>
 
 <div class="fig-block">
-  <img src="/files/news/GWTC-5/Screenshot%202026-05-29%20at%2010.01.09%20AM.png" alt="BBH redshift distribution">
+  <img src="/files/news/GWTC-5/Screenshot-2026-05-29-at-10.01.09-AM.png" alt="BBH redshift distribution">
   <div class="fig-caption"><strong>Figure 5</strong> from the Populations paper: The BBH merger rate as a function of redshift (left), with the inferred redshift evolution index κ<sub>z</sub> (right). The dashed blue line shows the star-formation rate for comparison. The inferred slope is slightly lower than previous estimates, suggesting the BBH merger rate may not track the star-formation rate as steeply as some models predict.</div>
 </div>
 

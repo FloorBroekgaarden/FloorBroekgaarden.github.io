@@ -14,7 +14,7 @@ author_profile: true
 
 <div class="news-item">
   <div class="news-date">May 29, 2026</div>
-  <div class="news-text"><img src="/files/news/GWTC-5/Screenshot%202026-05-29%20at%209.44.21%20AM.png" class="news-img" alt="GWTC-5 mass contour plot">New gravitational-wave results released from LIGO, Virgo, and KAGRA (GWTC-5). LVK announced their detections from the second half of the fourth observing run (O4b), bringing the total catalog to over 390 candidates — including the loudest gravitational-wave signal ever recorded (SNR = 76.9). I made an astrophysics-focused summary of the new catalog and population results. <a href="/gwtc5/">[summary]</a></div>
+  <div class="news-text"><img src="/files/news/GWTC-5/Screenshot-2026-05-29-at-9.44.21-AM.png" class="news-img" alt="GWTC-5 mass contour plot">New gravitational-wave results released from LIGO, Virgo, and KAGRA (GWTC-5). LVK announced their detections from the second half of the fourth observing run (O4b), bringing the total catalog to over 390 candidates — including the loudest gravitational-wave signal ever recorded (SNR = 76.9). I made an astrophysics-focused summary of the new catalog and population results. <a href="/gwtc5/">[summary]</a></div>
 </div>
 
 <div class="news-item">
