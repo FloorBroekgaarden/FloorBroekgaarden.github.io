@@ -250,7 +250,7 @@ author_profile: true
 
 <p>The Populations paper (<a href="https://arxiv.org/abs/2605.27226">arXiv:2605.27226</a>) takes all the gravitational-wave events — not just the new O4b ones — and infers what the underlying population of binary black holes and neutron stars looks like. Rather than characterizing individual events, it asks: what is the distribution of masses, spins, and merger rates across the population?</p>
 
-<p>Two complementary modeling approaches are used throughout:</p>
+<p>Two complementary modeling approaches are used throughout, this is how I think about it intuitively:</p>
 
 <table style="font-size:0.9em; border-collapse:collapse; margin: 1em 0;">
   <thead>
@@ -299,7 +299,7 @@ author_profile: true
 
 <p>Key results from the mass distribution:</p>
 <ul>
-  <li><strong>No empty gap between 3–5 M<sub>☉</sub></strong>. With GWTC-5, the models rule out a completely empty "lower mass gap." This is now very solidly established: binary black holes do form in what was historically thought to be a forbidden mass range.</li>
+  <li><strong>No empty gap between 3–5 M<sub>☉</sub></strong>. With GWTC-5, the models rule out a completely empty "lower mass gap." This is now very solidly established: binary black holes do form black holes in what was historically thought to be a forbidden mass range. This was initially really puzzling — astronomers have long been (and still are) puzzled about how to populate this range, because stellar evolution theory predicted that the progenitor stars should instead be completely disrupted by something called pair-instability supernovae, exploding without leaving behind any remnant that could later merge as a binary black hole.</li>
   <li><strong>Features at ~10 M<sub>☉</sub> and ~35 M<sub>☉</sub></strong> in the primary mass distribution continue to appear across models. Their origin is debated — they may reflect features in the stellar initial mass function, the pair-instability supernova mass spectrum, or something else entirely.</li>
   <li>The distribution extends to high masses without going to zero, confirming that BBH systems with m<sub>1</sub> ~ 70–100 M<sub>☉</sub> do form and merge.</li>
   <li><strong>No clear pair-instability supernova (PISN) gap.</strong> Although the primary-mass distribution steepens at high mass, it extends smoothly beyond 100 M<sub>☉</sub> with no clean cutoff. Early on, many theoretical models predicted a PISN mass gap — a range of black hole masses that stellar evolution cannot produce directly, because very massive stars are disrupted by pair-instability supernovae before collapse. The data suggest that if such a gap exists, it is being filled — most likely by hierarchical mergers from dense stellar environments, which can build up black holes above the PISN threshold one merger at a time. This is a really important result: it's a reminder that the observed mass spectrum is probably a superposition of multiple formation channels, and clean theoretical features get mixed and washed out in the data.</li>
@@ -336,7 +336,7 @@ author_profile: true
   <li>At the same time, they find that <strong>39 ± 7% of binaries have negative χ<sub>eff</sub></strong> (according to the Bivariate Skewed model; 36 ± 6% from PixelPop), indicating systems with at least one black hole spin misaligned by more than 90° with respect to the orbit.</li>
 </ul>
 
-<p>Here is where it gets confusing. If you take the 39% negative χ<sub>eff</sub> value at face value, you would reason: for every misaligned (negative χ<sub>eff</sub>) system, a purely dynamical channel should produce an equally likely aligned one. So if ~40% are negative, then ~40% should be positive from the same channel, meaning ~80% of all events come from dynamically formed systems. That is a very strong claim — and it seems to be in tension with what you see from individual events, where only a handful clearly require positive χ<sub>eff</sub> and almost none clearly require negative χ<sub>eff</sub>.</p>
+<p>Here is where it gets confusing. If you take the 39% negative χ<sub>eff</sub> value at face value, you would reason: for every misaligned (negative χ<sub>eff</sub>) system, a purely dynamical channel should produce an equally likely aligned one. So if ~40% are negative, then ~40% should be positive from the same channel, meaning ~80% of all events come from dynamically formed systems. That is a very strong claim — and it seems to be in tension with what you see from individual events, where already a handful clearly require positive χ<sub>eff</sub> and almost none clearly require negative χ<sub>eff</sub>.</p>
 
 <p>My honest take: I am not convinced. The χ<sub>eff</sub> measurement is notoriously difficult — it is strongly correlated with the mass ratio and other parameters, and spin inference from current detectors is genuinely hard. Furthermore, the PixelPop approach has a known limitation: even if the true χ<sub>eff</sub> distribution were a delta function at zero, the smoothness prior would spread it into both positive and negative territory. So a distribution that peaks near zero will always "leak" into the negative. I think the evidence for a significant negative-χ<sub>eff</sub> population is intriguing but not yet compelling. I want to see a few more events like GW241110 — ones that individually require negative χ<sub>eff</sub> — before drawing strong conclusions.</p>
 
@@ -381,7 +381,7 @@ author_profile: true
   <li><strong>GW250114 with SNR = 76.9 is a gift.</strong> High-SNR events do more for science per event than many low-SNR detections combined. Improving detector sensitivity is genuinely the best way to advance the field, not just accumulating more marginal candidates.</li>
 </ul>
 
-<p>The next step is O4c, whose public alerts are already visible online. Word on the street suggests no binary neutron star events there either — though the story can always change once the full catalog analysis is done. And then O5 looms on the horizon, promising another major leap in sensitivity.</p>
+<p>The next step is O4c, whose public alerts are already visible online. Word on the street (and a quick look at the <a href="https://gracedb.ligo.org/superevents/public/O4/">latest alerts</a>) suggests no binary neutron star events there either — though the story can always change once the full catalog analysis is done. And then O5 looms on the horizon, promising another major leap in sensitivity.</p>
 
 <p>It's a great time to be in this field.</p>
 
