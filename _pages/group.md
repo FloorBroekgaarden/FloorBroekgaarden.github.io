@@ -41,7 +41,11 @@ author_profile: true
 
 # UCSD Gravitational-Wave Paleontology Lab
 
-<img src="/images/gwpaleontology_group.png" alt="GW Paleontology Group" style="width:100%; border-radius:6px; margin-bottom:1.5em;">
+<p style="font-style: italic; font-size: 1.05em; color: #555; margin-top: -0.5em; margin-bottom: 1.2em;">Reconstructing the lives of massive stars across cosmic time through black hole fossils</p>
+
+<img src="/images/gwpaleontology_group.png" alt="GW Paleontology Group" style="width:100%; border-radius:6px; margin-bottom:1em;">
+
+<p style="font-size: 0.97em; line-height: 1.7; margin-bottom: 1.5em;">The Gravitational-Wave Paleontology Lab uses astrophysical simulations and AI-driven data science to reconstruct the lives of massive stars across cosmic time from observations of gravitational waves of their black hole fossils.</p>
 
 ---
 
