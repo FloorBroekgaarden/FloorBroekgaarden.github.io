@@ -217,7 +217,7 @@ author_profile: true
 <div class="event-card">
   <div class="event-name">GW241110_124123 — Another Unequal-Mass Candidate</div>
   <p>Another unequal-mass system, with a spinning primary roughly twice as massive as the secondary — also a possible hierarchical merger candidate. The mass ratio is less well-constrained here.</p>
-  <p>This event is especially interesting because it may be the first gravitational-wave event to <em>require</em> a negative effective inspiral spin (χ<sub>eff</sub> &lt; 0), with a 90% credible interval of roughly −0.31 to +0.23. I'll return to this below — it is one of the most puzzling aspects of the entire GWTC-5 release.</p>
+  <p>This event is especially interesting because it may be the first gravitational-wave event to <em>require</em> a negative effective inspiral spin (χ<sub>eff</sub> &lt; 0), with a median of −0.31<sup>+0.23</sup><sub>−0.18</sub> (90% credible interval). I'll return to this below — it is one of the most puzzling aspects of the entire GWTC-5 release.</p>
 </div>
 
 <div class="event-card">
