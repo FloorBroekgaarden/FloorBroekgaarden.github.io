@@ -147,7 +147,7 @@ details[open] summary::after {
 
 <p class="blog-intro">Short posts, paper summaries, and research updates from the GW Paleontology Lab — covering both results from our group and highlights from the broader gravitational-wave and stellar astrophysics community. Meant as a resource for anyone wanting to stay up to date on the latest in gravitational-wave paleontology. Click any entry to expand it.</p>
 
-<details>
+<details id="vanSon2026">
   <summary>van Son et al. 2026 — Post-Mass-Transfer Binaries: A Living Catalog &amp; Unified Review <span class="item-date">Jun 1, 2026</span></summary>
   <div class="details-content">
 
@@ -196,7 +196,7 @@ details[open] summary::after {
   </div>
 </details>
 
-<details>
+<details id="gwtc5">
   <summary>GWTC-5: My Summary of the New Gravitational-Wave Catalog <span class="item-date">May 29, 2026</span></summary>
   <div class="details-content">
 
@@ -402,3 +402,30 @@ details[open] summary::after {
 
   </div>
 </details>
+
+<script>
+(function () {
+  function openById(id) {
+    var el = document.getElementById(id);
+    if (el && el.tagName === 'DETAILS') {
+      el.open = true;
+      setTimeout(function () { el.scrollIntoView({ behavior: 'smooth', block: 'start' }); }, 50);
+    }
+  }
+
+  // On load, open the entry matching the URL hash
+  var hash = window.location.hash.slice(1);
+  if (hash) openById(hash);
+
+  // When an entry is expanded, update the URL hash
+  document.querySelectorAll('details[id]').forEach(function (details) {
+    details.addEventListener('toggle', function () {
+      if (details.open) {
+        history.replaceState(null, '', '#' + details.id);
+      } else if (window.location.hash === '#' + details.id) {
+        history.replaceState(null, '', window.location.pathname);
+      }
+    });
+  });
+})();
+</script>
