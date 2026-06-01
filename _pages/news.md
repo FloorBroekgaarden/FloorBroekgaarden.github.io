@@ -14,6 +14,11 @@ author_profile: true
 
 <div class="news-item">
   <div class="news-date">Jun 1, 2026</div>
+  <div class="news-text">🎉 HUGE congratulations to GW Paleontology friend and UCSD astro major <strong>Kenneth Cervantes</strong> for being accepted into the MSc Astronomy program at <strong>Leiden University</strong> — one of the best astronomy MSc programs in the world! And enormous congratulations also to group member and astro major <strong>Matthew McCall</strong> for being accepted into the prestigious Masters program at <strong>USC</strong>, where he will start this Fall! So proud of both of them!</div>
+</div>
+
+<div class="news-item">
+  <div class="news-date">Jun 1, 2026</div>
   <div class="news-text">Congratulations to GW Paleontology Lab members <strong>Sasha Levina</strong> and <strong>Marko Ristić</strong> for being selected for <a href="https://www.acme-astro.eu/tna-jce-3rd-call-results/" target="_blank">ACME visitor positions</a> — chosen from over 108 applicants, and among only a handful of US-based researchers selected to visit Europe! Sasha is planning to visit UNIGE in Geneva, and Marko is planning to visit INFN. <a href="https://www.acme-astro.eu/" target="_blank">ACME</a> (the Astrophysics Centre for Multi-messenger studies in Europe) is a new research center coordinating European-wide access to leading multi-messenger astrophysics research infrastructures, instruments, data, and expertise.</div>
 </div>
 
