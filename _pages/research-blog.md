@@ -148,6 +148,55 @@ details[open] summary::after {
 <p class="blog-intro">Short posts, paper summaries, and research updates from the GW Paleontology Lab — covering both results from our group and highlights from the broader gravitational-wave and stellar astrophysics community. Meant as a resource for anyone wanting to stay up to date on the latest in gravitational-wave paleontology. Click any entry to expand it.</p>
 
 <details>
+  <summary>van Son et al. 2026 — Post-Mass-Transfer Binaries: A Living Catalog &amp; Unified Review <span class="item-date">Jun 1, 2026</span></summary>
+  <div class="details-content">
+
+<p><em>van Son, Yamaguchi, Nagarajan, Shenar, Sen, Laroche, Leiner, Sana &amp; Pols (2026) · <a href="https://arxiv.org/abs/2605.31290" target="_blank">arXiv:2605.31290</a> · <a href="https://binary-observations.github.io/post_mt_catalog/" target="_blank">Interactive Catalog</a></em></p>
+
+<p style="font-size:0.88em; color:#666; margin-top:-0.3em;"><em>Parts of the summary below are based on text and highlights provided by lead author Lieke van Son — with thanks and credit to her and the full author team.</em></p>
+
+<div class="highlight-box">
+<strong>TLDR (credit: authors):</strong> A comprehensive living catalog of over 5,400 binary systems that have undergone mass transfer, unifying observations across multiple research communities. Non-zero eccentricities are common at all periods and system classes, with both median values and scatter increasing with period. Gaia BH and NS systems are extreme in mass ratio but otherwise consistent with the general post-mass-transfer population.
+</div>
+
+<p>Super cool paper on the arXiv today that is directly relevant for gravitational-wave paleontology — and honestly, one I've been hoping someone would write for a while.</p>
+
+<p>Mass transfer is one of the most uncertain and consequential phases in binary stellar evolution. Whether a binary survives a mass transfer episode, and what happens to its orbital properties — separation, eccentricity, mass ratio — in the process, largely determines whether it can eventually form a merging compact object binary. Despite its central importance, mass transfer has been notoriously hard to constrain observationally, especially for massive star binaries where data has historically been very sparse. (For a great recent review of how little we know, see <a href="https://arxiv.org/pdf/2311.01865" target="_blank">Marchant &amp; Bodensteiner 2023</a>.)</p>
+
+<p>What makes this new paper so exciting is that the observational landscape is changing — fast. New surveys like Gaia, combined with a wealth of X-ray binaries, spectroscopic binaries, pulsar binaries, and a rapidly growing body of observations of binaries with white dwarfs, are flooding us with new data. Van Son et al. bring all of these together into a single unified catalog and review — a living, community-maintained resource of over 5,400 post-mass-transfer systems — and by doing so they are able to highlight patterns that would be invisible when looking at any one population in isolation.</p>
+
+<div class="fig-block">
+  <img src="/images/research_blog/June-vanSon26/Figure1.png" alt="Overview of post-mass-transfer binary populations (van Son et al. 2026, Figure 1)">
+  <div class="fig-caption"><strong>Figure 1</strong> from van Son et al. (2026): An overview of the diverse populations of binary systems included in the catalog, spanning X-ray binaries, Gaia black hole and neutron star systems, spectroscopic binaries, pulsar binaries, and wide WD+MS systems. The breadth of this compilation is itself remarkable.</div>
+</div>
+
+<p>The headline result — and the one I find most important for GW paleontology — is about <strong>eccentricity</strong>. One of the standard assumptions baked into most binary population synthesis codes (including the ones we use to model gravitational-wave sources) is that binaries circularize after mass transfer. This paper challenges that assumption head-on.</p>
+
+<div class="fig-block">
+  <img src="/images/research_blog/June-vanSon26/Figure2.png" alt="Eccentricity across post-mass-transfer populations (van Son et al. 2026, Figure 2)">
+  <div class="fig-caption"><strong>Figure 2</strong> from van Son et al. (2026): Eccentricity as a function of orbital period across the full post-mass-transfer population. Non-zero eccentricities are common throughout — at all periods and across all system classes — with both the median eccentricity and its scatter increasing with period.</div>
+</div>
+
+<p>Looking at the full population together (Figure 2), a clear picture emerges: <strong>non-zero eccentricities are common throughout</strong>, across all periods and system classes. This is not a quirk of one exotic subpopulation — it appears to be a generic feature of binaries after mass transfer. The three key results I'd highlight:</p>
+
+<ol>
+  <li><strong>Post-mass-transfer systems are not circular.</strong> The data firmly constrains the median eccentricity as a function of log period, and circular is not a good description — at least for a significant subset of systems at most periods.</li>
+  <li><strong>Systems from presumed high-mass donors are more eccentric than those from low-mass donors.</strong> This asymmetry is a tantalizing hint that natal kicks — the velocity kick a neutron star or black hole receives at birth — may be playing a role in pumping up eccentricities in the more massive systems.</li>
+  <li><strong>The Gaia BH and NS systems are not outliers</strong> — except in mass ratio for the Gaia BHs. In terms of orbital properties, they appear to be part of the same broader post-mass-transfer population. This is a really striking result: rather than being mysterious one-off systems, these Gaia discoveries may be telling us something about binary mass transfer that applies much more generally — especially the wide WD+MS systems that have long been an outlier in our theoretical models.</li>
+</ol>
+
+<p>The interactive online version of the catalog is genuinely fantastic, and potentially even more impactful than the paper itself:</p>
+<p>→ <a href="https://binary-observations.github.io/post_mt_catalog/" target="_blank"><strong>binary-observations.github.io/post_mt_catalog/</strong></a></p>
+<p>You can sort, filter, and download the data; browse through interactive plots; and even <em>suggest a missing system</em> via a built-in interface to help improve the resource. This is community science done right.</p>
+
+<p>From a GW paleontology perspective, the key takeaway is clear: <strong>we need to revisit the circularization assumption in our population synthesis simulations.</strong> If post-mass-transfer binaries are generically eccentric, then modeling their subsequent evolution — including how eccentricity affects later mass transfer episodes, supernova dynamics, and final merger timescales — matters. Eccentric mass transfer is technically hard to implement, but this paper makes the observational case for why it cannot keep being ignored. This is exactly the kind of observational anchor that GROWL-style frameworks need to pull against.</p>
+
+<p>Big congratulations to Lieke van Son and the whole team on this one — it's a team effort and a major community resource.</p>
+
+  </div>
+</details>
+
+<details>
   <summary>GWTC-5: My Summary of the New Gravitational-Wave Catalog <span class="item-date">May 29, 2026</span></summary>
   <div class="details-content">
 
