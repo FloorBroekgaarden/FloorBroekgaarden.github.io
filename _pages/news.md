@@ -13,6 +13,11 @@ author_profile: true
 </style>
 
 <div class="news-item">
+  <div class="news-date">Jun 2, 2026</div>
+  <div class="news-text">🇺🇸 Received my actual green card today — so excited to officially be able to stay in the United States for at least another 10 years!!</div>
+</div>
+
+<div class="news-item">
   <div class="news-date">Jun 1, 2026</div>
   <div class="news-text">🎉 HUGE congratulations to GW Paleontology friend and UCSD astro major <strong>Kenneth Cervantes</strong> for being accepted into the MSc Astronomy program at <strong>Leiden University</strong> — one of the best astronomy MSc programs in the world! And enormous congratulations also to group member and astro major <strong>Matthew McCall</strong> for being accepted into the prestigious Masters program at <strong>USC</strong>, where he will start this Fall! So proud of both of them!</div>
 </div>
