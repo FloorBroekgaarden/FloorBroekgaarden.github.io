@@ -148,7 +148,7 @@ details[open] summary::after {
 <p class="blog-intro">Short posts, paper summaries, and research updates from the GW Paleontology Lab — covering both results from our group and highlights from the broader gravitational-wave and stellar astrophysics community. Meant as a resource for anyone wanting to stay up to date on the latest in gravitational-wave paleontology. Click any entry to expand it.</p>
 
 <details id="vanSon2026">
-  <summary>van Son et al. 2026 — Post-Mass-Transfer Binaries: A Living Catalog &amp; Unified Review <span class="item-date">Jun 1, 2026</span></summary>
+  <summary onclick="var d=this.closest('details');setTimeout(function(){if(d.open)history.replaceState(null,'','#'+d.id);else history.replaceState(null,'',location.pathname);},0)">van Son et al. 2026 — Post-Mass-Transfer Binaries: A Living Catalog &amp; Unified Review <span class="item-date">Jun 1, 2026</span></summary>
   <div class="details-content">
 
 <p><em>van Son, Yamaguchi, Nagarajan, Shenar, Sen, Laroche, Leiner, Sana &amp; Pols (2026) · <a href="https://arxiv.org/abs/2605.31290" target="_blank">arXiv:2605.31290</a> · <a href="https://binary-observations.github.io/post_mt_catalog/" target="_blank">Interactive Catalog</a></em></p>
@@ -197,7 +197,7 @@ details[open] summary::after {
 </details>
 
 <details id="gwtc5">
-  <summary>GWTC-5: My Summary of the New Gravitational-Wave Catalog <span class="item-date">May 29, 2026</span></summary>
+  <summary onclick="var d=this.closest('details');setTimeout(function(){if(d.open)history.replaceState(null,'','#'+d.id);else history.replaceState(null,'',location.pathname);},0)">GWTC-5: My Summary of the New Gravitational-Wave Catalog <span class="item-date">May 29, 2026</span></summary>
   <div class="details-content">
 
 <p><em>This is my astrophysics-focused summary of the new GWTC-5 gravitational-wave catalog papers released by the LIGO–Virgo–KAGRA (LVK) collaboration. It is a biased summary: I come at this from the angle of trying to use gravitational-wave data to understand the lives of massive stars, and the results I find most exciting reflect that. I gave a talk on this for the group this week; some of the thoughts below are drawn from that discussion.</em></p>
@@ -404,35 +404,21 @@ details[open] summary::after {
 </details>
 
 <script>
+// Open and scroll to the entry matching the URL hash on page load
 (function () {
-  function init() {
-    // Attach toggle listeners to every details[id]
-    document.querySelectorAll('details[id]').forEach(function (d) {
-      d.addEventListener('toggle', function () {
-        if (d.open) {
-          history.replaceState(null, '', '#' + d.id);
-        } else if (window.location.hash === '#' + d.id) {
-          history.replaceState(null, '', window.location.pathname);
-        }
-      });
-    });
-
-    // On page load, open + scroll to the entry matching the URL hash
+  function openHash() {
     var hash = window.location.hash.slice(1);
-    if (hash) {
-      var el = document.getElementById(hash);
-      if (el && el.tagName === 'DETAILS') {
-        el.open = true;
-        setTimeout(function () { el.scrollIntoView({ behavior: 'smooth', block: 'start' }); }, 100);
-      }
+    if (!hash) return;
+    var el = document.getElementById(hash);
+    if (el && el.tagName === 'DETAILS') {
+      el.open = true;
+      setTimeout(function () { el.scrollIntoView({ behavior: 'smooth', block: 'start' }); }, 100);
     }
   }
-
-  // Run after DOM is ready, regardless of when this script executes
   if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', init);
+    document.addEventListener('DOMContentLoaded', openHash);
   } else {
-    init();
+    openHash();
   }
 })();
 </script>
