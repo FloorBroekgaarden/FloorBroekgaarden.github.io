@@ -405,27 +405,34 @@ details[open] summary::after {
 
 <script>
 (function () {
-  function openById(id) {
-    var el = document.getElementById(id);
-    if (el && el.tagName === 'DETAILS') {
-      el.open = true;
-      setTimeout(function () { el.scrollIntoView({ behavior: 'smooth', block: 'start' }); }, 50);
+  function init() {
+    // Attach toggle listeners to every details[id]
+    document.querySelectorAll('details[id]').forEach(function (d) {
+      d.addEventListener('toggle', function () {
+        if (d.open) {
+          history.replaceState(null, '', '#' + d.id);
+        } else if (window.location.hash === '#' + d.id) {
+          history.replaceState(null, '', window.location.pathname);
+        }
+      });
+    });
+
+    // On page load, open + scroll to the entry matching the URL hash
+    var hash = window.location.hash.slice(1);
+    if (hash) {
+      var el = document.getElementById(hash);
+      if (el && el.tagName === 'DETAILS') {
+        el.open = true;
+        setTimeout(function () { el.scrollIntoView({ behavior: 'smooth', block: 'start' }); }, 100);
+      }
     }
   }
 
-  // On load, open the entry matching the URL hash
-  var hash = window.location.hash.slice(1);
-  if (hash) openById(hash);
-
-  // When an entry is expanded, update the URL hash
-  document.querySelectorAll('details[id]').forEach(function (details) {
-    details.addEventListener('toggle', function () {
-      if (details.open) {
-        history.replaceState(null, '', '#' + details.id);
-      } else if (window.location.hash === '#' + details.id) {
-        history.replaceState(null, '', window.location.pathname);
-      }
-    });
-  });
+  // Run after DOM is ready, regardless of when this script executes
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', init);
+  } else {
+    init();
+  }
 })();
 </script>
