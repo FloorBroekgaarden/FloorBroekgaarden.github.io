@@ -70,7 +70,7 @@ author_profile: true
   <img src="/images/group/kyle-rocha.jpg" alt="Kyle Akira Rocha" class="member-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
   <div class="member-photo-placeholder" style="display:none;">No photo</div>
   <div class="member-info">
-    <h3>Kyle Akira Rocha</h3>
+    <h3><a href="https://ka-rocha.github.io" target="_blank">Kyle Akira Rocha</a></h3>
     <p class="role">Postdoctoral Fellow in GWs and Compact Objects, UC San Diego</p>
     <p>Kyle's research is on the theory of massive binary stellar evolution, including the formation and evolution of X-ray binaries, as well as detailed models for mass transfer interactions — from large-scale populations to individual systems. In his free time Kyle enjoys staying active outdoors by surfing and playing beach volleyball.</p>
   </div>
