@@ -13,6 +13,11 @@ author_profile: true
 </style>
 
 <div class="news-item">
+  <div class="news-date">Jun 4, 2026</div>
+  <div class="news-text"><img src="/images/meetings/pranav-nagarajan-strand-2026.jpg" class="news-img" alt="Pranav Nagarajan STRAND talk">Exciting STRAND talk by <strong>Pranav Nagarajan</strong> on understanding GAIA's black holes and what they tell us about stellar evolution! <a href="https://youtu.be/dCVtaacHxdQ" target="_blank">[recording]</a></div>
+</div>
+
+<div class="news-item">
   <div class="news-date">Jun 3, 2026</div>
   <div class="news-text">🎉 HUGE congratulations to GW Paleontology collaborator <strong>Aobo Li</strong> on receiving an <strong>NSF CAREER award</strong>! His proposal, <em>"Detecting Extremely Rare Physics Events in the Era of AI for Science,"</em> focuses on developing AI agents to automate the search for neutrinos and dark matter, as well as interdisciplinary AI education between physics and data science. <a href="https://www.nsf.gov/awardsearch/show-award/?AWD_ID=2542832" target="_blank">[NSF award]</a></div>
 </div>
