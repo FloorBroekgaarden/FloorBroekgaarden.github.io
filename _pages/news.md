@@ -13,6 +13,11 @@ author_profile: true
 </style>
 
 <div class="news-item">
+  <div class="news-date">Jun 3, 2026</div>
+  <div class="news-text">🎉 HUGE congratulations to GW Paleontology collaborator <strong>Aobo Li</strong> on receiving an <strong>NSF CAREER award</strong>! His proposal, <em>"Detecting Extremely Rare Physics Events in the Era of AI for Science,"</em> focuses on developing AI agents to automate the search for neutrinos and dark matter, as well as interdisciplinary AI education between physics and data science. <a href="https://www.nsf.gov/awardsearch/show-award/?AWD_ID=2542832" target="_blank">[NSF award]</a></div>
+</div>
+
+<div class="news-item">
   <div class="news-date">Jun 2, 2026</div>
   <div class="news-text">🇺🇸 Received my actual green card today — so excited to officially be able to stay in the United States for at least another 10 years!!</div>
 </div>
