@@ -114,10 +114,25 @@ author_profile: true
   </div>
 </div>
 
+<div class="software-item">
+  <h3>11. BBH Merger Populations using Cosmic Star Formation Histories — Levina et al. 2026</h3>
+  <p class="software-meta">2026 · Levina, S., Broekgaarden, F., van Son, L., Berti, E., Romagnolo, A., Pakmor, R., Lam, A.</p>
+  <p>Python software for modeling binary black hole merger populations using metallicity-dependent star formation rate densities extracted from IllustrisTNG cosmological simulations. Implements cosmic integration through COMPAS post-processing, enabling comparison of predictions using direct simulation data versus analytical fits. Accompanies the submitted ApJ paper examining how analytical star formation history models impact gravitational-wave source populations.</p>
+  <div class="software-links">
+    <a href="https://zenodo.org/records/18384088" target="_blank">Zenodo</a>
+  </div>
+</div>
+
 <hr style="margin: 2.5em 0;">
 
 <h2>Public Data Sets</h2>
 <p style="font-size: 0.95em; color: #555; margin-bottom: 1.5em;">All public data releases on <a href="https://zenodo.org/search?q=creators.name%3ABroekgaarden&sort=newest" target="_blank">Zenodo</a>, ordered newest to oldest.</p>
+
+<div class="software-item">
+  <h3>BBH Merger Populations using Cosmic Star Formation Histories — Levina et al. 2026</h3>
+  <p class="software-meta">2026 · <a href="https://doi.org/10.5281/zenodo.18384088" target="_blank">10.5281/zenodo.18384088</a></p>
+  <p>Sasha Levina, Floor Broekgaarden, Lieke van Son, Emanuele Berti, Amedeo Romagnolo, Ruediger Pakmor, Ana Lam</p>
+</div>
 
 <div class="software-item">
   <h3>Dataset from: Multi-messenger observations in the Einstein Telescope era</h3>
