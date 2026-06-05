@@ -82,6 +82,45 @@ details[open] summary::after {
 <h2>Paper highlights</h2>
 <p style="font-size: 0.95em; color: #555; margin-bottom: 1.5em;">Click any entry to expand it.</p>
 
+<details id="broekgaarden2026ce">
+  <summary onclick="var d=this.closest('details');setTimeout(function(){if(d.open)history.replaceState(null,'','#'+d.id);else history.replaceState(null,'',location.pathname);},0)">Broekgaarden et al. 2026 — How Common Are Common Envelopes? Quantifying Their Role in Forming Gravitational-Wave Sources <span class="item-date">Jun 4, 2026</span></summary>
+  <div class="details-content">
+
+  <p>Excited that my paper is out! This was a team effort: <strong>Floor S. Broekgaarden</strong>, Ana Lam, Sasha Levina, Jakub Klencki, Kyle A. Rocha, Lieke van Son, Steffani M. Grondin, Monica Gallegos-Garcia, Brian D. Metzger, Enrico Ramirez-Ruiz, Angela Twum, Melanie Santiago, Julia Haynes, Tyler B. Smith, Amedeo Romagnolo, Edo Berger, and Lucas M. de Sá<br>
+  <a href="https://arxiv.org/abs/2606.05322" target="_blank">arXiv:2606.05322</a></p>
+
+  <p>All data and results are publicly available with interactive figures and tables you can explore yourself: <a href="https://floorbroekgaarden.github.io/Rates_of_Formation_Channels/interactive_figures_and_tables/formation_channel_rates_table.html" target="_blank"><strong>[interactive catalog]</strong></a></p>
+
+  <p>One of the most consequential — and most uncertain — phases in the life of a binary star system is <strong>common-envelope (CE) evolution</strong>. When one star grows large and engulfs its companion, the two stars spiral together inside a shared gas envelope. If the system survives, the orbit shrinks dramatically, setting up the binary to eventually merge as a pair of compact objects detectable by LIGO, Virgo, and KAGRA. If it doesn't survive, the binary is destroyed. CE evolution is therefore a critical bottleneck in forming gravitational-wave sources — yet after decades of study, we still don't fully understand it.</p>
+
+  <p>This paper asks a deceptively simple question: <em>is CE evolution actually required to form the binary black holes, neutron stars, and mixed systems that gravitational-wave observatories detect?</em> Rather than picking a single simulation and reporting its answer, we compiled and compared predictions from <strong>over 200 population-synthesis simulations</strong> spanning many different codes and physical assumptions, and asked what fraction of merging systems in each simulation formed through a CE phase.</p>
+
+  <figure>
+    <img src="/images/gwp-news/26_06_05/Figure2.png" alt="Figure 2: Global overview of CE fraction diversity across 200+ population-synthesis simulations for BBH, BHNS, and BNS" style="width: 100%; max-width: 860px; border-radius: 4px;">
+    <figcaption><strong>Figure 2.</strong> Global overview of Level 1 formation-channel diversity across 200+ compiled population-synthesis simulations. Each point shows the fraction of systems forming with CE (x-axis) vs. without CE (y-axis) for binary black holes (BBH, 117 simulations), BH–neutron star systems (BHNS, 71 simulations), and binary neutron stars (BNS, 53 simulations). BBH and BHNS populations scatter across nearly the full allowed range — from CE-dominated to entirely CE-free — while BNS mergers cluster strongly toward the CE side. See the <a href="https://floorbroekgaarden.github.io/Rates_of_Formation_Channels/interactive_figures_and_tables/formation_channel_rates_table.html" target="_blank">interactive catalog</a> to explore individual simulations.</figcaption>
+  </figure>
+
+  <p>The headline result (Figure 2) is striking: <strong>for binary black holes and BH–neutron star systems, the simulations span nearly the full allowed range</strong> — from models where essentially every merger formed through a CE phase to models where none did — yet these same models all produce similar merger rates consistent with current LVK observations. This reveals a <strong>fundamental degeneracy</strong>: merger rates alone cannot tell us how these systems formed. We can match the data with completely opposite physical assumptions about CE evolution.</p>
+
+  <p>Binary neutron stars tell a very different story. Across essentially all models, BNS mergers form almost exclusively through channels involving at least one CE phase (≳90–100%). This makes BNS systems a much more powerful probe of CE physics — if we can measure their merger rates and mass distributions precisely enough, we can potentially break the degeneracy that plagues the BBH population.</p>
+
+  <figure>
+    <img src="/images/gwp-news/26_06_05/Figure3.png" alt="Figure 3: Fractional CE contributions per simulation for the BBH population" style="width: 100%; max-width: 860px; border-radius: 4px;">
+    <figcaption><strong>Figure 3.</strong> Fractional contributions of formation channels (with CE in blue/orange, without CE in orange, other channels in lighter colors) for every BBH simulation in the compiled catalog, sorted by CE fraction. The right panel shows the corresponding intrinsic BBH merger rate R₀ for each simulation. The enormous spread in CE fractions — from 0% to ~100% — is immediately visible, and critically, this spread is not correlated with the merger rate: simulations at both extremes of CE fraction produce rates consistent with LVK observations.</figcaption>
+  </figure>
+
+  <p>Figure 3 makes the diversity explicit: sorted by CE fraction, the simulations fill essentially every possible value from 0 to 100%, and the accompanying merger rate (right panel) shows no strong trend. You can predict almost any CE fraction and still match the observed BBH rate. The diversity is driven by a handful of key assumptions — <strong>mass-transfer stability, angular-momentum loss, CE efficiency, and supernova natal kicks</strong> — but these parameters interact non-linearly and in correlated ways across different simulation codes and frameworks. This means that trends found by varying one parameter at a time within a single code don't straightforwardly generalize to the full landscape of models.</p>
+
+  <figure>
+    <img src="/images/gwp-news/26_06_05/Figure9.png" alt="Figure 9: BBH CE fraction vs merger rate across simulation frameworks" style="width: 100%; max-width: 860px; border-radius: 4px;">
+    <figcaption><strong>Figure 9.</strong> Top panel: fraction of BBH mergers forming without a CE phase vs. total intrinsic BBH merger rate, for every simulation in the catalog colored by simulation framework. Within any single framework, varying parameters can shift both the CE fraction and the merger rate, but across the full compilation there is no universal correlation: CE-free and CE-dominated models alike span the full range of observed-compatible merger rates. The bottom panels show pairwise comparisons of key model parameters, illustrating the highly non-linear and framework-dependent nature of the relationships.</figcaption>
+  </figure>
+
+  <p>The bottom line is that we need to go beyond merger-rate measurements alone. Multi-messenger observations, mass and spin distributions, delay-time distributions, and eventually electromagnetic counterparts will all be needed to break the degeneracy and constrain what CE evolution actually looks like. The interactive catalog accompanying this paper is designed to make it easy to explore the full simulation landscape and identify which observables are most diagnostic. There is much more work to do here — but this paper is intended as a community resource to anchor those future efforts.</p>
+
+  </div>
+</details>
+
 <details id="massquerade2026">
   <summary onclick="var d=this.closest('details');setTimeout(function(){if(d.open)history.replaceState(null,'','#'+d.id);else history.replaceState(null,'',location.pathname);},0)">Smith et al. 2026 — Massquerade: Impacts of Mass Ratio Reversals on Binary Black Hole Merger Rates and Mass Distributions <span class="item-date">May 20, 2026</span></summary>
   <div class="details-content">
