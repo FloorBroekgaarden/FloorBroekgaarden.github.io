@@ -14,6 +14,21 @@ author_profile: true
 
 <div class="news-item">
   <div class="news-date">Jun 4, 2026</div>
+  <div class="news-text">🌟 <strong>New paper alert!</strong> 🌟<br><br>
+  Floor Broekgaarden, Ana Lam, Sasha Levina, Kyle Rocha, Lieke van Son, Steffani Grondin, Angela Twum, Melanie Santiago, Julia Haynes, Tyler Smith, Amedeo Romagnolo, Lucas de Sá<br><br>
+  📄 <a href="https://arxiv.org/abs/2606.05322"><em>"How Common Are Common Envelopes? Quantifying Their Role in Forming Gravitational-Wave Sources"</em></a><br><br>
+  We compiled and compared formation-channel predictions from 200+ population-synthesis simulations to ask a deceptively simple question: is common-envelope (CE) evolution actually required to form the binary black holes, neutron stars, and mixed systems that LIGO/Virgo/KAGRA detects?<br><br>
+  <strong>Key findings:</strong>
+  <ul>
+    <li>🔵 <strong>Binary black holes &amp; BH–neutron star systems:</strong> models span the full range from CE-dominated to CE-free formation, yet produce similar merger rates. This reveals a fundamental degeneracy: merger rates alone cannot tell us how these systems formed.</li>
+    <li>🟠 <strong>Binary neutron stars:</strong> CE evolution is robustly required across essentially all models (≳90–100%). This makes BNS mergers a more powerful probe of CE physics.</li>
+    <li>⚙️ The diversity is driven by a handful of key assumptions — mass-transfer stability, angular-momentum loss, CE efficiency, and supernova kicks — but these act non-linearly and in correlated ways, meaning trends from varying one parameter at a time don't generalize. There is much more work to do here!</li>
+  </ul>
+  🖥️ <strong>Interactive catalog:</strong> All data is publicly available with interactive figures and tables to explore the full simulation landscape yourself → <a href="https://floorbroekgaarden.github.io/Rates_of_Formation_Channels/interactive_figures_and_tables/formation_channel_rates_table.html">[interactive catalog]</a> — and of course all code to reproduce everything is publicly available too 😎</div>
+</div>
+
+<div class="news-item">
+  <div class="news-date">Jun 4, 2026</div>
   <div class="news-text"><img src="/images/meetings/gwp-boba-2026-06-04.jpg" class="news-img" alt="GW Paleontology group Boba outing">🧋 GW Paleontology group got Boba today to celebrate all the recent successes and the (almost) end of the spring quarter! From left to right, top to bottom: Joseph, Melanie, Sasha, Matthew, Kyle, Kenneth, Laya, Kera, Floor.</div>
 </div>
 
