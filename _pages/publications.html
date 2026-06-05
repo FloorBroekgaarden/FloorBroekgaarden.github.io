@@ -15,11 +15,77 @@ author_profile: true
 
 <hr>
 
-<h2>Paper highlights</h2>
+<style>
+details {
+  border: 1px solid #e0e0e0;
+  border-radius: 6px;
+  margin-bottom: 0.8em;
+  background: #fff;
+}
 
-<div style="margin-top: 1.5em;">
-  <p style="color: #666; font-size: 0.9em;">May 20, 2026</p>
-  <h3 style="margin-top: 0.2em;">Massquerade: Impacts of Mass Ratio Reversals on Binary Black Hole Merger Rates and Mass Distributions</h3>
+details[open] {
+  border-color: #bbb;
+}
+
+summary {
+  padding: 0.85em 1.1em;
+  cursor: pointer;
+  font-size: 1em;
+  font-weight: 600;
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  user-select: none;
+}
+
+summary::-webkit-details-marker { display: none; }
+
+summary::after {
+  content: "＋";
+  font-size: 1.1em;
+  color: #999;
+  font-weight: 300;
+}
+
+details[open] summary::after {
+  content: "－";
+}
+
+.details-content {
+  padding: 0.5em 1.4em 1.4em;
+  border-top: 1px solid #eee;
+  font-size: 0.95em;
+  line-height: 1.75;
+}
+
+.details-content p { margin: 0.7em 0 0.9em; }
+
+.item-date {
+  font-weight: 400;
+  font-size: 0.85em;
+  color: #888;
+  margin-left: 0.8em;
+}
+
+.details-content figure {
+  margin: 2em 0;
+}
+
+.details-content figcaption {
+  font-size: 0.85em;
+  color: #555;
+  margin-top: 0.5em;
+}
+</style>
+
+<h2>Paper highlights</h2>
+<p style="font-size: 0.95em; color: #555; margin-bottom: 1.5em;">Click any entry to expand it.</p>
+
+<details id="massquerade2026">
+  <summary onclick="var d=this.closest('details');setTimeout(function(){if(d.open)history.replaceState(null,'','#'+d.id);else history.replaceState(null,'',location.pathname);},0)">Smith et al. 2026 — Massquerade: Impacts of Mass Ratio Reversals on Binary Black Hole Merger Rates and Mass Distributions <span class="item-date">May 20, 2026</span></summary>
+  <div class="details-content">
+
   <p>Tyler B. Smith, Floor Broekgaarden, Sasha Levina, Amedeo Romagnolo, Manasvini Komandur, Melanie Santiago, Kyle A. Rocha<br>
   <a href="https://arxiv.org/abs/2605.21580" target="_blank">arXiv:2605.21580</a></p>
 
@@ -31,22 +97,23 @@ author_profile: true
 
   <p>The paper also identifies three distinct evolutionary channels that produce MRR (Figure 6 below): (1) <strong>core growth</strong>, where stable mass transfer fattens the secondary's helium core until it collapses into the heavier black hole; (2) <strong>PPISN shrinkage</strong>, where the primary loses mass through violent pulsational pair-instability episodes and ends up lighter than the secondary; and (3) <strong>asymmetric core-collapse supernovae</strong>, where differential stripping leaves the secondary with a heavier remnant.</p>
 
-  <figure style="margin: 2em 0;">
+  <figure>
     <img src="/images/massquerade_fig2.png" alt="Figure 2: BBH merger rate density broken down by MRR and non-MRR contributions for COMPAS and SEVN" style="width: 100%; max-width: 860px; border-radius: 4px;">
-    <figcaption style="font-size: 0.85em; color: #555; margin-top: 0.5em;"><strong>Figure 2.</strong> Intrinsic binary black hole merger rate density as a function of primary mass M₁ (top), secondary mass M₂ (middle), and mass ratio q (bottom) at redshift z ≈ 0.2, for COMPAS (left) and SEVN (right). The total population (black) is split into MRR (purple) and non-MRR (green) contributions and compared to LVK observational constraints (gray shaded regions). COMPAS predicts MRR systems dominate at high masses, while SEVN shows a more diffuse, subdominant contribution. Both models agree that MRR preferentially populates the high mass-ratio regime (q ≳ 0.6).</figcaption>
+    <figcaption><strong>Figure 2.</strong> Intrinsic binary black hole merger rate density as a function of primary mass M₁ (top), secondary mass M₂ (middle), and mass ratio q (bottom) at redshift z ≈ 0.2, for COMPAS (left) and SEVN (right). The total population (black) is split into MRR (purple) and non-MRR (green) contributions and compared to LVK observational constraints (gray shaded regions). COMPAS predicts MRR systems dominate at high masses, while SEVN shows a more diffuse, subdominant contribution. Both models agree that MRR preferentially populates the high mass-ratio regime (q ≳ 0.6).</figcaption>
   </figure>
 
-  <figure style="margin: 2em 0;">
+  <figure>
     <img src="/images/massquerade_fig6.png" alt="Figure 6: Representative evolutionary pathways leading to MRR" style="width: 100%; max-width: 860px; border-radius: 4px;">
-    <figcaption style="font-size: 0.85em; color: #555; margin-top: 0.5em;"><strong>Figure 6.</strong> Representative evolutionary histories for each of the three MRR channels. Each panel shows the total stellar masses (black and red) and core masses (magenta and green) of both stars as a function of time, with vertical dotted lines marking the two supernova events. From left to right: the core-growth channel in COMPAS, the core-growth channel in SEVN (illustrating how the two codes treat this process differently), the PPISN-shrinkage channel, and the asymmetric core-collapse supernova channel.</figcaption>
+    <figcaption><strong>Figure 6.</strong> Representative evolutionary histories for each of the three MRR channels. Each panel shows the total stellar masses (black and red) and core masses (magenta and green) of both stars as a function of time, with vertical dotted lines marking the two supernova events. From left to right: the core-growth channel in COMPAS, the core-growth channel in SEVN (illustrating how the two codes treat this process differently), the PPISN-shrinkage channel, and the asymmetric core-collapse supernova channel.</figcaption>
   </figure>
-</div>
 
-<hr style="margin: 2.5em 0;">
+  </div>
+</details>
 
-<div style="margin-top: 1.5em;">
-  <p style="color: #666; font-size: 0.9em;">January 28, 2026</p>
-  <h3 style="margin-top: 0.2em;">From cosmological simulations to binary black hole mergers: The impact of using analytical star formation history models on gravitational-wave source populations</h3>
+<details id="levina2026sfh">
+  <summary onclick="var d=this.closest('details');setTimeout(function(){if(d.open)history.replaceState(null,'','#'+d.id);else history.replaceState(null,'',location.pathname);},0)">Levina et al. 2026 — From cosmological simulations to binary black hole mergers: The impact of using analytical star formation history models on gravitational-wave source populations <span class="item-date">January 28, 2026</span></summary>
+  <div class="details-content">
+
   <p>Sasha Levina, Floor Broekgaarden, Lieke van Son, Emanuele Berti, Amedeo Romagnolo, Ruediger Pakmor, Ana Lam<br>
   <a href="https://arxiv.org/abs/2601.20202" target="_blank">arXiv:2601.20202</a></p>
 
@@ -58,13 +125,35 @@ author_profile: true
 
   <p>Figure 6 shows how the mass distributions of detectable BBH mergers shift depending on the SFH choice, with the IllustrisTNG-based prediction bracketed by the analytical models. The results underscore that SFH uncertainty is a non-negligible systematic in population-level gravitational-wave analyses — and that using cosmological simulations as a calibration anchor can help identify and bound this uncertainty.</p>
 
-  <figure style="margin: 2em 0;">
+  <figure>
     <img src="/images/levina2026_fig4.png" alt="Figure 4: BBH merger rate as a function of redshift for different SFH models" style="width: 100%; max-width: 860px; border-radius: 4px;">
-    <figcaption style="font-size: 0.85em; color: #555; margin-top: 0.5em;"><strong>Figure 4.</strong> Binary black hole merger rate density as a function of redshift for five star formation history models: IllustrisTNG (used as ground truth), and four analytical prescriptions. The choice of SFH leads to rate differences of up to a factor of ~2–3, with the spread growing at higher redshifts where metallicity evolution assumptions diverge most strongly.</figcaption>
+    <figcaption><strong>Figure 4.</strong> Binary black hole merger rate density as a function of redshift for five star formation history models: IllustrisTNG (used as ground truth), and four analytical prescriptions. The choice of SFH leads to rate differences of up to a factor of ~2–3, with the spread growing at higher redshifts where metallicity evolution assumptions diverge most strongly.</figcaption>
   </figure>
 
-  <figure style="margin: 2em 0;">
+  <figure>
     <img src="/images/levina2026_fig6.png" alt="Figure 6: Detectable BBH mass distributions for different SFH models" style="width: 100%; max-width: 860px; border-radius: 4px;">
-    <figcaption style="font-size: 0.85em; color: #555; margin-top: 0.5em;"><strong>Figure 6.</strong> Distributions of primary mass M₁ for detectable binary black hole mergers under each SFH model, for current LIGO-Virgo sensitivity (left) and next-generation detector sensitivity (right). The IllustrisTNG prediction (black) is bracketed by the analytical models, illustrating how SFH choice shifts the relative contribution of high-mass mergers — an effect that will become increasingly important as detector sensitivity improves.</figcaption>
+    <figcaption><strong>Figure 6.</strong> Distributions of primary mass M₁ for detectable binary black hole mergers under each SFH model, for current LIGO-Virgo sensitivity (left) and next-generation detector sensitivity (right). The IllustrisTNG prediction (black) is bracketed by the analytical models, illustrating how SFH choice shifts the relative contribution of high-mass mergers — an effect that will become increasingly important as detector sensitivity improves.</figcaption>
   </figure>
-</div>
+
+  </div>
+</details>
+
+<script>
+// Open and scroll to the entry matching the URL hash on page load
+(function () {
+  function openHash() {
+    var hash = window.location.hash.slice(1);
+    if (!hash) return;
+    var el = document.getElementById(hash);
+    if (el && el.tagName === 'DETAILS') {
+      el.open = true;
+      setTimeout(function () { el.scrollIntoView({ behavior: 'smooth', block: 'start' }); }, 100);
+    }
+  }
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', openHash);
+  } else {
+    openHash();
+  }
+})();
+</script>
