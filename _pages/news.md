@@ -14,6 +14,11 @@ author_profile: true
 
 <div class="news-item">
   <div class="news-date">Jun 4, 2026</div>
+  <div class="news-text"><img src="/images/meetings/gwp-boba-2026-06-04.jpg" class="news-img" alt="GW Paleontology group Boba outing">🧋 GW Paleontology group got Boba today to celebrate all the recent successes and the (almost) end of the spring quarter! From left to right, top to bottom: Joseph, Melanie, Sasha, Matthew, Kyle, Kenneth, Laya, Kera, Floor.</div>
+</div>
+
+<div class="news-item">
+  <div class="news-date">Jun 4, 2026</div>
   <div class="news-text"><img src="/images/meetings/pranav-nagarajan-strand-2026.jpg" class="news-img" alt="Pranav Nagarajan STRAND talk">Exciting STRAND talk by <strong>Pranav Nagarajan</strong> on understanding GAIA's black holes and what they tell us about stellar evolution! <a href="https://youtu.be/dCVtaacHxdQ" target="_blank">[recording]</a></div>
 </div>
 
