@@ -54,7 +54,7 @@ author_profile: true
 
 <div class="news-item">
   <div class="news-date">Jun 1, 2026</div>
-  <div class="news-text">Congratulations to GW Paleontology Lab members <strong>Sasha Levina</strong> and <strong>Marko Ristić</strong> for being selected for <a href="https://www.acme-astro.eu/tna-jce-3rd-call-results/" target="_blank">ACME visitor positions</a> — chosen from over 108 applicants, and among only a handful of US-based researchers selected to visit Europe! Sasha is planning to visit UNIGE in Geneva, and Marko is planning to visit INFN. <a href="https://www.acme-astro.eu/" target="_blank">ACME</a> (the Astrophysics Centre for Multi-messenger studies in Europe) is a new research center coordinating European-wide access to leading multi-messenger astrophysics research infrastructures, instruments, data, and expertise.</div>
+  <div class="news-text">Congratulations to GW Paleontology Lab members <strong>Sasha Levina</strong> and <strong>Marko Ristić</strong> for being selected for <a href="https://www.acme-astro.eu/tna-jce-3rd-call-results/" target="_blank">ACME visitor positions</a> — chosen from over 108 applicants, and among only a handful of US-based researchers selected to visit Europe! Sasha is planning to visit UNIGE in Geneva, and Marko is planning to visit INFN. <a href="https://www.acme-astro.eu/" target="_blank">ACME</a> (the Astrophysics Centre for Multi-messenger studies in Europe) is a new research center coordinating European-wide access to leading multi-messenger astrophysics research infrastructures, instruments, data, and expertise. Also mentioned in the <a href="https://t.e2ma.net/message/e9o1ro/ay14kfo" target="_blank">UCSD newsletter</a>!</div>
 </div>
 
 <div class="news-item">
