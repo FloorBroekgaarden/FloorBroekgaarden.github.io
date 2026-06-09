@@ -428,6 +428,32 @@ details[open] summary::after {
   </div>
 </details>
 
+<details id="schiebelbein2026delay">
+  <summary onclick="var d=this.closest('details');setTimeout(function(){if(d.open)history.replaceState(null,'','#'+d.id);else history.replaceState(null,'',location.pathname);},0)">Schiebelbein-Zwack &amp; Fishbach 2026 — Forbidden Formation Histories: The Binary Black Hole Merger Rate Disfavors Long Delay Times <span class="item-date">May 2026</span></summary>
+  <div class="details-content">
+
+<p><em>Schiebelbein-Zwack &amp; Fishbach (2026) · <a href="https://arxiv.org/abs/2605.12858" target="_blank">arXiv:2605.12858</a></em></p>
+
+<p>Very cool paper. The central idea is an elegant inversion: the BBH merger rate is normally thought of as a convolution of the BBH <em>formation</em> rate with a delay time distribution p(t) — that is, how long it takes from when two massive stars are born to when the resulting black holes finally merge. Usually we assume a formation rate (tied to the star formation history) and a delay time distribution, and predict the resulting merger rate. Here, the authors turn this around: they take the observed BBH merger rate from GWTC-4 as input and ask what BBH formation histories and delay time distributions are consistent with it. Really cool idea.</p>
+
+<p>In particular, they use this framework to ask which delay time distributions produce "physical" results — meaning the implied BBH formation rate must be non-negative and broadly consistent with what we'd expect from stars forming across cosmic time. The punchline is that delay time distributions with shallow power-law slopes (α ≳ −0.7) get into trouble: they concentrate too many mergers at low redshift, producing a pile-up near z ~ 0 that is hard to reconcile with the observed redshift distribution. Since shallow delay time distributions are thought to be associated with the <strong>stable mass transfer channel</strong>, the paper argues these are disfavored.</p>
+
+<p>I find the general approach genuinely interesting — it is a direct attempt to connect the population-level GW observations back to the massive stellar binaries that formed them, without having to commit to a specific simulation. That kind of inversion is powerful in principle and I would love to see it developed further.</p>
+
+<div class="highlight-box">
+<strong>Caveats worth keeping in mind (IMHO):</strong> The results come with some significant assumptions that make it a bit difficult to tell how robust they would be in the more complex universe we probably live in:
+<ol style="margin: 0.6em 0 0; padding-left: 1.4em;">
+  <li><strong>Redshift-independent delay time distribution.</strong> The paper assumes p(t) does not evolve with redshift, but this is very unlikely to be true. At higher redshifts, BBHs form preferentially from lower-metallicity stars, and we have good reason to think this shapes the delay time distribution — both through its effect on the mass-transfer physics and on the black hole masses produced. The observed data likely already contain this metallicity-driven evolution baked in, so assuming a fixed p(t) may be absorbing real physical evolution into the inferred constraints.</li>
+  <li><strong>Single-channel assumption.</strong> The analysis implicitly treats the BBH population as coming from one channel with one characteristic delay time distribution. But dynamical formation in dense stellar environments (globular clusters, nuclear star clusters) contributes to the observed rate and likely brings its own different delay time distribution — or more precisely, a different relationship between formation time and merger time altogether. If the dynamical channel contributes meaningfully at certain redshifts, it could mimic or mask the signatures the paper is attributing to the isolated stable mass transfer channel.</li>
+  <li><strong>Shape of the delay time distribution.</strong> The conclusions depend on the assumed functional form for p(t). It is a bit unclear from the paper how exactly the delay time distribution is derived or how sensitive the results are to that choice — a more complex or bimodal shape could change the picture.</li>
+</ol>
+</div>
+
+<p>All in all, an interesting paper that pushes in exactly the right direction: using the redshift evolution of the BBH merger rate as a probe of the massive star progenitors. I am definitely interested in seeing more work like this, with the caveats above incorporated!</p>
+
+  </div>
+</details>
+
 <script>
 // Open and scroll to the entry matching the URL hash on page load
 (function () {
