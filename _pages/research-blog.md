@@ -147,6 +147,31 @@ details[open] summary::after {
 
 <p class="blog-intro">Short posts, paper summaries, and research updates from the GW Paleontology Lab — covering both results from our group and highlights from the broader gravitational-wave and stellar astrophysics community. Meant as a resource for anyone wanting to stay up to date on the latest in gravitational-wave paleontology. Click any entry to expand it.</p>
 
+<details id="boco2026bbhrate">
+  <summary onclick="var d=this.closest('details');setTimeout(function(){if(d.open)history.replaceState(null,'','#'+d.id);else history.replaceState(null,'',location.pathname);},0)">Boco et al. 2026 — Can current models predict the local black hole merger rate? <span class="item-date">Jun 2026</span></summary>
+  <div class="details-content">
+
+<p><em>Boco, Bosi, Sgalletta, Romagnolo &amp; Mapelli (2026) · <a href="https://arxiv.org/abs/2606.02725" target="_blank">arXiv:2606.02725</a></em></p>
+
+<p>An interesting paper. The starting point is a familiar tension in the field: binary population synthesis models of isolated binary evolution tend to predict BBH merger rates that are on the high side compared to what LIGO–Virgo–KAGRA actually measures (~14–26 Gpc⁻³ yr⁻¹). This paper focuses on one recent simulation — and notes that several others share the same problem — where the predicted local BBH merger rate exceeds the LVK-inferred value by roughly an order of magnitude.</p>
+
+<p>A common response to this tension has been to suggest it can "easily" be fixed by adjusting assumptions about the <strong>cosmic star formation history (SFH)</strong> — that is, how many stars form as a function of redshift, and with what metallicities. Since BBH merger rates are strongly boosted at low metallicities (lower metallicity → less mass loss → heavier black holes → higher merger rates), tweaking the metallicity evolution of the SFH can in principle move the predicted rate up or down substantially. So: can we just tune the SFH to match observations?</p>
+
+<p>What this paper does well is take that question seriously and test it rigorously. They explore a range of different SFH assumptions and — critically — they also check whether those assumptions are consistent with <em>independent observations of the star formation history itself</em>. This is an important step that is often skipped: it is easy to pick an SFH that makes your simulation match the GW rate, but harder to do so while also remaining consistent with what we know from galaxy surveys, cosmic metallicity evolution measurements, and related observations.</p>
+
+<p>Their finding is sobering: most SFH choices that bring the predicted BBH rate down enough to match LVK would require an unrealistically metal-rich early universe — very high metal enrichment very early, leaving almost no room for low-metallicity star formation. Since it is precisely that low-metallicity population that drives such a large fraction of the BBH rate in these simulations, suppressing it enough to fix the rate tension pushes the SFH into regimes that are observationally excluded. In other words, the SFH knob is not as free as sometimes assumed. The conclusion the authors draw is that resolving the discrepancy likely requires revisions to the stellar and binary evolution physics itself — not just the input SFH.</p>
+
+<p>I find the paper's framing — simultaneously varying the SFH <em>and</em> comparing against SFH observations — genuinely valuable, and I think more papers should do this. It puts a much more meaningful constraint on what kinds of "fixes" are actually physically acceptable.</p>
+
+<div class="highlight-box">
+<strong>Where I personally disagree:</strong> The title asks "Can current models predict the local black hole merger rate?" and some of the conclusions suggest that no realistic isolated-binary-evolution model can produce a BBH rate as low as ~10 Gpc⁻³ yr⁻¹. I don't think this is fully correct. The simulations tested in this paper are among the higher-rate models in the literature, and in recent years there have been many simulations — and subsets of parameter-space models — that do predict rates comfortably consistent with the low end of the LVK range, at least for some combinations of physical assumptions. The conclusion that no realistic isolated binary model can produce low rates seems too strong given that landscape. The tension is real and worth taking seriously, but framing it as a fundamental breakdown of the isolated channel as a whole overstates what the current evidence actually shows.
+</div>
+
+<p>That said, this paper has made me want to think more carefully about which recent models actually do predict low BBH rates, and what the physical ingredients are that make that possible. So: <strong>more coming soon</strong> on that front — stay tuned!</p>
+
+  </div>
+</details>
+
 <details id="vanSon2026">
   <summary onclick="var d=this.closest('details');setTimeout(function(){if(d.open)history.replaceState(null,'','#'+d.id);else history.replaceState(null,'',location.pathname);},0)">van Son et al. 2026 — Post-Mass-Transfer Binaries: A Living Catalog &amp; Unified Review <span class="item-date">Jun 1, 2026</span></summary>
   <div class="details-content">
