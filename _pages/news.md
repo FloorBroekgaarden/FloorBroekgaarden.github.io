@@ -13,6 +13,11 @@ author_profile: true
 </style>
 
 <div class="news-item">
+  <div class="news-date">Jun 9, 2026</div>
+  <div class="news-text"><img src="/images/gwp-news/26_06_09/AoT.png" class="news-img" alt="Astronomy on Tap Pasadena flyer">Excited to be giving a talk at <strong>Astronomy on Tap Pasadena</strong> — their special tenth anniversary event on <strong>Wednesday, June 17th at 7:30pm</strong> at Dog Haus Biergarten (93 E Green St, Pasadena, CA)! This is a special event coinciding with the AAS meeting week, so ~300 people are expected. I'll be talking about <em>gravitational-wave paleontology: black holes as cosmic fossils</em>, alongside Kyle Kremer on black holes and neutron stars in globular clusters — plus live music! Free and open to the public, no reservations required. Please join if you can! More info: <a href="http://outreach.astro.caltech.edu" target="_blank">outreach.astro.caltech.edu</a></div>
+</div>
+
+<div class="news-item">
   <div class="news-date">Jun 4, 2026</div>
   <div class="news-text">🌟 <strong>New paper alert!</strong> 🌟<br><br>
   Floor Broekgaarden, Ana Lam, Sasha Levina, Kyle Rocha, Lieke van Son, Steffani Grondin, Angela Twum, Melanie Santiago, Julia Haynes, Tyler Smith, Amedeo Romagnolo, Lucas de Sá<br><br>
