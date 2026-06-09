@@ -198,6 +198,43 @@ details[open] summary::after {
   </div>
 </details>
 
+<details id="broekgaarden2026ce">
+  <summary onclick="var d=this.closest('details');setTimeout(function(){if(d.open)history.replaceState(null,'','#'+d.id);else history.replaceState(null,'',location.pathname);},0)">Broekgaarden et al. 2026 — How Common Are Common Envelopes? Quantifying Their Role in Forming Gravitational-Wave Sources <span class="item-date">Jun 4, 2026</span></summary>
+  <div class="details-content">
+
+  <p>Excited that my paper is out! This was a team effort: <strong>Floor S. Broekgaarden</strong>, Ana Lam, Sasha Levina, Jakub Klencki, Kyle A. Rocha, Lieke van Son, Steffani M. Grondin, Monica Gallegos-Garcia, Brian D. Metzger, Enrico Ramirez-Ruiz, Angela Twum, Melanie Santiago, Julia Haynes, Tyler B. Smith, Amedeo Romagnolo, Edo Berger, and Lucas M. de Sá<br>
+  <a href="https://arxiv.org/abs/2606.05322" target="_blank">arXiv:2606.05322</a></p>
+
+  <p>All data and results are publicly available with interactive figures and tables you can explore yourself: <a href="https://floorbroekgaarden.github.io/Rates_of_Formation_Channels/interactive_figures_and_tables/formation_channel_rates_table.html" target="_blank"><strong>[interactive catalog]</strong></a></p>
+
+  <p>One of the most consequential — and most uncertain — phases in the life of a binary star system is <strong>common-envelope (CE) evolution</strong>. When one star grows large and engulfs its companion, the two stars spiral together inside a shared gas envelope. If the system survives, the orbit shrinks dramatically, setting up the binary to eventually merge as a pair of compact objects detectable by LIGO, Virgo, and KAGRA. If it doesn't survive, the binary is destroyed. CE evolution is therefore a critical bottleneck in forming gravitational-wave sources — yet after decades of study, we still don't fully understand it.</p>
+
+  <p>This paper asks a deceptively simple question: <em>is CE evolution actually required to form the binary black holes, neutron stars, and black hole–neutron star systems that gravitational-wave observatories detect?</em> Rather than picking a single simulation and reporting its answer, we compiled and compared predictions from <strong>over 200 population-synthesis simulations</strong> spanning many different codes and physical assumptions, and asked what fraction of merging systems in each simulation formed through a CE phase.</p>
+
+  <figure>
+    <img src="/images/gwp-news/26_06_05/Figure2.png" alt="Figure 2: Global overview of CE fraction diversity across 200+ population-synthesis simulations for BBH, BHNS, and BNS" style="width: 100%; max-width: 860px; border-radius: 4px;">
+    <figcaption><strong>Figure 2.</strong> Global overview of Level 1 formation-channel diversity across 200+ compiled population-synthesis simulations. Each point shows the fraction of systems forming with CE (x-axis) vs. without CE (y-axis) for binary black holes (BBH, 117 simulations), BH–neutron star systems (BHNS, 71 simulations), and binary neutron stars (BNS, 53 simulations). BBH and BHNS populations scatter across nearly the full allowed range — from CE-dominated to entirely CE-free — while BNS mergers cluster strongly toward the CE side. See the <a href="https://floorbroekgaarden.github.io/Rates_of_Formation_Channels/interactive_figures_and_tables/formation_channel_rates_table.html" target="_blank">interactive catalog</a> to explore individual simulations.</figcaption>
+  </figure>
+
+  <p>The headline result (Figure 2) is striking: <strong>for binary black holes and BH–neutron star systems, the simulations span nearly the full allowed range</strong> — from models where essentially every merger formed through a CE phase to models where none did — yet these same models all produce similar merger rates consistent with current LVK observations. This reveals a <strong>fundamental degeneracy</strong>: merger rates alone cannot tell us how these systems formed. We can match the data with completely opposite physical assumptions about CE evolution.</p>
+
+  <p>Binary neutron stars tell a very different story. Across essentially all models, BNS mergers form almost exclusively through channels involving at least one CE phase (≳90–100%). This makes BNS systems a much more powerful probe of CE physics — if we can measure their merger rates and mass distributions precisely enough, we can potentially break the degeneracy that plagues the BBH population.</p>
+
+  <figure>
+    <img src="/images/gwp-news/26_06_05/Figure3.png" alt="Figure 3: Fractional CE contributions per simulation for the BBH population" style="width: 100%; max-width: 860px; border-radius: 4px;">
+    <figcaption><strong>Figure 3.</strong> Fractional contributions of formation channels (with CE in blue/orange, without CE in orange, other channels in lighter colors) for every BBH simulation in the compiled catalog, sorted by CE fraction. The right panel shows the corresponding intrinsic BBH merger rate R₀ for each simulation. The enormous spread in CE fractions — from 0% to ~100% — is immediately visible, and critically, this spread is not correlated with the merger rate: simulations at both extremes of CE fraction produce rates consistent with LVK observations.</figcaption>
+  </figure>
+
+  <figure>
+    <img src="/images/gwp-news/26_06_05/Figure9.png" alt="Figure 9: BBH CE fraction vs merger rate across simulation frameworks" style="width: 100%; max-width: 860px; border-radius: 4px;">
+    <figcaption><strong>Figure 9.</strong> Top panel: fraction of BBH mergers forming without a CE phase vs. total intrinsic BBH merger rate, for every simulation in the catalog colored by simulation framework. Within any single framework, varying parameters can shift both the CE fraction and the merger rate, but across the full compilation there is no universal correlation: CE-free and CE-dominated models alike span the full range of observed-compatible merger rates. The bottom panels show pairwise comparisons of key model parameters, illustrating the highly non-linear and framework-dependent nature of the relationships.</figcaption>
+  </figure>
+
+  <p>The bottom line is that we need to go beyond merger-rate measurements alone. Multi-messenger observations, mass and spin distributions, delay-time distributions, and eventually electromagnetic counterparts will all be needed to break the degeneracy and constrain what CE evolution actually looks like. The interactive catalog accompanying this paper is designed to make it easy to explore the full simulation landscape and identify which observables are most diagnostic. There is much more work to do here — but this paper is intended as a community resource to anchor those future efforts.</p>
+
+  </div>
+</details>
+
 <details id="vanSon2026">
   <summary onclick="var d=this.closest('details');setTimeout(function(){if(d.open)history.replaceState(null,'','#'+d.id);else history.replaceState(null,'',location.pathname);},0)">van Son et al. 2026 — Post-Mass-Transfer Binaries: A Living Catalog &amp; Unified Review <span class="item-date">Jun 1, 2026</span></summary>
   <div class="details-content">
@@ -454,6 +491,34 @@ details[open] summary::after {
   </div>
 </details>
 
+<details id="massquerade2026">
+  <summary onclick="var d=this.closest('details');setTimeout(function(){if(d.open)history.replaceState(null,'','#'+d.id);else history.replaceState(null,'',location.pathname);},0)">Smith et al. 2026 — Massquerade: Impacts of Mass Ratio Reversals on Binary Black Hole Merger Rates and Mass Distributions <span class="item-date">May 20, 2026</span></summary>
+  <div class="details-content">
+
+  <p>Tyler B. Smith, Floor Broekgaarden, Sasha Levina, Amedeo Romagnolo, Manasvini Komandur, Melanie Santiago, Kyle A. Rocha<br>
+  <a href="https://arxiv.org/abs/2605.21580" target="_blank">arXiv:2605.21580</a></p>
+
+  <p>When two massive stars are born together in a binary system, the heavier star is expected to also produce the heavier black hole when it dies. But binary evolution can flip this expectation. Through a process called <strong>mass ratio reversal (MRR)</strong>, the initially <em>less</em> massive star can end up forming the <em>more</em> massive black hole. This happens when mass is transferred between the stars during their lives — the lighter star receives material from its companion, grows a more massive core, and ultimately collapses into a heavier black hole than the one formed by the originally dominant star. The initially less massive star is then "massquerading" as the primary.</p>
+
+  <p>This paper investigates how common MRR is, and — crucially — how it shapes the black hole merger rate and mass distributions that gravitational-wave observatories like LIGO, Virgo, and KAGRA actually measure. The team uses two independent binary population synthesis codes, <strong>COMPAS</strong> and <strong>SEVN</strong>, to simulate large populations of binary stars from birth through to black hole merger, and compares the resulting distributions against current LVK observations.</p>
+
+  <p>A key finding is that the two codes make qualitatively different predictions. In <strong>COMPAS</strong>, MRR systems dominate the high-mass end of the distribution (primary masses above ~20 M☉, secondary masses above ~12 M☉), while in <strong>SEVN</strong> the MRR contribution is more diffuse and remains subdominant across the full mass range. Despite this difference, both codes agree that MRR systems preferentially populate the <em>high mass-ratio regime</em> (q ≳ 0.6, meaning the two black holes have similar masses). The upshot is that the observed mass distribution cannot simply be read as a direct map of the original stellar masses — MRR blurs that connection.</p>
+
+  <p>The paper also identifies three distinct evolutionary channels that produce MRR (Figure 6 below): (1) <strong>core growth</strong>, where stable mass transfer fattens the secondary's helium core until it collapses into the heavier black hole; (2) <strong>PPISN shrinkage</strong>, where the primary loses mass through violent pulsational pair-instability episodes and ends up lighter than the secondary; and (3) <strong>asymmetric core-collapse supernovae</strong>, where differential stripping leaves the secondary with a heavier remnant.</p>
+
+  <figure>
+    <img src="/images/massquerade_fig2.png" alt="Figure 2: BBH merger rate density broken down by MRR and non-MRR contributions for COMPAS and SEVN" style="width: 100%; max-width: 860px; border-radius: 4px;">
+    <figcaption><strong>Figure 2.</strong> Intrinsic binary black hole merger rate density as a function of primary mass M₁ (top), secondary mass M₂ (middle), and mass ratio q (bottom) at redshift z ≈ 0.2, for COMPAS (left) and SEVN (right). The total population (black) is split into MRR (purple) and non-MRR (green) contributions and compared to LVK observational constraints (gray shaded regions). COMPAS predicts MRR systems dominate at high masses, while SEVN shows a more diffuse, subdominant contribution. Both models agree that MRR preferentially populates the high mass-ratio regime (q ≳ 0.6).</figcaption>
+  </figure>
+
+  <figure>
+    <img src="/images/massquerade_fig6.png" alt="Figure 6: Representative evolutionary pathways leading to MRR" style="width: 100%; max-width: 860px; border-radius: 4px;">
+    <figcaption><strong>Figure 6.</strong> Representative evolutionary histories for each of the three MRR channels. Each panel shows the total stellar masses (black and red) and core masses (magenta and green) of both stars as a function of time, with vertical dotted lines marking the two supernova events. From left to right: the core-growth channel in COMPAS, the core-growth channel in SEVN (illustrating how the two codes treat this process differently), the PPISN-shrinkage channel, and the asymmetric core-collapse supernova channel.</figcaption>
+  </figure>
+
+  </div>
+</details>
+
 <details id="schiebelbein2026delay">
   <summary onclick="var d=this.closest('details');setTimeout(function(){if(d.open)history.replaceState(null,'','#'+d.id);else history.replaceState(null,'',location.pathname);},0)">Schiebelbein-Zwack &amp; Fishbach 2026 — Forbidden Formation Histories: The Binary Black Hole Merger Rate Disfavors Long Delay Times <span class="item-date">May 13, 2026</span></summary>
   <div class="details-content">
@@ -476,6 +541,34 @@ details[open] summary::after {
 </div>
 
 <p>All in all, an interesting paper that pushes in exactly the right direction: using the redshift evolution of the BBH merger rate as a probe of the massive star progenitors. I am definitely interested in seeing more work like this, with the caveats above incorporated!</p>
+
+  </div>
+</details>
+
+<details id="levina2026sfh">
+  <summary onclick="var d=this.closest('details');setTimeout(function(){if(d.open)history.replaceState(null,'','#'+d.id);else history.replaceState(null,'',location.pathname);},0)">Levina et al. 2026 — From cosmological simulations to binary black hole mergers: The impact of using analytical star formation history models on gravitational-wave source populations <span class="item-date">January 28, 2026</span></summary>
+  <div class="details-content">
+
+  <p>Sasha Levina, Floor Broekgaarden, Lieke van Son, Emanuele Berti, Amedeo Romagnolo, Ruediger Pakmor, Ana Lam<br>
+  <a href="https://arxiv.org/abs/2601.20202" target="_blank">arXiv:2601.20202</a></p>
+
+  <p>To predict how many binary black hole mergers gravitational-wave detectors like LIGO and Virgo should see, theorists must combine a model of how stars form across cosmic time — the <strong>star formation history (SFH)</strong> — with a model of how binary stars evolve into merging black holes. In practice, most studies use simple analytical SFH models (e.g., power laws or fits to galaxy survey data), but these are approximations of a far more complex underlying reality. This paper asks: <em>how much does the choice of analytical SFH model actually matter?</em></p>
+
+  <p>The team uses the <strong>IllustrisTNG cosmological simulation</strong> as a ground truth for the star formation history and metallicity evolution of the universe, and compares it against four widely-used analytical SFH prescriptions. By running binary population synthesis models with <strong>COMPAS</strong> on top of each SFH, they quantify how the choice of SFH propagates through to predictions for BBH merger rates and mass distributions detectable by current and future gravitational-wave observatories.</p>
+
+  <p>A key finding (Figure 4 below) is that the predicted merger rate can vary by up to a factor of ~2–3 depending on which analytical SFH model is used, with the differences being most pronounced at high redshifts. This has direct implications for next-generation detectors like the Einstein Telescope and Cosmic Explorer, which will be sensitive to mergers across cosmic history. The metallicity evolution built into each SFH model is the primary driver of the spread: models that assign lower metallicities to star-forming gas at high redshift predict more BBH mergers because low-metallicity stars retain more mass and more readily form heavy black holes.</p>
+
+  <p>Figure 6 shows how the mass distributions of detectable BBH mergers shift depending on the SFH choice, with the IllustrisTNG-based prediction bracketed by the analytical models. The results underscore that SFH uncertainty is a non-negligible systematic in population-level gravitational-wave analyses — and that using cosmological simulations as a calibration anchor can help identify and bound this uncertainty.</p>
+
+  <figure>
+    <img src="/images/levina2026_fig4.png" alt="Figure 4: BBH merger rate as a function of redshift for different SFH models" style="width: 100%; max-width: 860px; border-radius: 4px;">
+    <figcaption><strong>Figure 4.</strong> Binary black hole merger rate density as a function of redshift for five star formation history models: IllustrisTNG (used as ground truth), and four analytical prescriptions. The choice of SFH leads to rate differences of up to a factor of ~2–3, with the spread growing at higher redshifts where metallicity evolution assumptions diverge most strongly.</figcaption>
+  </figure>
+
+  <figure>
+    <img src="/images/levina2026_fig6.png" alt="Figure 6: Detectable BBH mass distributions for different SFH models" style="width: 100%; max-width: 860px; border-radius: 4px;">
+    <figcaption><strong>Figure 6.</strong> Distributions of primary mass M₁ for detectable binary black hole mergers under each SFH model, for current LIGO-Virgo sensitivity (left) and next-generation detector sensitivity (right). The IllustrisTNG prediction (black) is bracketed by the analytical models, illustrating how SFH choice shifts the relative contribution of high-mass mergers — an effect that will become increasingly important as detector sensitivity improves.</figcaption>
+  </figure>
 
   </div>
 </details>
