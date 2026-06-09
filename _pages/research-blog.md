@@ -148,7 +148,7 @@ details[open] summary::after {
 <p class="blog-intro">Short posts, paper summaries, and research updates from the GW Paleontology Lab — covering both results from our group and highlights from the broader gravitational-wave and stellar astrophysics community. Meant as a resource for anyone wanting to stay up to date on the latest in gravitational-wave paleontology. Click any entry to expand it.</p>
 
 <details id="boco2026bbhrate">
-  <summary onclick="var d=this.closest('details');setTimeout(function(){if(d.open)history.replaceState(null,'','#'+d.id);else history.replaceState(null,'',location.pathname);},0)">Boco et al. 2026 — Can current models predict the local black hole merger rate? <span class="item-date">Jun 2026</span></summary>
+  <summary onclick="var d=this.closest('details');setTimeout(function(){if(d.open)history.replaceState(null,'','#'+d.id);else history.replaceState(null,'',location.pathname);},0)">Boco et al. 2026 — Can current models predict the local black hole merger rate? <span class="item-date">Jun 3, 2026</span></summary>
   <div class="details-content">
 
 <p><em>Boco, Bosi, Sgalletta, Romagnolo &amp; Mapelli (2026) · <a href="https://arxiv.org/abs/2606.02725" target="_blank">arXiv:2606.02725</a></em></p>
@@ -429,7 +429,7 @@ details[open] summary::after {
 </details>
 
 <details id="schiebelbein2026delay">
-  <summary onclick="var d=this.closest('details');setTimeout(function(){if(d.open)history.replaceState(null,'','#'+d.id);else history.replaceState(null,'',location.pathname);},0)">Schiebelbein-Zwack &amp; Fishbach 2026 — Forbidden Formation Histories: The Binary Black Hole Merger Rate Disfavors Long Delay Times <span class="item-date">May 2026</span></summary>
+  <summary onclick="var d=this.closest('details');setTimeout(function(){if(d.open)history.replaceState(null,'','#'+d.id);else history.replaceState(null,'',location.pathname);},0)">Schiebelbein-Zwack &amp; Fishbach 2026 — Forbidden Formation Histories: The Binary Black Hole Merger Rate Disfavors Long Delay Times <span class="item-date">May 13, 2026</span></summary>
   <div class="details-content">
 
 <p><em>Schiebelbein-Zwack &amp; Fishbach (2026) · <a href="https://arxiv.org/abs/2605.12858" target="_blank">arXiv:2605.12858</a></em></p>
