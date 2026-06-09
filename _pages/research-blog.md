@@ -147,6 +147,32 @@ details[open] summary::after {
 
 <p class="blog-intro">Short posts, paper summaries, and research updates from the GW Paleontology Lab — covering both results from our group and highlights from the broader gravitational-wave and stellar astrophysics community. Meant as a resource for anyone wanting to stay up to date on the latest in gravitational-wave paleontology. Click any entry to expand it.</p>
 
+<details id="parkosidis2026eccentric">
+  <summary onclick="var d=this.closest('details');setTimeout(function(){if(d.open)history.replaceState(null,'','#'+d.id);else history.replaceState(null,'',location.pathname);},0)">Parkosidis et al. 2026 — Eccentricity as a probe of mass-transfer physics: Eccentric mass transfer as a solution to the wide eccentric binary problem <span class="item-date">Jun 9, 2026</span></summary>
+  <div class="details-content">
+
+<p><em>Parkosidis, Toonen, Laplace &amp; Schaffenroth (2026) · <a href="https://arxiv.org/abs/2606.09464" target="_blank">arXiv:2606.09464</a></em></p>
+
+<p>Cool paper on how <strong>eccentric mass transfer</strong> can shape the orbital parameters of post-mass-transfer binaries. Most binary population synthesis codes assume that mass transfer circularizes the orbit — but as I discussed in the <a href="#vanSon2026">van Son et al. 2026 entry</a>, observations of post-mass-transfer systems increasingly show that significant eccentricities are common and cannot simply be swept under the rug. This paper takes a concrete step toward modeling this properly.</p>
+
+<p>The authors introduce the <strong>GeMT (General Mass Transfer) model</strong>, which incorporates eccentric mass transfer, and test it against a well-chosen observational benchmark: <strong>hot subdwarf B (sdB) stars paired with main-sequence companions in wide orbits</strong>. These sdB+MS binaries are particularly valuable because their orbital properties — periods, mass ratios, and eccentricities — place tight constraints on what must have happened during the mass transfer episode that formed the sdB. If a model cannot reproduce this population, something is wrong with its mass transfer physics.</p>
+
+<p>The result is striking: the GeMT model naturally reproduces all the observed orbital parameters of wide sdB+MS binaries <em>without fine-tuning</em>. Previous models that assumed circular mass transfer struggled with this population; allowing eccentricity to develop during mass transfer resolves the tension cleanly.</p>
+
+<p>The paper also explores <strong>different formation pathways</strong> depending on when Roche lobe overflow (RLOF) is initiated during the donor star's evolution, finding that this leads to distinct tracks in orbital-parameter space. Importantly, the eccentricity that emerges after mass transfer depends sensitively on:</p>
+<ul>
+  <li>The <strong>amount of mass transferred</strong></li>
+  <li>The <strong>accretion efficiency</strong> (how much of the transferred mass the companion actually accretes)</li>
+  <li>The <strong>angular momentum loss</strong> from the system</li>
+</ul>
+
+<p>This is the key result from a GW paleontology perspective: because the post-mass-transfer eccentricity depends on these parameters, and because we can <em>measure</em> eccentricities in observed post-mass-transfer binaries, <strong>these observations can be used to directly constrain the uncertain mass transfer physics</strong>. This is exactly the kind of observational anchor the field needs — it turns eccentricity from a nuisance into a diagnostic.</p>
+
+<p>More broadly, this paper reinforces the message that <strong>eccentricity after mass transfer is a real and important feature that most binary evolution codes currently neglect</strong>. For GW source modeling, this matters: if the orbital parameters of binaries entering later evolutionary stages (second mass transfer, common envelope, supernova) are systematically wrong because we assumed circularization that didn't happen, our predictions for merger rates and distributions will carry a corresponding systematic error. How large that error is remains to be quantified, but papers like this one are laying the groundwork for getting it right.</p>
+
+  </div>
+</details>
+
 <details id="boco2026bbhrate">
   <summary onclick="var d=this.closest('details');setTimeout(function(){if(d.open)history.replaceState(null,'','#'+d.id);else history.replaceState(null,'',location.pathname);},0)">Boco et al. 2026 — Can current models predict the local black hole merger rate? <span class="item-date">Jun 3, 2026</span></summary>
   <div class="details-content">
