@@ -177,7 +177,7 @@ details[open] summary::after {
   </li>
 </ul>
 
-<p>The picture that emerges is one where <strong>different formation channels dominate at different mass scales</strong> — which makes physical sense: isolated binary evolution has well-defined mass tracks set by stellar evolution, while dynamical formation can more easily produce heavier BHs (including through hierarchical mergers). The AGN channel may also contribute, particularly to the positive high-spin end.</p>
+<p>The picture that emerges is one where <strong>different formation channels dominate at different mass scales</strong> — which makes physical sense: isolated binary evolution can more easily create the lower ~10 M<sub>☉</sub> BH mass peak but has challenges forming BHs above ~50 M<sub>☉</sub> due to the pair-instability supernova gap (limits set by stellar evolution), while dynamical formation can more easily produce heavier BHs (including through hierarchical mergers). The AGN channel may also contribute, particularly to the positive high-spin end.</p>
 
 <p>That said, the authors are appropriately cautious: some of these trends are tentative and may shift with more data. This is exactly the kind of analysis that will sharpen considerably as LVK continues observing — O4 and beyond will substantially grow the catalog and make these mass-dependent spin features either clearer or go away. Very exciting results to watch develop!</p>
 
