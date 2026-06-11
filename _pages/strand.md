@@ -39,7 +39,7 @@ author_profile: true
 
 <table class="strand-table">
   <tr><th>Date</th><th>Time</th><th>Speaker</th><th>Location</th></tr>
-  <tr><td>May 14, 2026</td><td>11:00am</td><td>Anna Wright (CCA)</td><td>SERF 383</td></tr>
+  <tr><td>Jun 11, 2026</td><td>11:00am</td><td>Anna Wright (CCA) <a href="https://youtu.be/isDu05rGk_8" target="_blank">[recording]</a></td><td>SERF 383</td></tr>
   <tr><td>May 8, 2026</td><td>11:00am</td><td>Pranav Nagarajan <a href="https://youtu.be/dCVtaacHxdQ" target="_blank">[recording]</a></td><td>SERF 383</td></tr>
   <tr><td>Apr 30, 2026</td><td>11:00am</td><td>Natsuko Yamaguchi</td><td>SERF 383</td></tr>
   <tr><td>Apr 16, 2026</td><td>11:00am</td><td>Daichi Tsuna</td><td>SERF 383</td></tr>

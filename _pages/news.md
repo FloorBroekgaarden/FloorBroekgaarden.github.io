@@ -13,6 +13,11 @@ author_profile: true
 </style>
 
 <div class="news-item">
+  <div class="news-date">Jun 11, 2026</div>
+  <div class="news-text"><img src="/images/gwp-news/26_06_11/STRAND_A_Wright.png" class="news-img" alt="Anna Wright STRAND talk">Happy Thursday: another fantastic STRAND talk today, this time by <strong>Anna Wright (CCA)</strong> on <em>"The edge of in Situ: Simulating the stellar halos of dwarf galaxies"</em> with some amazing simulations (and animations) of dwarf galaxies, discussions of dark matter and so much more! Really fantastic overview. <a href="https://youtu.be/isDu05rGk_8" target="_blank">[recording]</a></div>
+</div>
+
+<div class="news-item">
   <div class="news-date">Jun 9, 2026</div>
   <div class="news-text"><img src="/images/gwp-news/26_06_09/AoT.png" class="news-img" alt="Astronomy on Tap Pasadena flyer">Excited to be giving a talk at <strong>Astronomy on Tap Pasadena</strong> — their special tenth anniversary event on <strong>Wednesday, June 17th at 7:30pm</strong> at Dog Haus Biergarten (93 E Green St, Pasadena, CA)! This is a special event coinciding with the AAS meeting week, so ~300 people are expected. I'll be talking about <em>gravitational-wave paleontology: black holes as cosmic fossils</em>, alongside Kyle Kremer on black holes and neutron stars in globular clusters — plus live music! Free and open to the public, no reservations required. Please join if you can! More info: <a href="http://outreach.astro.caltech.edu" target="_blank">outreach.astro.caltech.edu</a></div>
 </div>
