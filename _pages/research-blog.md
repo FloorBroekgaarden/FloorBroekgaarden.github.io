@@ -147,6 +147,43 @@ details[open] summary::after {
 
 <p class="blog-intro">Short posts, paper summaries, and research updates from the GW Paleontology Lab — covering both results from our group and highlights from the broader gravitational-wave and stellar astrophysics community. Meant as a resource for anyone wanting to stay up to date on the latest in gravitational-wave paleontology. Click any entry to expand it.</p>
 
+<details id="alvarezlopez2026spins">
+  <summary onclick="var d=this.closest('details');setTimeout(function(){if(d.open)history.replaceState(null,'','#'+d.id);else history.replaceState(null,'',location.pathname);},0)">Alvarez-Lopez et al. 2026 — Evidence for additional structure in the effective spin distribution hints at multiple formation pathways in GWTC-5.0 <span class="item-date">Jun 11, 2026</span></summary>
+  <div class="details-content">
+
+<p><em>Alvarez-Lopez, Heinzel &amp; Vitale (2026) · <a href="https://arxiv.org/abs/2606.12205" target="_blank">arXiv:2606.12205</a></em></p>
+
+<p>One of the central open questions in gravitational-wave astrophysics is: <strong>how do the binary black holes (BBHs) detected by LIGO/Virgo/KAGRA actually form?</strong> There are several competing formation channels — isolated binary evolution (two stars that live and die together), dynamical formation (two black holes that meet in a dense star cluster), AGN disk channels (mergers driven by the gas disk around a supermassive black hole), and more. The frustrating reality is that many of these channels make overlapping predictions for BBH properties such as masses and merger rates, making it difficult to disentangle them from the data.</p>
+
+<p>One of the most promising distinguishing features, however, is the <strong>effective inspiral spin parameter χ<sub>eff</sub></strong> — a mass-weighted combination of the spin components aligned with the orbital angular momentum:</p>
+
+<ul>
+  <li><strong>Isolated binary evolution</strong> is expected to produce preferentially <em>aligned</em> spins (positive χ<sub>eff</sub>), because tidal interactions and mass transfer tend to align the spins with the orbit before the system merges.</li>
+  <li><strong>Dynamical formation</strong> in dense clusters produces <em>isotropic</em> spin orientations — the spins have no memory of the orbit, so positive and negative χ<sub>eff</sub> should appear in equal measure (a symmetric distribution around zero).</li>
+  <li><strong>AGN disk channels</strong> may preferentially produce <em>higher positive</em> χ<sub>eff</sub>, driven by gas-torque alignment and hierarchical mergers.</li>
+</ul>
+
+<p>This paper uses the new <strong>GWTC-5 catalog</strong> from LVK to look at the χ<sub>eff</sub> distribution in more detail — and specifically to ask whether it shows any <em>mass-dependent structure</em> beyond what a simple single-population model would predict.</p>
+
+<p>Their main findings:</p>
+<ul>
+  <li>Across the full population there is robustly a <strong>slowly-spinning subpopulation</strong> — a Gaussian-like feature centered near χ<sub>eff</sub> ≈ 0, consistent with previous analyses.</li>
+  <li>On top of this bulk, they find <strong>mass-dependent residual structure in χ<sub>eff</sub></strong> that hints at distinct subpopulations:
+    <ul>
+      <li><strong>Primary masses 16–20 M<sub>☉</sub>:</strong> an excess of <em>positive</em> χ<sub>eff</sub> (aligned spins) — consistent with isolated binary evolution, which is expected to preferentially form BBHs in this mass range with tidally aligned spins.</li>
+      <li><strong>Primary masses ~30 M<sub>☉</sub>:</strong> some hints of a positive χ<sub>eff</sub> excess, but not yet statistically significant.</li>
+      <li><strong>Primary masses 46–65 M<sub>☉</sub>:</strong> <em>negative</em> χ<sub>eff</sub> contributions become significant — pointing toward dynamical formation, where random spin orientations naturally produce a symmetric (and thus negative-inclusive) distribution.</li>
+    </ul>
+  </li>
+</ul>
+
+<p>The picture that emerges is one where <strong>different formation channels dominate at different mass scales</strong> — which makes physical sense: isolated binary evolution has well-defined mass tracks set by stellar evolution, while dynamical formation can more easily produce heavier BHs (including through hierarchical mergers). The AGN channel may also contribute, particularly to the positive high-spin end.</p>
+
+<p>That said, the authors are appropriately cautious: some of these trends are tentative and may shift with more data. This is exactly the kind of analysis that will sharpen considerably as LVK continues observing — O4 and beyond will substantially grow the catalog and make these mass-dependent spin features either clearer or go away. Very exciting results to watch develop!</p>
+
+  </div>
+</details>
+
 <details id="parkosidis2026eccentric">
   <summary onclick="var d=this.closest('details');setTimeout(function(){if(d.open)history.replaceState(null,'','#'+d.id);else history.replaceState(null,'',location.pathname);},0)">Parkosidis et al. 2026 — Eccentricity as a probe of mass-transfer physics: Eccentric mass transfer as a solution to the wide eccentric binary problem <span class="item-date">Jun 9, 2026</span></summary>
   <div class="details-content">
