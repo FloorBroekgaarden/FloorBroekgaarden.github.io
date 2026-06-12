@@ -16,7 +16,86 @@ author_profile: true
 .figure-item p { font-size: 0.93em; color: #444; margin: 0.3em 0 0.6em; line-height: 1.6; }
 .figure-item .figure-meta { font-size: 0.85em; color: #888; margin-bottom: 0.5em; }
 .figure-item .figure-links a { font-size: 0.9em; margin-right: 0.8em; }
+
+details.anim-item {
+  border: 1px solid #e0e0e0;
+  border-radius: 6px;
+  margin-bottom: 1em;
+  background: #fff;
+}
+
+details.anim-item[open] {
+  border-color: #bbb;
+}
+
+details.anim-item summary {
+  padding: 0.85em 1.1em;
+  cursor: pointer;
+  font-size: 1em;
+  font-weight: 600;
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  user-select: none;
+}
+
+details.anim-item summary::-webkit-details-marker { display: none; }
+
+details.anim-item summary::after {
+  content: "▶ Play";
+  font-size: 0.85em;
+  color: #999;
+  font-weight: 400;
+}
+
+details.anim-item[open] summary::after {
+  content: "■ Stop";
+}
+
+.anim-content {
+  padding: 0.5em 1.3em 1.3em;
+  border-top: 1px solid #eee;
+}
+
+.anim-content p { font-size: 0.93em; color: #444; margin: 0.6em 0; line-height: 1.6; }
+.anim-content .figure-meta { font-size: 0.85em; color: #888; margin-bottom: 0.6em; }
+.anim-content .figure-links a { font-size: 0.9em; margin-right: 0.8em; }
 </style>
+
+## Animations
+
+<details class="anim-item" id="vimes-animation">
+  <summary>VIMES — Visualization of Massive Evolving Stars &nbsp;<span style="font-weight:400; font-size:0.85em; color:#888;">Laya Binu · 2025</span></summary>
+  <div class="anim-content">
+    <p class="figure-meta">Laya Binu (GW Paleontology Lab, UC San Diego) · <a href="https://github.com/layabinu/VIMES_VIsualization_of_Massive_Evolving_Stars" target="_blank">GitHub</a></p>
+    <p>VIMES is an interactive visualization tool for massive evolving stars, developed by GW Paleontology group member Laya Binu. The tool provides animated visual representations of stellar evolution tracks and properties, making it easier to explore and communicate how massive stars evolve over their lifetimes.</p>
+    <video id="vimes-video" width="100%" controls muted playsinline loop style="border-radius: 4px; margin-top: 0.5em; border: 1px solid #e0e0e0;">
+      <source src="/files/videos/VIMES.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+  </div>
+</details>
+
+<script>
+(function () {
+  var details = document.getElementById('vimes-animation');
+  var video   = document.getElementById('vimes-video');
+  if (details && video) {
+    details.addEventListener('toggle', function () {
+      if (details.open) {
+        video.currentTime = 0;
+        video.play();
+      } else {
+        video.pause();
+        video.currentTime = 0;
+      }
+    });
+  }
+})();
+</script>
+
+---
 
 ## Interactive Figures
 
