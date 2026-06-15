@@ -13,6 +13,11 @@ author_profile: true
 </style>
 
 <div class="news-item">
+  <div class="news-date">Jun 15, 2026</div>
+  <div class="news-text"><img src="/images/news/26_june_15/tyler-smith-award-2026.png" class="news-img" alt="Tyler Smith receiving the José Flores-Velázquez Endowment Award in Astrophysics at UCI">Congrats to GW Paleontology member <strong>Tyler Smith</strong> for winning the <strong>José Flores-Velázquez Endowment Award in Astrophysics</strong> from UCI! Tyler received this for his research and his endless work to improve support for underrepresented minorities in astrophysics and physics. So well deserved! 🎉</div>
+</div>
+
+<div class="news-item">
   <div class="news-date">Jun 11, 2026</div>
   <div class="news-text"><img src="/images/gwp-news/26_06_11/STRAND_A_Wright.png" class="news-img" alt="Anna Wright STRAND talk">Happy Thursday: another fantastic STRAND talk today, this time by <strong>Anna Wright (CCA)</strong> on <em>"The edge of in Situ: Simulating the stellar halos of dwarf galaxies"</em> with some amazing simulations (and animations) of dwarf galaxies, discussions of dark matter and so much more! Really fantastic overview. <a href="https://youtu.be/isDu05rGk_8" target="_blank">[recording]</a></div>
 </div>
