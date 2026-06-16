@@ -14,7 +14,7 @@ author_profile: true
 
 <div class="news-item">
   <div class="news-date">Jun 16, 2026</div>
-  <div class="news-text"><img src="/images/news/26_June_16/Rhea_AstroAI.jpg" class="news-img" alt="Rhea giving a poster presentation at AstroAI">Rhea giving a poster presentation at the AstroAI conference workshop on AI in astrophysics!</div>
+  <div class="news-text"><img src="/images/news/26_June_16/Rhea_AstroAI.jpg" class="news-img" alt="Rhea giving a poster presentation at AstroAI">Rhea giving a poster presentation at the AstroAI conference workshop on AI in astrophysics! <a href="/images/news/26_June_16/AstroAI_Poster.pdf" target="_blank">[poster]</a></div>
 </div>
 
 <div class="news-item">
