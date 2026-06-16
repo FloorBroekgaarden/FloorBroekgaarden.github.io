@@ -13,6 +13,11 @@ author_profile: true
 </style>
 
 <div class="news-item">
+  <div class="news-date">Jun 16, 2026</div>
+  <div class="news-text"><img src="/images/news/26_June_16/Rhea_AstroAI.jpg" class="news-img" alt="Rhea giving a poster presentation at AstroAI">Rhea giving a poster presentation at the AstroAI conference workshop on AI in astrophysics!</div>
+</div>
+
+<div class="news-item">
   <div class="news-date">Jun 15, 2026</div>
   <div class="news-text"><img src="/images/news/26_june_15/tyler-smith-award-2026.png" class="news-img" alt="Tyler Smith receiving the José Flores-Velázquez Endowment Award in Astrophysics at UCI">Congrats to GW Paleontology member <strong>Tyler Smith</strong> for winning the <strong>José Flores-Velázquez Endowment Award in Astrophysics</strong> from UCI! Tyler received this for his research and his endless work to improve support for underrepresented minorities in astrophysics and physics. So well deserved! 🎉</div>
 </div>
