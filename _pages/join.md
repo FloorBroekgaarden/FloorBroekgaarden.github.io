@@ -4,9 +4,7 @@ title: "Join the Lab"
 author_profile: true
 ---
 
-Interested parties can complete a form to connect with the lab regarding involvement opportunities, updates, internships, or informal discussions: [https://forms.gle/rr2kfbJ74pczVrvn7](https://forms.gle/rr2kfbJ74pczVrvn7)
-
-**Note: PhD inquiries receive a special response detailed below.**
+Interested in learning more about the lab or joining? Fill out this interest form to receive our newsletter, receive information about resources, opportunities or internships, and/or to connect with us through journal clubs or chats: [https://forms.gle/rr2kfbJ74pczVrvn7](https://forms.gle/rr2kfbJ74pczVrvn7)
 
 ---
 
