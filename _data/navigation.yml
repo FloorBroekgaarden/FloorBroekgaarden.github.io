@@ -13,6 +13,9 @@ main:
   - title: "Research Group"
     url: /group/
 
+  - title: "Join the Lab"
+    url: /join/
+
   - title: "Publications"
     url: /publications/
 
