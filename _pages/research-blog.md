@@ -160,7 +160,9 @@ details[open] summary::after {
 
 <p>Cailin showed that there is a lot of hard work that is important to make the most of future gravitational-wave detections — when we get 100,000 of them each year with Cosmic Explorer — as well as what we can already do right now with current data. The challenges are significant due to the many different assumptions that go into the modelling, but scientists are working really hard to unravel this and overcome these challenges.</p>
 
-<p>One of Cailin's recent works on this topic is <a href="https://arxiv.org/pdf/2601.07908" target="_blank">arXiv:2601.07908</a>, in which she showed that one example to overcome some of the challenges of overlapping model predictions is to move towards higher-dimensional observational data constraints — such as the joint space of effective inspiral and precessing spins — that might be a telltale signature of certain formation channels.</p>
+<p>One of Cailin's recent works on this topic is <a href="https://arxiv.org/pdf/2601.07908" target="_blank">arXiv:2601.07908</a>, in which she showed that one example to overcome some of the challenges of overlapping model predictions is to move towards higher-dimensional observational data constraints — such as the joint space of effective inspiral and precessing spins — that might be a telltale signature of dynamical formation channels.</p>
+
+<p>Read more about Cailin's work at <a href="https://cailinplunkett.github.io/about/" target="_blank">cailinplunkett.github.io/about/</a></p>
 
   </div>
 </details>
