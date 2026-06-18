@@ -147,6 +147,24 @@ details[open] summary::after {
 
 <p class="blog-intro">Short posts, paper summaries, and research updates from the GW Paleontology Lab — covering both results from our group and highlights from the broader gravitational-wave and stellar astrophysics community. Meant as a resource for anyone wanting to stay up to date on the latest in gravitational-wave paleontology. Click any entry to expand it.</p>
 
+<details id="plunkett2026talk">
+  <summary onclick="var d=this.closest('details');setTimeout(function(){if(d.open)history.replaceState(null,'','#'+d.id);else history.replaceState(null,'',location.pathname);},0)">Cailin Plunkett — Gravitational-Wave Populations from Future Detectors: Challenges & Opportunities with Cosmic Explorer <span class="item-date">Jun 18, 2026</span></summary>
+  <div class="details-content">
+
+<p>Fantastic talk by <strong>Cailin Plunkett</strong> on what we can learn about gravitational-wave populations and the massive stars that once formed them (or more exotic formation channels) from future gravitational-wave detectors such as Cosmic Explorer.</p>
+
+<div class="fig-block">
+  <img src="/images/gwp-news/26_06_18/Cailin_Plunkett.jpeg" alt="Cailin Plunkett giving a talk at AAS">
+  <div class="fig-caption">Cailin Plunkett presenting on gravitational-wave population inference with next-generation detectors.</div>
+</div>
+
+<p>Cailin showed that there is a lot of hard work that is important to make the most of future gravitational-wave detections — when we get 100,000 of them each year with Cosmic Explorer — as well as what we can already do right now with current data. The challenges are significant due to the many different assumptions that go into the modelling, but scientists are working really hard to unravel this and overcome these challenges.</p>
+
+<p>One of Cailin's recent works on this topic is <a href="https://arxiv.org/pdf/2601.07908" target="_blank">arXiv:2601.07908</a>, in which she showed that one example to overcome some of the challenges of overlapping model predictions is to move towards higher-dimensional observational data constraints — such as the joint space of effective inspiral and precessing spins — that might be a telltale signature of certain formation channels.</p>
+
+  </div>
+</details>
+
 <details id="alvarezlopez2026spins">
   <summary onclick="var d=this.closest('details');setTimeout(function(){if(d.open)history.replaceState(null,'','#'+d.id);else history.replaceState(null,'',location.pathname);},0)">Alvarez-Lopez et al. 2026 — Evidence for additional structure in the effective spin distribution hints at multiple formation pathways in GWTC-5.0 <span class="item-date">Jun 11, 2026</span></summary>
   <div class="details-content">
