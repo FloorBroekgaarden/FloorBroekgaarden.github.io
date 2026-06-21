@@ -26,6 +26,7 @@ This page collects resources I have found useful or that were shared by colleagu
   <li><a href="https://docs.google.com/document/d/1yQFGidu6PL_Oif5jYfK4p1Xx7jXq96QYSccjdI8zGV8/edit?usp=sharing">Post-BSc research opportunities guide</a></li>
   <li><a href="https://twitter.com/astrocaits/status/1483271895961190403">Summer internship list (Twitter thread)</a></li>
   <li><a href="https://www.astrobetter.com/wiki/Masters+Bridge+Programs">Masters &amp; Bridge programs (AstroBetter)</a></li>
+  <li><a href="https://www.nasa.gov/learning-resources/internship-programs/">NASA internships</a></li>
 </ul>
 
 <h3>PhD Programs — General</h3>
