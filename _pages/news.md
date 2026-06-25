@@ -14,7 +14,7 @@ author_profile: true
 
 <div class="news-item">
   <div class="news-date">Jun 23, 2026</div>
-  <div class="news-text"><img src="/images/smash-banner.png" class="news-img" alt="SMASH AI initiative">Great SMASH AI talk by <strong>Josh Speagle</strong> (University of Toronto): <em>"What the *** are we doing?"</em> — part of the SMASH AI initiative at UCSD that I'm leading. Josh gave a live demo where he tried to write an ApJ paper in under an hour with AI, using it as a springboard to discuss hard questions: why are we here as learners and researchers, what should we be striving for, and what's genuinely different this time around with autonomous agentic systems? A thought-provoking and interactive talk! <a href="https://youtu.be/gltaQXPj0WE" target="_blank">[recording]</a></div>
+  <div class="news-text"><img src="/images/gwp-news/26_06_24/SMASH_talk_JOSH.jpeg" class="news-img" alt="Josh Speagle SMASH AI talk">Great SMASH AI talk by <strong>Josh Speagle</strong> (University of Toronto): <em>"What the *** are we doing?"</em> — part of the SMASH AI initiative at UCSD that I'm leading. Josh gave a live demo where he tried to write an ApJ paper in under an hour with AI, using it as a springboard to discuss hard questions: why are we here as learners and researchers, what should we be striving for, and what's genuinely different this time around with autonomous agentic systems? A thought-provoking and interactive talk! <a href="https://youtu.be/gltaQXPj0WE" target="_blank">[recording]</a></div>
 </div>
 
 <div class="news-item">
