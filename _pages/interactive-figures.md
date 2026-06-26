@@ -114,7 +114,7 @@ details.anim-item[open] summary::after {
   <p class="figure-meta">Broekgaarden et al. · <em>On Claims of a Binary Black Hole Merger-Rate Crisis</em></p>
   <p>Interactive figures and tables for the LOWER YOUR RATES paper exploring binary black hole merger rate constraints and comparisons across different studies and methodologies.</p>
   <div class="figure-links">
-    <a href="https://floorbroekgaarden.github.io/Rates_of_Formation_Channels/interactive_figures_and_tables/isolated-merger-rates.html" target="_blank">Open interactive figures</a>
+    <a href="https://floorbroekgaarden.github.io/lower-your-rates/" target="_blank">Open interactive figures</a>
     <a href="https://zenodo.org/records/5072400" target="_blank">Zenodo: 10.5281/zenodo.5072400</a>
     <a href="https://github.com/FloorBroekgaarden/Rates_of_Compact_Object_Coalescence" target="_blank">GitHub</a>
   </div>
