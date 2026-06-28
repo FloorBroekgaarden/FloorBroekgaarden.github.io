@@ -13,8 +13,23 @@ author_profile: true
 </style>
 
 <div class="news-item">
+  <div class="news-date">Jun 26, 2026</div>
+  <div class="news-text"><img src="/images/news/26_June_AAS/IMG_7276.jpg" class="news-img" alt="Floor Broekgaarden giving an invited talk at the AAS Summer meeting"><img src="/images/news/26_June_AAS/IMG_7282.jpg" class="news-img" alt="AAS Summer meeting in Pasadena"><strong>Floor Broekgaarden</strong> gave an invited talk at the <strong>AAS Summer meeting</strong> in Pasadena — one of the largest astronomy meetings in the USA — on the road forward for simulations (challenges and successes), in the context of the latest <strong>GWTC-5</strong> results from LIGO, Virgo, and KAGRA.</div>
+</div>
+
+<div class="news-item">
+  <div class="news-date">Jun 25, 2026</div>
+  <div class="news-text"><img src="/images/news/26_June_25/IMG_9505.jpg" class="news-img" alt="Steffani Grondin observing at the Lick telescope"><img src="/images/news/26_June_25/IMG_9510.jpg" class="news-img" alt="Group members and undergraduates at the Lick observing night"><strong>Steffani Grondin</strong> in action! Steffani was observing with the Lick telescope, and organized as part of this an observing night in which she invited group members and undergraduate students to join the observations and learn what it's like to take data (spectra) using some of the USA's best telescopes! Very fun!</div>
+</div>
+
+<div class="news-item">
   <div class="news-date">Jun 23, 2026</div>
   <div class="news-text"><img src="/images/gwp-news/26_06_24/SMASH_talk_JOSH.jpeg" class="news-img" alt="Josh Speagle SMASH AI talk">Great SMASH AI talk by <strong>Josh Speagle</strong> (University of Toronto): <em>"What the *** are we doing?"</em> — part of the SMASH AI initiative at UCSD that I'm leading. Josh gave a live demo where he tried to write an ApJ paper in under an hour with AI, using it as a springboard to discuss hard questions: why are we here as learners and researchers, what should we be striving for, and what's genuinely different this time around with autonomous agentic systems? A thought-provoking and interactive talk! <a href="https://youtu.be/gltaQXPj0WE" target="_blank">[recording]</a></div>
+</div>
+
+<div class="news-item">
+  <div class="news-date">Jun 17, 2026</div>
+  <div class="news-text"><img src="/images/news/26_June_17/IMG_9316.jpg" class="news-img" alt="Ayanah Cason and Melanie Santiago presenting at the Black in Astro PhD forum"><img src="/images/news/26_June_17/IMG_9318.jpg" class="news-img" alt="Black in Astro PhD forum presentations">Double the fun: two fantastic presentations today in the PhD forum organized by <strong>Black in Astro</strong> — by GW Paleontology friend <strong>Ayanah Cason</strong> and GW Paleontology member <strong>Melanie Santiago</strong> — who both did really amazing in presenting their very technical research in just 10 minutes!!!</div>
 </div>
 
 <div class="news-item">
@@ -25,6 +40,11 @@ author_profile: true
 <div class="news-item">
   <div class="news-date">Jun 15, 2026</div>
   <div class="news-text"><img src="/images/news/26_june_15/tyler-smith-award-2026.png" class="news-img" alt="Tyler Smith receiving the José Flores-Velázquez Endowment Award in Astrophysics at UCI">Congrats to GW Paleontology member <strong>Tyler Smith</strong> for winning the <strong>José Flores-Velázquez Endowment Award in Astrophysics</strong> from UCI! Tyler received this for his research and his endless work to improve support for underrepresented minorities in astrophysics and physics. So well deserved! 🎉</div>
+</div>
+
+<div class="news-item">
+  <div class="news-date">Jun 13, 2026</div>
+  <div class="news-text"><img src="/images/news/26_june_13_Astro_graduation/DSC_9341.jpeg" class="news-img" alt="UCSD Astronomy graduation"><img src="/images/news/26_june_13_Astro_graduation/IMG_2621.JPG" class="news-img" alt="GW Paleontology members at UCSD Astronomy graduation"><img src="/images/news/26_june_13_Astro_graduation/IMG_2624.JPG" class="news-img" alt="UCSD Astronomy graduation celebration"><img src="/images/news/26_june_13_Astro_graduation/saturday-graduation(next-week).jpeg" class="news-img" alt="UCSD Astronomy graduation"><img src="/images/news/26_june_13_Astro_graduation/saturday-graduation(next-week)2.jpeg" class="news-img" alt="UCSD Astronomy graduation">Fantastic day: the very first <strong>UCSD Astronomy graduation</strong>! We have a new department/degree, so this is the first time we had an official graduation — including several GW Paleontology friends and members getting their college degree (<strong>Kenneth</strong>, <strong>Aidan</strong>, <strong>Matthew</strong>) as shown here! 🎓</div>
 </div>
 
 <div class="news-item">
@@ -144,6 +164,11 @@ author_profile: true
     <br><br>
     <img src="/images/sd100-trail.png" style="width: 100%; max-width: 400px; border-radius: 4px;" alt="SD100 trail">
   </div>
+</div>
+
+<div class="news-item">
+  <div class="news-date">Apr 10, 2026</div>
+  <div class="news-text"><img src="/images/news/26_April_10/sasha-journal-club.jpeg" class="news-img" alt="Sasha Levina presenting at the UCSD Journal Club"><strong>Sasha Levina</strong> giving a fantastic presentation at the UCSD Journal Club!</div>
 </div>
 
 <div class="news-item">
