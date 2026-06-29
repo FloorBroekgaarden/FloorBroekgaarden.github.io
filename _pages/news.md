@@ -13,11 +13,6 @@ author_profile: true
 </style>
 
 <div class="news-item">
-  <div class="news-date">Jun 26, 2026</div>
-  <div class="news-text"><img src="/images/news/26_June_AAS/IMG_7276.jpg" class="news-img" alt="Floor Broekgaarden giving an invited talk at the AAS Summer meeting"><img src="/images/news/26_June_AAS/IMG_7282.jpg" class="news-img" alt="AAS Summer meeting in Pasadena"><strong>Floor Broekgaarden</strong> gave an invited talk at the <strong>AAS Summer meeting</strong> in Pasadena — one of the largest astronomy meetings in the USA — on the road forward for simulations (challenges and successes), in the context of the latest <strong>GWTC-5</strong> results from LIGO, Virgo, and KAGRA.</div>
-</div>
-
-<div class="news-item">
   <div class="news-date">Jun 25, 2026</div>
   <div class="news-text"><img src="/images/news/26_June_25/IMG_9505.jpg" class="news-img" alt="Steffani Grondin observing at the Lick telescope"><img src="/images/news/26_June_25/IMG_9510.jpg" class="news-img" alt="Group members and undergraduates at the Lick observing night"><strong>Steffani Grondin</strong> in action! Steffani was observing with the Lick telescope, and organized as part of this an observing night in which she invited group members and undergraduate students to join the observations and learn what it's like to take data (spectra) using some of the USA's best telescopes! Very fun!</div>
 </div>
@@ -25,6 +20,11 @@ author_profile: true
 <div class="news-item">
   <div class="news-date">Jun 23, 2026</div>
   <div class="news-text"><img src="/images/gwp-news/26_06_24/SMASH_talk_JOSH.jpeg" class="news-img" alt="Josh Speagle SMASH AI talk">Great SMASH AI talk by <strong>Josh Speagle</strong> (University of Toronto): <em>"What the *** are we doing?"</em> — part of the SMASH AI initiative at UCSD that I'm leading. Josh gave a live demo where he tried to write an ApJ paper in under an hour with AI, using it as a springboard to discuss hard questions: why are we here as learners and researchers, what should we be striving for, and what's genuinely different this time around with autonomous agentic systems? A thought-provoking and interactive talk! <a href="https://youtu.be/gltaQXPj0WE" target="_blank">[recording]</a></div>
+</div>
+
+<div class="news-item">
+  <div class="news-date">Jun 18, 2026</div>
+  <div class="news-text"><img src="/images/news/26_June_AAS/IMG_7276.jpg" class="news-img" alt="Floor Broekgaarden giving an invited talk at the AAS Summer meeting"><img src="/images/news/26_June_AAS/IMG_7282.jpg" class="news-img" alt="AAS Summer meeting in Pasadena"><strong>Floor Broekgaarden</strong> gave an invited talk at the <strong>AAS Summer meeting</strong> in Pasadena — one of the largest astronomy meetings in the USA — on the road forward for simulations (challenges and successes), in the context of the latest <strong>GWTC-5</strong> results from LIGO, Virgo, and KAGRA.</div>
 </div>
 
 <div class="news-item">
