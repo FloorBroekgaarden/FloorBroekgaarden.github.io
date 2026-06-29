@@ -24,7 +24,7 @@ author_profile: true
 
 <div class="news-item">
   <div class="news-date">Jun 18, 2026</div>
-  <div class="news-text"><img src="/images/news/26_June_AAS/IMG_7276.jpg" class="news-img" alt="Floor Broekgaarden giving an invited talk at the AAS Summer meeting"><img src="/images/news/26_June_AAS/IMG_7282.jpg" class="news-img" alt="AAS Summer meeting in Pasadena"><strong>Floor Broekgaarden</strong> gave an invited talk at the <strong>AAS Summer meeting</strong> in Pasadena — one of the largest astronomy meetings in the USA — on the road forward for simulations (challenges and successes), in the context of the latest <strong>GWTC-5</strong> results from LIGO, Virgo, and KAGRA.</div>
+  <div class="news-text"><img src="/images/news/26_June_18_AAS/IMG_7276.jpg" class="news-img" alt="Floor Broekgaarden giving an invited talk at the AAS Summer meeting"><img src="/images/news/26_June_18_AAS/IMG_7282.jpg" class="news-img" alt="AAS Summer meeting in Pasadena"><strong>Floor Broekgaarden</strong> gave an invited talk at the <strong>AAS Summer meeting</strong> in Pasadena — one of the largest astronomy meetings in the USA — on the road forward for simulations (challenges and successes), in the context of the latest <strong>GWTC-5</strong> results from LIGO, Virgo, and KAGRA.</div>
 </div>
 
 <div class="news-item">
