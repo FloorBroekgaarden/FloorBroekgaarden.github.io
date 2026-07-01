@@ -13,6 +13,24 @@ author_profile: true
 </style>
 
 <div class="news-item">
+  <div class="news-date">Jun 29, 2026</div>
+  <div class="news-text">🌟 <strong>New paper alert!</strong> 🌟<br><br>
+  Floor S. Broekgaarden<br><br>
+  📄 <a href="https://arxiv.org/abs/2606.28515"><em>"Lower Your Rates: On Claims of a Binary Black Hole Merger-Rate Crisis"</em></a><br><br>
+  It has recently been suggested that isolated binary evolution models systematically overpredict the binary black hole (BBH) merger rate, and that the only way to reach rates consistent with — or below — the observed LIGO/Virgo/KAGRA rate (GWTC-5) is to invoke high-metallicity star formation or high black hole natal kicks. This paper asks whether that is actually true. <strong>It is not.</strong><br><br>
+  <strong>Key points:</strong>
+  <ul>
+    <li>📚 I updated and greatly expanded the 2022 rates review, compiling metadata for each simulation and submodel that reports a BBH merger rate — <strong>1,490 simulated rates from 57 studies</strong>.</li>
+    <li>🔻 Low BBH merger rates can be reached along <em>many</em> different, physically justified parameter variations — not just high metallicity or strong natal kicks. Rates depend heavily on assumptions about kicks, common-envelope evolution, mass transfer, and star formation history.</li>
+    <li>🧱 A central finding is the appearance of <strong>simulation silos</strong>: individual codes show internal consistency that does not extend across different frameworks, so trends within one code don't straightforwardly generalize.</li>
+    <li>⚖️ The upshot: claims of a universal BBH merger-rate "crisis" are strongly model dependent, and much broader parameter-space exploration is needed before declaring genuine tension between theory and data.</li>
+  </ul>
+  🖥️ <strong>Interactive figures &amp; tables:</strong> explore the full compilation yourself → <a href="https://floorbroekgaarden.github.io/lower-your-rates/">[interactive figures]</a>
+  <br><br>
+  <img src="/images/gwp-news/26_06_29/paper-figure-3.png" style="width: 100%; max-width: 480px; border-radius: 4px;" alt="Figure 3: simulated BBH merger rates grouped by population-synthesis framework, illustrating simulation silos"></div>
+</div>
+
+<div class="news-item">
   <div class="news-date">Jun 25, 2026</div>
   <div class="news-text"><img src="/images/news/26_June_25/IMG_9505.jpg" class="news-img" alt="Steffani Grondin observing at the Lick telescope"><img src="/images/news/26_June_25/IMG_9510.jpg" class="news-img" alt="Group members and undergraduates at the Lick observing night"><strong>Steffani Grondin</strong> in action! Steffani was observing with the Lick telescope, and organized as part of this an observing night in which she invited group members and undergraduate students to join the observations and learn what it's like to take data (spectra) using some of the USA's best telescopes! Very fun!</div>
 </div>

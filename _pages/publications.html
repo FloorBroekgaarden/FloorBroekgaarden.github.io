@@ -82,6 +82,34 @@ details[open] summary::after {
 <h2>Paper highlights</h2>
 <p style="font-size: 0.95em; color: #555; margin-bottom: 1.5em;">Click any entry to expand it.</p>
 
+<details id="broekgaarden2026lyr">
+  <summary onclick="var d=this.closest('details');setTimeout(function(){if(d.open)history.replaceState(null,'','#'+d.id);else history.replaceState(null,'',location.pathname);},0)">Broekgaarden 2026 — Lower Your Rates: On Claims of a Binary Black Hole Merger-Rate Crisis <span class="item-date">Jun 29, 2026</span></summary>
+  <div class="details-content">
+
+  <p><strong>Floor S. Broekgaarden</strong><br>
+  <a href="https://arxiv.org/abs/2606.28515" target="_blank">arXiv:2606.28515</a></p>
+
+  <p>Explore the data and results yourself with interactive figures and tables: <a href="https://floorbroekgaarden.github.io/lower-your-rates/" target="_blank"><strong>[interactive figures]</strong></a></p>
+
+  <p>It has recently been suggested that isolated binary evolution models systematically overpredict the binary black hole (BBH) merger rate, and that the only way to bring simulations down to — or below — the rate observed by LIGO, Virgo, and KAGRA (GWTC-5) is to invoke high-metallicity star formation or high black hole natal kicks. This paper asks whether that is actually true. <strong>It is not.</strong></p>
+
+  <p>To test this, I updated and greatly expanded the 2022 rates review, compiling metadata for each simulation and submodel from isolated binary evolution that reports a BBH merger rate — <strong>1,490 simulated merger rates drawn from 57 studies</strong>. While most models do exceed the observed rate, a meaningful subset aligns with or falls below it, and crucially those low rates arise from <em>many</em> different, physically justified parameter variations — not just high metallicity or strong kicks. Simulated rates depend heavily on assumptions about natal kicks, common-envelope evolution, mass transfer, and star formation history, and low BBH rates can be reached along multiple independent routes through that parameter space.</p>
+
+  <figure>
+    <img src="/images/gwp-news/26_06_29/paper-figure-1.png" alt="Figure 1: Compilation of simulated local BBH merger rates from isolated binary evolution studies compared to the GWTC-5 observational constraint" style="width: 100%; max-width: 860px; border-radius: 4px;">
+    <figcaption><strong>Figure 1.</strong> Compilation of simulated local BBH merger rates from isolated binary evolution studies compared to the observational constraints from GWTC-5 (and earlier LVK catalogs). Each horizontal line is the BBH rate range from one study, with scatter points showing individual submodel rates. While many simulations find rates above the observed LVK range (gray), a substantial number reproduce or underpredict the observed local BBH rate (green). The simulated rates span several orders of magnitude, highlighting how strongly they depend on assumptions about massive-binary evolution and cosmic star formation history — and demonstrating that claims of a universal tension between isolated binary evolution and the observed BBH rate are highly model dependent.</figcaption>
+  </figure>
+
+  <p>A central finding is the appearance of <strong>simulation silos</strong>: individual computational frameworks show internal consistency that does not extend across different codes, so trends found within one framework do not straightforwardly generalize. The overall conclusion is that claims of a universal BBH merger-rate "crisis" are strongly model dependent, and that much broader parameter-space exploration is needed before declaring genuine tension between binary evolution theory and gravitational-wave data.</p>
+
+  <figure>
+    <img src="/images/gwp-news/26_06_29/paper-figure-3.png" alt="Figure 3: Simulated BBH merger rates grouped by population-synthesis framework, illustrating simulation silos" style="width: 100%; max-width: 620px; border-radius: 4px;">
+    <figcaption><strong>Figure 3.</strong> Simulated BBH merger rates grouped by population-synthesis framework rather than by parameter family, shown as cumulative distributions (top) and per-code distributions (bottom), with the LVK interval marked in gray. Different codes populate somewhat different regions of merger-rate space, reflecting differences in their underlying implementations of stellar and binary evolution, even as substantial overlap remains. This clustering by framework illustrates the <strong>simulation silos</strong> effect: conclusions drawn from a single population-synthesis code may not generalize across the broader landscape of isolated-binary evolution models.</figcaption>
+  </figure>
+
+  </div>
+</details>
+
 <details id="broekgaarden2026ce">
   <summary onclick="var d=this.closest('details');setTimeout(function(){if(d.open)history.replaceState(null,'','#'+d.id);else history.replaceState(null,'',location.pathname);},0)">Broekgaarden et al. 2026 — How Common Are Common Envelopes? Quantifying Their Role in Forming Gravitational-Wave Sources <span class="item-date">Jun 4, 2026</span></summary>
   <div class="details-content">
