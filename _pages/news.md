@@ -24,7 +24,7 @@ author_profile: true
 
 <div class="news-item">
   <div class="news-date">Jun 18, 2026</div>
-  <div class="news-text"><img src="/images/news/26_June_18_AAS/IMG_7276.jpg" class="news-img" alt="Floor Broekgaarden giving an invited talk at the AAS Summer meeting"><img src="/images/news/26_June_18_AAS/IMG_7282.jpg" class="news-img" alt="AAS Summer meeting in Pasadena"><strong>Floor Broekgaarden</strong> gave an invited talk at the <strong>AAS Summer meeting</strong> in Pasadena — one of the largest astronomy meetings in the USA — on the road forward for simulations (challenges and successes), in the context of the latest <strong>GWTC-5</strong> results from LIGO, Virgo, and KAGRA.</div>
+  <div class="news-text"><img src="/images/news/26_June_18_AAS/IMG_7276.jpg" class="news-img" alt="Floor Broekgaarden giving an invited talk at the AAS Summer meeting"><img src="/images/news/26_June_18_AAS/IMG_7282.jpg" class="news-img" alt="AAS Summer meeting in Pasadena"><strong>Floor Broekgaarden</strong> gave an invited talk at the <strong>AAS Summer meeting</strong> in Pasadena — one of the largest astronomy meetings in the USA — on the road forward for simulations (challenges and successes), in the context of the latest <strong>GWTC-5</strong> results from LIGO, Virgo, and KAGRA.<br><br><img src="/images/news/26_June_18_AAS/tyler_smith_AAS.jpeg" class="news-img" alt="Tyler Smith presenting his work on Mass Ratio Reversal at AAS"><img src="/images/news/26_June_18_AAS/tyler_smith_AAS2.jpeg" class="news-img" alt="Tyler Smith presenting at the AAS Summer meeting">At the same meeting, GW Paleontology member <strong>Tyler Smith</strong> presented his work on <strong>Mass Ratio Reversal</strong> — great job!</div>
 </div>
 
 <div class="news-item">
