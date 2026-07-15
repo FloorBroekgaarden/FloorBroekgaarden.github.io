@@ -13,6 +13,11 @@ author_profile: true
 </style>
 
 <div class="news-item">
+  <div class="news-date">Jul 15, 2026</div>
+  <div class="news-text">🎬 <strong>Laya Binu's VIMES code</strong>, which generates animations of binary black hole mergers, is now online! Head to <a href="https://gwlandscape.org.au/single-binary-form/" target="_blank">gwlandscape.org.au/single-binary-form</a> to run a binary system using <strong>COMPAS</strong>, and once it generates the binary, click "generate movie" to get your own binary black hole formation animation! It only takes a few minutes and can be done on any laptop.</div>
+</div>
+
+<div class="news-item">
   <div class="news-date">Jun 29, 2026</div>
   <div class="news-text">🌟 <strong>New paper alert!</strong> 🌟 Floor S. Broekgaarden, <a href="https://arxiv.org/abs/2606.28515"><em>"Lower Your Rates: On Claims of a Binary Black Hole Merger-Rate Crisis"</em></a>. It has been suggested that isolated binary evolution models can only reach BBH merger rates consistent with (or below) the observed LIGO/Virgo/KAGRA rate by invoking high-metallicity star formation or high black hole natal kicks — this paper compiles 1,490 simulated rates from 57 studies and shows that's not the case: low rates arise along many physically justified routes, and that individual codes form "simulation silos." <a href="/publications/#broekgaarden2026lyr">[read more]</a> · <a href="https://floorbroekgaarden.github.io/lower-your-rates/">[interactive figures]</a></div>
 </div>
