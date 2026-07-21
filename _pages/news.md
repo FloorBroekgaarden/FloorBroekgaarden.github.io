@@ -13,6 +13,11 @@ author_profile: true
 </style>
 
 <div class="news-item">
+  <div class="news-date">Jul 21, 2026</div>
+  <div class="news-text">🚀 <strong>A brand-new initiative!</strong> Our GW Paleontology lab has launched an exciting new experiment: in collaboration with <a href="https://www.rakiura.co/labs/gw-paleontology" target="_blank">Rakiura</a>, we've started the <strong>Rakiura GROWL Task Force</strong> — an open community where participants from industry and students can follow the lab, listen to podcasts, get the news, and support and contribute to real research. Everyone gives something and everyone gets something back. <a href="/support/">[learn more &amp; join]</a></div>
+</div>
+
+<div class="news-item">
   <div class="news-date">Jul 15, 2026</div>
   <div class="news-text">🎬 <strong>Laya Binu's VIMES code</strong>, which generates animations of binary black hole mergers, is now online! Head to <a href="https://gwlandscape.org.au/single-binary-form/" target="_blank">gwlandscape.org.au/single-binary-form</a> to run a binary system using <strong>COMPAS</strong>, and once it generates the binary, click "generate movie" to get your own binary black hole formation animation! It only takes a few minutes and can be done on any laptop.</div>
 </div>
