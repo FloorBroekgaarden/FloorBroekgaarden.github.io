@@ -16,6 +16,9 @@ main:
   - title: "Join the Lab"
     url: /join/
 
+  - title: "Support the Lab"
+    url: /support/
+
   - title: "Publications"
     url: /publications/
 

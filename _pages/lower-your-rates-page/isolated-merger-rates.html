@@ -1,0 +1,136 @@
+---
+permalink: /lower-your-rates/
+layout: none
+title: "LOWER YOUR RATES: Interactive Figures and Tables"
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>LOWER YOUR RATES: Interactive Figures and Tables</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+            line-height: 1.6;
+        }
+        h1 {
+            margin-bottom: 10px;
+            font-size: 1.8em;
+        }
+        .paper-meta {
+            margin-bottom: 30px;
+            padding-bottom: 20px;
+            border-bottom: 2px solid #e0e0e0;
+            font-size: 0.95em;
+            color: #555;
+        }
+        .paper-meta a {
+            margin-right: 20px;
+            text-decoration: none;
+            color: #0066cc;
+        }
+        .paper-meta a:hover {
+            text-decoration: underline;
+        }
+        .figure-container {
+            margin-bottom: 60px;
+        }
+        .figure-container h2 {
+            font-size: 1.3em;
+            margin-bottom: 15px;
+        }
+        .placeholder {
+            background-color: #f5f5f5;
+            border: 2px dashed #999;
+            border-radius: 4px;
+            padding: 40px;
+            text-align: center;
+            color: #666;
+            font-style: italic;
+        }
+        .fig-toggle {
+            display: inline-flex;
+            border: 1px solid #ccc;
+            border-radius: 6px;
+            overflow: hidden;
+            margin-bottom: 18px;
+        }
+        .fig-btn {
+            border: none;
+            background: #f5f5f5;
+            color: #333;
+            padding: 8px 18px;
+            font-size: 0.95em;
+            cursor: pointer;
+            border-right: 1px solid #ccc;
+        }
+        .fig-btn:last-child { border-right: none; }
+        .fig-btn:hover { background: #e8e8e8; }
+        .fig-btn.active {
+            background: #0066cc;
+            color: #fff;
+        }
+        .fig-panel {
+            overflow-x: auto;
+        }
+    </style>
+</head>
+
+<body>
+
+<h1>LOWER YOUR RATES: ON CLAIMS OF A BINARY BLACK HOLE MERGER-RATE CRISIS</h1>
+
+<div class="paper-meta">
+    <a href="https://zenodo.org/records/20936612" target="_blank">Zenodo: 10.5281/zenodo.20936612</a>
+    <a href="https://github.com/FloorBroekgaarden/Rates_of_Compact_Object_Coalescence" target="_blank">GitHub Repository</a>
+    <a href="/files/lower-your-rates-supplementary_material.pdf" target="_blank">Supplementary Material (how data was obtained)</a>
+</div>
+
+<!-- Figures section -->
+<div class="figure-container">
+    <h2>Interactive Figures</h2>
+    <div class="fig-toggle" role="tablist">
+        <button type="button" class="fig-btn active" data-target="fig-bhbh">BHBH</button>
+        <button type="button" class="fig-btn" data-target="fig-bhns">BHNS</button>
+        <button type="button" class="fig-btn" data-target="fig-bns">BNS</button>
+    </div>
+    <div id="fig-bhbh" class="fig-panel">
+        {% include_relative Rates_BHBH_isolated_only_interactive.html %}
+    </div>
+    <div id="fig-bhns" class="fig-panel" style="display:none;">
+        {% include_relative Rates_NSBH_isolated_only_interactive.html %}
+    </div>
+    <div id="fig-bns" class="fig-panel" style="display:none;">
+        {% include_relative Rates_NSNS_isolated_only_interactive.html %}
+    </div>
+</div>
+
+<script>
+(function () {
+    var btns = document.querySelectorAll('.fig-btn');
+    var panels = document.querySelectorAll('.fig-panel');
+    btns.forEach(function (btn) {
+        btn.addEventListener('click', function () {
+            var target = btn.getAttribute('data-target');
+            panels.forEach(function (p) {
+                p.style.display = (p.id === target) ? 'block' : 'none';
+            });
+            btns.forEach(function (b) { b.classList.toggle('active', b === btn); });
+            // nudge Plotly to (re)draw the now-visible figure
+            window.dispatchEvent(new Event('resize'));
+        });
+    });
+})();
+</script>
+
+<!-- Tables section -->
+<div class="figure-container">
+    <h2>Interactive Tables</h2>
+    {% include_relative merger_rate_table.html %}
+</div>
+
+</body>
+</html>

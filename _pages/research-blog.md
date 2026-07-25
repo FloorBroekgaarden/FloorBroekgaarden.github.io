@@ -147,6 +147,40 @@ details[open] summary::after {
 
 <p class="blog-intro">Short posts, paper summaries, and research updates from the GW Paleontology Lab — covering both results from our group and highlights from the broader gravitational-wave and stellar astrophysics community. Meant as a resource for anyone wanting to stay up to date on the latest in gravitational-wave paleontology. Click any entry to expand it.</p>
 
+<details id="grondin2026ce">
+  <summary onclick="var d=this.closest('details');setTimeout(function(){if(d.open)history.replaceState(null,'','#'+d.id);else history.replaceState(null,'',location.pathname);},0)">Grondin et al. 2026 — A Framework for Linking Pre- and Post-Common Envelope Binary Properties with Star Clusters: A Massive White Dwarf+M Dwarf Binary in Alessi 12 <span class="item-date">Jul 24, 2026</span></summary>
+  <div class="details-content">
+
+<p><em>Grondin, Drout, Nordhaus, Muirhead, Filer, Laroche, Webb, <strong>Broekgaarden</strong>, Chornock, Kremer, LeBaron, Margutti, Noughani, Sears &amp; Tremblay (2026) · <a href="https://arxiv.org/abs/2607.20611" target="_blank">arXiv:2607.20611</a> · <a href="/publications/#grondin2026ce">[publication page]</a></em></p>
+
+<p>GW Paleontology group member <strong>Steffani M. Grondin</strong>'s monumental common-envelope paper just hit the arXiv! One of the most important — and least understood — chapters in the life of a binary star is <strong>common-envelope (CE) evolution</strong>: the brief phase when one star swells up, engulfs its companion, and the two spiral together inside a shared envelope of gas. It is thought to be crucial for bringing binaries close enough that they can eventually merge later in life. But because it is so short-lived, it has been extraordinarily difficult to catch in the act or to constrain observationally — which is exactly why it remains one of the biggest uncertainties in the field.</p>
+
+<p>In this gigantic effort, Steffani collected an enormous amount of data on the post-common-envelope system <strong>Alessi 12–PCE</strong>, using many different telescopes, and developed a <strong>new framework</strong> for recovering CE information from the detailed orbital properties of a system that has already been through the CE phase. The key trick: because this binary lives in the <strong>star cluster Alessi 12</strong>, its age, distance, and chemical composition are pinned down by the cluster, giving a wealth of extra information that isn't available for isolated field binaries.</p>
+
+<div class="fig-block">
+  <img src="/images/gwp-news/26_07_24/grondin-obs-2.png" alt="Figure 2: Multi-wavelength spectral energy distribution of Alessi12-PCE">
+  <div class="fig-caption"><strong>Figure 2.</strong> Multi-wavelength spectral energy distribution of Alessi12-PCE, combining ultraviolet photometry from <em>Swift</em> UVOT, optical photometry from Pan-STARRS1, and near-infrared photometry from 2MASS — a nice illustration of how many different instruments went into characterizing this one system. A hot white dwarf dominates the ultraviolet/blue flux, while the M dwarf companion dominates at red and near-infrared wavelengths. The inset shows a Keck/LRIS spectrum with the major features labeled: broad Balmer absorption lines (Hα–Hε) from the WD and molecular bands (TiO5, K I, Na I) from the M dwarf.</div>
+</div>
+
+<p>The team characterized the system in remarkable detail — identifying an <strong>M4V companion</strong> orbiting an unusually <strong>massive white dwarf of 1.06 ± 0.02 M☉</strong> (the most massive such WD+M dwarf binary known in a cluster) on a tight <strong>6.99-hour orbit</strong> confirmed by radial-velocity measurements.</p>
+
+<div class="fig-block">
+  <img src="/images/gwp-news/26_07_24/grondins-spectra1.png" alt="Figure 3: Spectral fitting to determine the M dwarf spectral type and white dwarf atmospheric parameters">
+  <div class="fig-caption"><strong>Figure 3.</strong> Spectral fitting used to pin down the M dwarf spectral type and the WD's atmospheric parameters. <em>Left:</em> although many WD models fit the observed continuum, only models containing an <strong>M4V companion</strong> are consistent within 1σ. <em>Right:</em> fits to the higher-order Balmer lines (Hβ, Hγ, Hδ, Hε) yield a best-fit white dwarf with T<sub>eff</sub> ≈ 39,250 K and log g ≈ 8.70.</div>
+</div>
+
+<p>Feeding these measurements into the framework yields a striking result: CE models in which convection is the dominant physical mechanism that sets the efficiency parameter α<sub>CE</sub> reproduce the observed orbital separation in either a <strong>mid-AGB interaction with α<sub>CE</sub> ≈ 0.99</strong>, or a <strong>late-AGB interaction with α<sub>CE</sub> ≈ 0.05</strong>. That's a surprisingly wide range of possible CE efficiencies, and exactly the kind of empirical anchor that theorists modeling these systems have been missing.</p>
+
+<div class="fig-block">
+  <img src="/images/gwp-news/26_07_24/Important-CE-figure9-grondin.png" alt="Figure 9: Comparison of common-envelope efficiency estimates for post-CE white dwarf binaries">
+  <div class="fig-caption"><strong>Figure 9.</strong> Common-envelope efficiency (α<sub>CE</sub>) estimates for post-CE white dwarf binaries, comparing this work (top, bold) against the literature. The model-agnostic range for Alessi12-PCE spans α<sub>CE</sub> ≈ 0.03–1.55 across early-, mid-, and late-AGB onset times, while the two starred points mark the distinct scenarios where <strong>convective CE models reproduce the observed orbital separation</strong> (α<sub>CE</sub> ≈ 0.05 and ≈ 0.99). The bottom panel shows earlier constraints derived under the assumption of a single universal α<sub>CE</sub>, which tend to cluster around ≈ 0.2–0.4 — highlighting how much this cluster-anchored approach opens up the allowed parameter space.</div>
+</div>
+
+<p>The really exciting part is what comes next: now that this framework works, it can be applied to <em>other</em> post-CE systems in clusters going forward — steadily chipping away at one of the most mysterious phases in binary stellar evolution. Big congratulations to Steffani and the whole team!</p>
+
+  </div>
+</details>
+
 <details id="plunkett2026talk">
   <summary onclick="var d=this.closest('details');setTimeout(function(){if(d.open)history.replaceState(null,'','#'+d.id);else history.replaceState(null,'',location.pathname);},0)">Cailin Plunkett — Gravitational-Wave Populations from Future Detectors: Challenges & Opportunities with Cosmic Explorer <span class="item-date">Jun 18, 2026</span></summary>
   <div class="details-content">

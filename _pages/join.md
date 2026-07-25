@@ -6,6 +6,8 @@ author_profile: true
 
 Interested in learning more about the lab or joining? Fill out this interest form to receive our newsletter, receive information about resources, opportunities or internships, and/or to connect with us through journal clubs or chats: [https://forms.gle/rr2kfbJ74pczVrvn7](https://forms.gle/rr2kfbJ74pczVrvn7)
 
+*Not looking to join the lab at UCSD as a student, PhD, or postdoc, but still want to follow along, listen to our podcasts, and support and contribute to real science? Anyone — from the curious public to industry professionals and students anywhere — is welcome to get involved through our [Support the Lab](/support/) page and the Rakiura GROWL Task Force.*
+
 ---
 
 ## San Diego and the Astronomy Department at UCSD

@@ -13,8 +13,43 @@ author_profile: true
 </style>
 
 <div class="news-item">
+  <div class="news-date">Jul 24, 2026</div>
+  <div class="news-text"><img src="/images/gwp-news/26_07_24/Important-CE-figure9-grondin.png" class="news-img" alt="Figure 9: common-envelope efficiency constraints for Alessi12-PCE compared to the literature">🌟 <strong>New paper alert!</strong> 🌟 GW Paleontology member <strong>Steffani M. Grondin</strong>'s monumental common-envelope paper just hit the arXiv: <a href="https://arxiv.org/abs/2607.20611" target="_blank"><em>"A Framework for Linking Pre- and Post-Common Envelope Binary Properties with Star Clusters: The First Demonstration with a Massive White Dwarf+M Dwarf Binary in Alessi 12"</em></a> (Grondin, Drout, Nordhaus, Muirhead, Filer, Laroche, Webb, <strong>Broekgaarden</strong>, Chornock, Kremer, LeBaron, Margutti, Noughani, Sears, Tremblay). In a gigantic multi-telescope effort, Steffani built a <strong>new framework</strong> to recover common-envelope (CE) information from the detailed orbital properties of a post-CE binary — using the fact that it lives in the star cluster Alessi 12 to pin down its age, distance, and composition. She characterized <strong>Alessi12-PCE</strong> as an M4V companion orbiting a massive 1.06 M☉ white dwarf on a 6.99-hour orbit, and finds that convective-CE models reproduce the observed separation in exactly two scenarios: a mid-AGB interaction with α<sub>CE</sub> ≈ 0.99, or a late-AGB interaction with α<sub>CE</sub> ≈ 0.05. A rare empirical anchor on one of the most mysterious phases in binary evolution — and a framework that can now be applied to many more systems! <a href="/publications/#grondin2026ce">[read more]</a> · <a href="/research-blog/#grondin2026ce">[research blog]</a></div>
+</div>
+
+<div class="news-item">
+  <div class="news-date">Jul 21, 2026</div>
+  <div class="news-text">🚀 <strong>A brand-new initiative!</strong> Our GW Paleontology lab has launched an exciting new experiment: in collaboration with <a href="https://www.rakiura.co/labs/gw-paleontology" target="_blank">Rakiura</a>, we've started the <strong>Rakiura GROWL Task Force</strong> — an open community where participants from industry and students can follow the lab, listen to podcasts, get the news, and support and contribute to real research. Everyone gives something and everyone gets something back. <a href="/support/">[learn more &amp; join]</a></div>
+</div>
+
+<div class="news-item">
+  <div class="news-date">Jul 15, 2026</div>
+  <div class="news-text">🎬 <strong>Laya Binu's VIMES code</strong>, which generates animations of binary black hole mergers, is now online! Head to <a href="https://gwlandscape.org.au/single-binary-form/" target="_blank">gwlandscape.org.au/single-binary-form</a> to run a binary system using <strong>COMPAS</strong>, and once it generates the binary, click "generate movie" to get your own binary black hole formation animation! It only takes a few minutes and can be done on any laptop.</div>
+</div>
+
+<div class="news-item">
+  <div class="news-date">Jun 29, 2026</div>
+  <div class="news-text">🌟 <strong>New paper alert!</strong> 🌟 Floor S. Broekgaarden, <a href="https://arxiv.org/abs/2606.28515"><em>"Lower Your Rates: On Claims of a Binary Black Hole Merger-Rate Crisis"</em></a>. It has been suggested that isolated binary evolution models can only reach BBH merger rates consistent with (or below) the observed LIGO/Virgo/KAGRA rate by invoking high-metallicity star formation or high black hole natal kicks — this paper compiles 1,490 simulated rates from 57 studies and shows that's not the case: low rates arise along many physically justified routes, and that individual codes form "simulation silos." <a href="/publications/#broekgaarden2026lyr">[read more]</a> · <a href="https://floorbroekgaarden.github.io/lower-your-rates/">[interactive figures]</a></div>
+</div>
+
+<div class="news-item">
+  <div class="news-date">Jun 25, 2026</div>
+  <div class="news-text"><img src="/images/news/26_June_25/IMG_9505.jpg" class="news-img" alt="Steffani Grondin observing at the Lick telescope"><img src="/images/news/26_June_25/IMG_9510.jpg" class="news-img" alt="Group members and undergraduates at the Lick observing night"><strong>Steffani Grondin</strong> in action! Steffani was observing with the Lick telescope, and organized as part of this an observing night in which she invited group members and undergraduate students to join the observations and learn what it's like to take data (spectra) using some of the USA's best telescopes! Very fun!</div>
+</div>
+
+<div class="news-item">
   <div class="news-date">Jun 23, 2026</div>
   <div class="news-text"><img src="/images/gwp-news/26_06_24/SMASH_talk_JOSH.jpeg" class="news-img" alt="Josh Speagle SMASH AI talk">Great SMASH AI talk by <strong>Josh Speagle</strong> (University of Toronto): <em>"What the *** are we doing?"</em> — part of the SMASH AI initiative at UCSD that I'm leading. Josh gave a live demo where he tried to write an ApJ paper in under an hour with AI, using it as a springboard to discuss hard questions: why are we here as learners and researchers, what should we be striving for, and what's genuinely different this time around with autonomous agentic systems? A thought-provoking and interactive talk! <a href="https://youtu.be/gltaQXPj0WE" target="_blank">[recording]</a></div>
+</div>
+
+<div class="news-item">
+  <div class="news-date">Jun 18, 2026</div>
+  <div class="news-text"><img src="/images/news/26_June_18_AAS/IMG_7276.jpg" class="news-img" alt="Floor Broekgaarden giving an invited talk at the AAS Summer meeting"><img src="/images/news/26_June_18_AAS/IMG_7282.jpg" class="news-img" alt="AAS Summer meeting in Pasadena"><strong>Floor Broekgaarden</strong> gave an invited talk at the <strong>AAS Summer meeting</strong> in Pasadena — one of the largest astronomy meetings in the USA — on the road forward for simulations (challenges and successes), in the context of the latest <strong>GWTC-5</strong> results from LIGO, Virgo, and KAGRA.<br><br><img src="/images/news/26_June_18_AAS/tyler_smith_AAS.jpeg" class="news-img" alt="Tyler Smith presenting his work on Mass Ratio Reversal at AAS"><img src="/images/news/26_June_18_AAS/tyler_smith_AAS2.jpeg" class="news-img" alt="Tyler Smith presenting at the AAS Summer meeting">At the same meeting, GW Paleontology member <strong>Tyler Smith</strong> presented his work on <strong>Mass Ratio Reversal</strong> — great job!</div>
+</div>
+
+<div class="news-item">
+  <div class="news-date">Jun 17, 2026</div>
+  <div class="news-text"><img src="/images/news/26_June_17/IMG_9316.jpg" class="news-img" alt="Ayanah Cason and Melanie Santiago presenting at the Black in Astro PhD forum"><img src="/images/news/26_June_17/IMG_9318.jpg" class="news-img" alt="Black in Astro PhD forum presentations">Double the fun: two fantastic presentations today in the PhD forum organized by <strong>Black in Astro</strong> — by GW Paleontology friend <strong>Ayanah Cason</strong> and GW Paleontology member <strong>Melanie Santiago</strong> — who both did really amazing in presenting their very technical research in just 10 minutes!!!</div>
 </div>
 
 <div class="news-item">
@@ -25,6 +60,11 @@ author_profile: true
 <div class="news-item">
   <div class="news-date">Jun 15, 2026</div>
   <div class="news-text"><img src="/images/news/26_june_15/tyler-smith-award-2026.png" class="news-img" alt="Tyler Smith receiving the José Flores-Velázquez Endowment Award in Astrophysics at UCI">Congrats to GW Paleontology member <strong>Tyler Smith</strong> for winning the <strong>José Flores-Velázquez Endowment Award in Astrophysics</strong> from UCI! Tyler received this for his research and his endless work to improve support for underrepresented minorities in astrophysics and physics. So well deserved! 🎉</div>
+</div>
+
+<div class="news-item">
+  <div class="news-date">Jun 13, 2026</div>
+  <div class="news-text"><img src="/images/news/26_june_13_Astro_graduation/DSC_9341.jpeg" class="news-img" alt="UCSD Astronomy graduation"><img src="/images/news/26_june_13_Astro_graduation/IMG_2621.JPG" class="news-img" alt="GW Paleontology members at UCSD Astronomy graduation"><img src="/images/news/26_june_13_Astro_graduation/IMG_2624.JPG" class="news-img" alt="UCSD Astronomy graduation celebration"><img src="/images/news/26_june_13_Astro_graduation/saturday-graduation(next-week).jpeg" class="news-img" alt="UCSD Astronomy graduation"><img src="/images/news/26_june_13_Astro_graduation/saturday-graduation(next-week)2.jpeg" class="news-img" alt="UCSD Astronomy graduation">Fantastic day: the very first <strong>UCSD Astronomy graduation</strong>! We have a new department/degree, so this is the first time we had an official graduation — including several GW Paleontology friends and members getting their college degree (<strong>Kenneth</strong>, <strong>Aidan</strong>, <strong>Matthew</strong>) as shown here! 🎓</div>
 </div>
 
 <div class="news-item">
@@ -144,6 +184,11 @@ author_profile: true
     <br><br>
     <img src="/images/sd100-trail.png" style="width: 100%; max-width: 400px; border-radius: 4px;" alt="SD100 trail">
   </div>
+</div>
+
+<div class="news-item">
+  <div class="news-date">Apr 10, 2026</div>
+  <div class="news-text"><img src="/images/news/26_April_10/sasha-journal-club.jpeg" class="news-img" alt="Sasha Levina presenting at the UCSD Journal Club"><strong>Sasha Levina</strong> giving a fantastic presentation at the UCSD Journal Club!</div>
 </div>
 
 <div class="news-item">
