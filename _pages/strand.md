@@ -50,6 +50,16 @@ author_profile: true
 <div class="strand-section">
 <h2>Past Talks</h2>
 
+<h3>AY 2025–26 — Summer 2026</h3>
+<table class="strand-table">
+  <tr><th>Date</th><th>Time</th><th>Speaker</th><th>Location</th></tr>
+  <tr><td>Jul 24, 2026</td><td>11:00am</td><td>Siria Alicata (Caltech) — <em>High Contrast Coronagraphy Testbed LOWFS redesign and Apodizer Mask validation for Habitable Worlds Observatory</em></td><td>SERF 383</td></tr>
+  <tr><td>Jul 24, 2026</td><td>11:00am</td><td>Isabelle Rivera (Caltech) — <em>Developing Simulation Tools for Validation of Photonic Integrated Circuits for Nulling Interferometry</em></td><td>SERF 383</td></tr>
+  <tr><td>Jul 24, 2026</td><td>11:00am</td><td>Rachel Nazareth (Caltech) — <em>Spectroscopic Validation of GEMS Candidates</em></td><td>SERF 383</td></tr>
+  <tr><td>Jul 24, 2026</td><td>11:00am</td><td>Valentina Bonilla Villalobos (Caltech) — <em>Identifying signatures of stellar youth in APOGEE spectra</em></td><td>SERF 383</td></tr>
+  <tr><td>Jul 24, 2026</td><td>11:00am</td><td>Maya Nunez (Caltech) — <em>Searching for recent X-ray transients in Swift/XRT data</em></td><td>SERF 383</td></tr>
+</table>
+
 <h3>AY 2025–26 — Winter 2026</h3>
 <table class="strand-table">
   <tr><th>Date</th><th>Time</th><th>Speaker</th><th>Location</th></tr>
