@@ -18,6 +18,27 @@ author_profile: true
 </div>
 
 <div class="news-item">
+  <div class="news-date">Jul 24, 2026</div>
+  <div class="news-text">
+    <img src="/images/news/26_July_24/IMG_0162.jpeg" class="news-img" alt="Valentina Bonilla Villalobos STRAND talk — Identifying signatures of stellar youth in APOGEE spectra">
+    Special <strong>STRAND</strong> talk today featuring five stellar talks by amazing summer visitors from Caltech! Each gave a very insightful presentation about their latest research in a wonderfully accessible way — I can't believe how many research results they accomplished this summer! Definitely look out for these amazing astronomers on the PhD job market:
+    <ul>
+      <li><strong>Siria Alicata</strong> — <em>"High Contrast Coronagraphy Testbed LOWFS redesign and Apodizer Mask validation for Habitable Worlds Observatory"</em></li>
+      <li><strong>Isabelle Rivera</strong> — <em>"Developing Simulation Tools for Validation of Photonic Integrated Circuits for Nulling Interferometry"</em></li>
+      <li><strong>Rachel Nazareth</strong> — <em>"Spectroscopic Validation of GEMS Candidates"</em></li>
+      <li><strong>Valentina Bonilla Villalobos</strong> — <em>"Identifying signatures of stellar youth in APOGEE spectra"</em></li>
+      <li><strong>Maya Nunez</strong> — <em>"Searching for recent X-ray transients in Swift/XRT data"</em></li>
+    </ul>
+    <div style="display:flex; gap:0.5em; flex-wrap:wrap; margin-top:0.5em;">
+      <img src="/images/news/26_July_24/IMG_0139.jpeg" style="width:23%; border-radius:4px;" alt="STRAND talk">
+      <img src="/images/news/26_July_24/IMG_0142.jpeg" style="width:23%; border-radius:4px;" alt="STRAND talk">
+      <img src="/images/news/26_July_24/IMG_0153.jpeg" style="width:23%; border-radius:4px;" alt="STRAND talk">
+      <img src="/images/news/26_July_24/IMG_0155.jpeg" style="width:23%; border-radius:4px;" alt="Isabelle Rivera STRAND talk">
+    </div>
+  </div>
+</div>
+
+<div class="news-item">
   <div class="news-date">Jul 21, 2026</div>
   <div class="news-text">🚀 <strong>A brand-new initiative!</strong> Our GW Paleontology lab has launched an exciting new experiment: in collaboration with <a href="https://www.rakiura.co/labs/gw-paleontology" target="_blank">Rakiura</a>, we've started the <strong>Rakiura GROWL Task Force</strong> — an open community where participants from industry and students can follow the lab, listen to podcasts, get the news, and support and contribute to real research. Everyone gives something and everyone gets something back. <a href="/support/">[learn more &amp; join]</a></div>
 </div>
