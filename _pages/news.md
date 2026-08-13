@@ -23,6 +23,24 @@ author_profile: true
 </div>
 
 <div class="news-item">
+  <div class="news-date">Aug 5, 2026</div>
+  <div class="news-text">
+    WE GOT SOME FANTASTIC NEW LOGOS! 🎉🦖🌌 Created by the talented artist and GWP member <strong>Sasha Levina</strong>, who — beyond being an amazing scientist — is also an amazing artist!
+    <div style="display:flex; gap:0.5em; flex-wrap:wrap; margin-top:0.5em;">
+      <img src="/images/gwp-news/26_08_05/gwpaleontology%201%20text.png" style="width:23%; border-radius:4px;" alt="Gravitational Wave Paleontology Lab logo with text, version 1">
+      <img src="/images/gwp-news/26_08_05/gwpaleontology%202%20text.png" style="width:23%; border-radius:4px;" alt="Gravitational Wave Paleontology Lab logo with text, version 2">
+      <img src="/images/gwp-news/26_08_05/Illustration10%20(8).png" style="width:23%; border-radius:4px;" alt="Gravitational Wave Paleontology Lab illustration, version 1">
+      <img src="/images/gwp-news/26_08_05/Illustration10%20(9).png" style="width:23%; border-radius:4px;" alt="Gravitational Wave Paleontology Lab illustration, version 2">
+    </div>
+  </div>
+</div>
+
+<div class="news-item">
+  <div class="news-date">Aug 6, 2026</div>
+  <div class="news-text"><img src="/images/gwp-news/26_08_6/Melanie-Poster-2026-08-06.png" class="news-img" alt="Melanie Santiago presenting her poster at EuroWD 2026 in Vienna">Great work by <strong>Melanie Santiago</strong>, who presented her awesome poster on her <strong>Double White Dwarf and Binary Neutron Star Mergers</strong> work at the <strong>EuroWD</strong> (White Dwarfs in Europe) conference! This is one of the largest international conferences that brings together white dwarf experts. This year it took place in Vienna, Austria, and both Melanie and Steffani went from our group.</div>
+</div>
+
+<div class="news-item">
   <div class="news-date">Jul 24, 2026</div>
   <div class="news-text"><img src="/images/gwp-news/26_07_24/Important-CE-figure9-grondin.png" class="news-img" alt="Figure 9: common-envelope efficiency constraints for Alessi12-PCE compared to the literature">🌟 <strong>New paper alert!</strong> 🌟 GW Paleontology member <strong>Steffani M. Grondin</strong>'s monumental common-envelope paper just hit the arXiv: <a href="https://arxiv.org/abs/2607.20611" target="_blank"><em>"A Framework for Linking Pre- and Post-Common Envelope Binary Properties with Star Clusters: The First Demonstration with a Massive White Dwarf+M Dwarf Binary in Alessi 12"</em></a> (Grondin, Drout, Nordhaus, Muirhead, Filer, Laroche, Webb, <strong>Broekgaarden</strong>, Chornock, Kremer, LeBaron, Margutti, Noughani, Sears, Tremblay). In a gigantic multi-telescope effort, Steffani built a <strong>new framework</strong> to recover common-envelope (CE) information from the detailed orbital properties of a post-CE binary — using the fact that it lives in the star cluster Alessi 12 to pin down its age, distance, and composition. She characterized <strong>Alessi12-PCE</strong> as an M4V companion orbiting a massive 1.06 M☉ white dwarf on a 6.99-hour orbit, and finds that convective-CE models reproduce the observed separation in exactly two scenarios: a mid-AGB interaction with α<sub>CE</sub> ≈ 0.99, or a late-AGB interaction with α<sub>CE</sub> ≈ 0.05. A rare empirical anchor on one of the most mysterious phases in binary evolution — and a framework that can now be applied to many more systems! <a href="/publications/#grondin2026ce">[read more]</a> · <a href="/research-blog/#grondin2026ce">[research blog]</a></div>
 </div>
