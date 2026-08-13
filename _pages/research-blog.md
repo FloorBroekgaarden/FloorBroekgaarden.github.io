@@ -147,6 +147,32 @@ details[open] summary::after {
 
 <p class="blog-intro">Short posts, paper summaries, and research updates from the GW Paleontology Lab — covering both results from our group and highlights from the broader gravitational-wave and stellar astrophysics community. Meant as a resource for anyone wanting to stay up to date on the latest in gravitational-wave paleontology. Click any entry to expand it.</p>
 
+<details id="ligo2026asharp">
+  <summary onclick="var d=this.closest('details');setTimeout(function(){if(d.open)history.replaceState(null,'','#'+d.id);else history.replaceState(null,'',location.pathname);},0)">Sun et al. 2026 — LIGO A♯: Detector Design and Science Prospects Beyond A+ <span class="item-date">Aug 12, 2026</span></summary>
+  <div class="details-content">
+
+<p><em>Sun, Kuns, Slagmolen, Fritschel, Schmidt, Lantz, Chua, Divyajyoti, Ballmer et al. (2026) · <a href="https://arxiv.org/abs/2608.11673" target="_blank">arXiv:2608.11673</a></em></p>
+
+<p>Cool paper 🆒, in which LIGO detector experts describe in detail the design and prospects of the <strong>LIGO A♯ detector</strong> that they are planning to build after <strong>LIGO A+</strong> (the current detector design) — and before the next-generation observatories <strong>Cosmic Explorer</strong> and the <strong>Einstein Telescope</strong>. They describe the many very technical upgrades they plan to make, and how these will improve the detector.</p>
+
+<p>As they say in their abstract:</p>
+
+<div class="highlight-box">
+"Building on the A+ sensitivity, A♯ targets broadband sensitivity improvements through heavier test masses, improved suspensions and seismic isolation, increased arm-cavity power, enhanced frequency-dependent squeezing, reduced coating thermal noise considering two scenarios, and improved control of mechanical motion and optical modes. We describe the principal design choices, projected noise performance, and corresponding astrophysical prospects."
+</div>
+
+<p>Which really means: they are updating and improving <em>many</em> parts of these interferometers significantly — these are all pieces of reducing noise and improving the laser and the mirrors in LIGO. And that will lead to, in their words, "A♯ substantially increases compact-binary detection rates, strengthens population inference, and improves both early-warning times and localization for binary neutron star mergers. The improved sensitivity enables more detailed studies of compact-binary coalescences" — fantastic work!</p>
+
+<p>Some numbers that give a sense of the jump (see their Table 3):</p>
+<ul>
+  <li>Binary black holes could be probed out to <strong>redshift ≈ 4.7 or 5.6</strong> (depending on the coating-thermal-noise scenario), instead of ~2.6 with A+.</li>
+  <li>BBH detections increase from roughly <strong>800 to about 3000 per year</strong>.</li>
+  <li>BNS and BHNS detection rates increase by a factor of roughly <strong>5 to 10</strong>.</li>
+</ul>
+
+  </div>
+</details>
+
 <details id="grondin2026ce">
   <summary onclick="var d=this.closest('details');setTimeout(function(){if(d.open)history.replaceState(null,'','#'+d.id);else history.replaceState(null,'',location.pathname);},0)">Grondin et al. 2026 — A Framework for Linking Pre- and Post-Common Envelope Binary Properties with Star Clusters: A Massive White Dwarf+M Dwarf Binary in Alessi 12 <span class="item-date">Jul 24, 2026</span></summary>
   <div class="details-content">
