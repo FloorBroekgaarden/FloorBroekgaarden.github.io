@@ -23,6 +23,11 @@ author_profile: true
 </div>
 
 <div class="news-item">
+  <div class="news-date">Aug 6, 2026</div>
+  <div class="news-text"><img src="/images/gwp-news/26_08_6/Melanie-Poster-2026-08-06.png" class="news-img" alt="Melanie Santiago presenting her poster at EuroWD 2026 in Vienna">Great work by <strong>Melanie Santiago</strong>, who presented her awesome poster on her <strong>Double White Dwarf and Binary Neutron Star Mergers</strong> work at the <strong>EuroWD</strong> (White Dwarfs in Europe) conference! This is one of the largest international conferences that brings together white dwarf experts. This year it took place in Vienna, Austria, and both Melanie and Steffani went from our group.</div>
+</div>
+
+<div class="news-item">
   <div class="news-date">Aug 5, 2026</div>
   <div class="news-text">
     WE GOT SOME FANTASTIC NEW LOGOS! 🎉🦖🌌 Created by the talented artist and GWP member <strong>Sasha Levina</strong>, who — beyond being an amazing scientist — is also an amazing artist!
@@ -33,11 +38,6 @@ author_profile: true
       <img src="/images/gwp-news/26_08_05/Illustration10%20(9).png" style="width:23%; border-radius:4px;" alt="Gravitational Wave Paleontology Lab illustration, version 2">
     </div>
   </div>
-</div>
-
-<div class="news-item">
-  <div class="news-date">Aug 6, 2026</div>
-  <div class="news-text"><img src="/images/gwp-news/26_08_6/Melanie-Poster-2026-08-06.png" class="news-img" alt="Melanie Santiago presenting her poster at EuroWD 2026 in Vienna">Great work by <strong>Melanie Santiago</strong>, who presented her awesome poster on her <strong>Double White Dwarf and Binary Neutron Star Mergers</strong> work at the <strong>EuroWD</strong> (White Dwarfs in Europe) conference! This is one of the largest international conferences that brings together white dwarf experts. This year it took place in Vienna, Austria, and both Melanie and Steffani went from our group.</div>
 </div>
 
 <div class="news-item">
