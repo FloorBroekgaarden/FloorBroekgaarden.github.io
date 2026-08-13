@@ -13,6 +13,11 @@ author_profile: true
 </style>
 
 <div class="news-item">
+  <div class="news-date">Aug 13, 2026</div>
+  <div class="news-text"><img src="/images/news/26_08_13/Dark%20Sky%20Poster.jpg" class="news-img" alt="2026 San Diego Dark Sky Festival poster">For locals in the San Diego area: with a fantastic team of astronomers from UCSD, we will be volunteering at the <strong>2026 San Diego Dark Sky Festival</strong> in Julian! Saturday, August 15th, 3–11pm at Julian Union High School — see the poster for more information. Hope to see you there! I'll be testing our new <strong>gravitational-wave demonstration</strong>.</div>
+</div>
+
+<div class="news-item">
   <div class="news-date">Aug 12, 2026</div>
   <div class="news-text"><img src="/images/gwp-news/26_08_12/pat1.jpg" class="news-img" alt="Patricia Lau presenting at the UCSD Summer Research Conference"><img src="/images/gwp-news/26_08_12/pat2.jpg" class="news-img" alt="Patricia Lau presenting her research at the UCSD Summer Research Conference">So proud of <strong>STARTastro student Patricia Lau</strong> for giving her first research talk at the <strong>UCSD Summer Research Conference</strong>! Pat presented her research on modeling binary black hole populations using the EAGLE cosmic star formation history. Amazing work!</div>
 </div>
