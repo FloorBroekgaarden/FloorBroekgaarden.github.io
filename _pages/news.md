@@ -24,7 +24,7 @@ author_profile: true
     <li>release interactive visualization and analysis tools through the <strong>GW Landscape</strong> dashboard.</li>
   </ul>
   The goal is to reveal which features of predicted GW populations — merger rates, delay times, mass distributions — are <em>robust</em> across models, and which instead reflect uncertain stellar-physics prescriptions such as common-envelope evolution, mass transfer, and supernova mechanisms.<br><br>
-  The award also supports <strong>outreach</strong>: hands-on demonstrations including binary-evolution activities with scaled stellar models, "craft-your-own-compact-object" stations, and fabric spacetime demos, featured at UCSD outreach events and in high school classrooms. Huge thanks to the NSF and to everyone in the lab who helped make this happen! <a href="https://www.nsf.gov/awardsearch/show-award?AWD_ID=2606407" target="_blank">[NSF award page]</a></div>
+  The award also supports <strong>outreach</strong>: hands-on demonstrations including binary-evolution activities with scaled stellar models, "craft-your-own-compact-object" stations, and fabric spacetime demos, featured at UCSD outreach events and in high school classrooms. Huge thanks to the NSF and to everyone in the lab who helped make this happen! <a href="/publications/#nsf2026growl">[read more]</a> · <a href="https://www.nsf.gov/awardsearch/show-award?AWD_ID=2606407" target="_blank">[NSF award page]</a></div>
 </div>
 
 <div class="news-item">
