@@ -13,6 +13,11 @@ author_profile: true
 </style>
 
 <div class="news-item">
+  <div class="news-date">Aug 25, 2026</div>
+  <div class="news-text">🤓🥳 Congratulations to GW Paleontology Lab member <strong><a href="https://mristic.space/" target="_blank">Marko Ristić</a></strong> for winning a <strong>2026 GDS Outstanding Dissertation Award</strong> from the <strong>American Physical Society</strong> (APS Topical Group on Data Science)! A wonderful recognition of Marko's PhD work — so well deserved! 🎉</div>
+</div>
+
+<div class="news-item">
   <div class="news-date">Aug 16, 2026</div>
   <div class="news-text"><img src="/images/news/26_08_16/20260815_190442.JPG" class="news-img" alt="Families and kids gathered around the stretched-fabric spacetime demo at the San Diego Dark Sky Festival in Julian"><img src="/images/news/26_08_16/M10-eVscope-20260816-034042.PNG" class="news-img" alt="The globular cluster M10 captured with a Unistellar eVscope during the Julian stargazing party, 48-second exposure on Aug 15 2026">🌌 <strong>WHAT a weekend in Julian!</strong> From helping kids understand gravity with marbles and our brand-new <strong>gravity demo</strong> at the <strong>San Diego Dark Sky Festival</strong>, to a stargazing party where we caught the <strong>Ring Nebula</strong>, distant galaxies, and globular clusters (the second image shows <strong>M10</strong>, a globular cluster ~16,000 light-years away, in a 48-second eVscope exposure), to <strong>28+ combined miles</strong> running through Cuyamaca State Park, Julian, and Anza-Borrego. Still dreaming ✨ <a href="https://www.instagram.com/p/DcJ1NsCEqKB/?img_index=1" target="_blank">[photos on Instagram]</a></div>
 </div>
