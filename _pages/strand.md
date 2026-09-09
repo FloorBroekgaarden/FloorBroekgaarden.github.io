@@ -14,6 +14,8 @@ author_profile: true
 .strand-table td { padding: 0.4em 0.8em; border-bottom: 1px solid #eee; }
 .strand-table tr:hover td { background: #fafafa; }
 .strand-upcoming td { font-weight: 500; }
+.strand-section ul { margin-top: 0.4em; margin-bottom: 0.8em; }
+.strand-section li { margin-bottom: 0.3em; }
 </style>
 
 <div class="strand-section">
@@ -21,17 +23,110 @@ author_profile: true
 
 <p>STRAND — <em>Simulations, TheoRy AND more</em> — is a weekly seminar series at the UC San Diego Department of Astronomy &amp; Astrophysics. Despite its name, STRAND covers a diverse range of topics — from supernovae, stellar evolution, and white dwarfs to gravitational-wave science, theory and simulations, cosmology, and small-scale structure. Many talks lean toward high-energy astrophysics, but we warmly welcome speakers from across all areas of astrophysics.</p>
 
-<p>Talks are typically given by early-career researchers such as PhD students and postdocs on the job market. The format is flexible: either a single 20–25 minute talk with extended questions and discussion (before, during, or after — depending on what the speaker prefers), or two 25-minute talks each with 5 minutes of Q&amp;A. Meetings are hybrid: in person in <strong>SERF 383</strong> and via Zoom.</p>
+<p>STRAND is intended particularly as a venue for early-career scientists — PhD students, postdocs, and researchers on the job market — while faculty and other members of the department are also very welcome to speak. Meetings are hybrid: in person in <strong>SERF 383</strong> and via Zoom.</p>
 
-<p><strong>Organizers:</strong> Floor Broekgaarden, Kyle Kremer, Ethan Nadler, and Melanie Santiago</p>
+<p><strong>Organizers:</strong> Floor Broekgaarden (<a href="mailto:fbroekgaarden@ucsd.edu">fbroekgaarden@ucsd.edu</a>) and Melanie Santiago (<a href="mailto:m6santiago@ucsd.edu">m6santiago@ucsd.edu</a>)</p>
 
-<p><strong>Organizers 2024–2025:</strong> Floor Broekgaarden, Kyle Kremer, Ethan Nadler, and Thomas Wong</p>
+<p><strong>Past organizers:</strong> Kyle Kremer, Ethan Nadler (2024–2026); Thomas Wong (2024–2025)</p>
 
-<p><strong>When:</strong> Thursdays, 11:00am PT (time may vary — see schedule below)</p>
+<p><strong>When:</strong> Thursdays, 3:00pm PT, starting in the 2026–27 academic year (before that, STRAND met at 11:00am — times may vary, see schedule below)</p>
 
 <p><strong>Where:</strong> SERF 383 &amp; <a href="https://ucsd.zoom.us/j/92125727620?pwd=iJVU7c6t1xHAGZRafhD6q6OBSd8yg6.1">Zoom</a></p>
 
-<p>Astronomers are warmly encouraged to reach out to any of the organizers to schedule a talk. We also welcome requests to be added to the mailing list or to receive the Zoom link.</p>
+<p><strong>Recordings:</strong> <a href="https://www.youtube.com/playlist?list=PLbmzl_narxz24mm5JYegpMNZVPHAoVmFp" target="_blank">STRAND YouTube playlist</a></p>
+
+<p>Astronomers are warmly encouraged to reach out to either organizer to schedule a talk. We also welcome requests to be added to the mailing list or to receive the Zoom link.</p>
+</div>
+
+<div class="strand-section">
+<h2>Format</h2>
+
+<p>A standard STRAND meeting consists of:</p>
+
+<ul>
+  <li>5–10 minutes of announcements;</li>
+  <li>Talk 1: ~20 minutes + ~5 minutes Q&amp;A;</li>
+  <li>Talk 2: ~20 minutes + ~5 minutes Q&amp;A.</li>
+</ul>
+
+<p>Only in exceptional cases may a speaker be invited to give a full-length seminar using both talk slots — please check with the organizers before setting this up.</p>
+
+<p>We encourage local faculty, postdocs, and PhD students who regularly attend to contribute roughly one talk every six months.</p>
+
+<h3>What can a local STRAND talk be?</h3>
+
+<p>Local STRAND talks are deliberately flexible. They do not need to be polished research seminars or presentations of a completed project. We especially encourage creative, informal, or pedagogical contributions, for example:</p>
+
+<ul>
+  <li><strong>Research talk</strong> — a new result, ongoing project, or work in progress.</li>
+  <li><strong>Practice talk</strong> — a conference presentation, invited talk, job talk, etc.</li>
+  <li><strong>Code or tool demo</strong> — introduce a useful code, visualization, workflow, dataset, software package, or computational tool.</li>
+  <li><strong>LLM / AI demo</strong> — show an interesting use, experiment, workflow, success, or failure involving LLMs or other AI tools.</li>
+  <li><strong>Blackboard talk or derivation</strong> — derive a useful equation, explain an approximation, or build intuition for a physical result.</li>
+  <li><strong>Classic-paper talk</strong> — revisit an important, beautiful, strange, or historically influential paper in your field.</li>
+  <li><strong>“One interesting plot” talk</strong> — use a plot, result, puzzle, or unexpected observation as the starting point for a discussion.</li>
+  <li><strong>Tutorial / how-to</strong> — teach the audience a technique, method, or piece of domain knowledge that others would find useful.</li>
+</ul>
+
+<p>The goal is to make STRAND a place where we share ideas, methods, intuition, and interesting science, rather than requiring every contribution to look like a conventional seminar.</p>
+</div>
+
+<div class="strand-section">
+<h2>Speaker &amp; Host Information</h2>
+
+<p>Full details are in the <a href="https://docs.google.com/document/d/1uMOfytKcFwXS8E5V29WFPh24wzx_FBFoSOJYacrABCU/edit?usp=sharing" target="_blank">STRAND speaker &amp; host expectations document</a>, summarized below.</p>
+
+<h3>External speakers</h3>
+
+<p>External visitors are welcome and can be signed up by their UCSD host by emailing the organizers. External speakers are expected to give either a standard 20-minute talk + 5 minutes of Q&amp;A, or one of the alternative talk formats listed above (still 20 + 5 minutes).</p>
+
+<p>STRAND does not currently have travel funding available for speakers. If an external speaker does not have funding to visit UCSD in person, we are very happy to host their talk remotely.</p>
+
+<h3>Hybrid talks</h3>
+
+<p>All STRAND meetings have a Zoom option. Speakers should arrive or connect with enough time before the seminar to check:</p>
+
+<ul>
+  <li>slides and screen sharing;</li>
+  <li>Zoom connection and audio;</li>
+  <li>microphone and room audio;</li>
+  <li>the Meeting Owl or other hybrid-room setup.</li>
+</ul>
+
+<h3>Recording and YouTube</h3>
+
+<p>By default, STRAND talks are recorded and posted on the <a href="https://www.youtube.com/playlist?list=PLbmzl_narxz24mm5JYegpMNZVPHAoVmFp" target="_blank">STRAND YouTube playlist</a>. This makes the talks useful beyond the room and gives speakers additional visibility. If you would prefer not to have your talk recorded or posted publicly, please let the organizers know before your talk.</p>
+
+<h3>Responsibilities of the UCSD host</h3>
+
+<p>If you sign up an external visitor, you are their STRAND host, and are responsible for helping organize the visit and making sure the seminar runs smoothly.</p>
+
+<p><strong>Before the visit:</strong></p>
+
+<ul>
+  <li>communicate with the speaker ahead of their visit;</li>
+  <li>arrange a visitor desk / workspace if needed (see the UCSD A&amp;A website);</li>
+  <li>organize a visitor schedule and meetings when appropriate;</li>
+  <li>help advertise the STRAND seminar;</li>
+  <li>make sure the speaker knows the seminar time, location, and format;</li>
+  <li>make sure the organizers have the speaker's talk title, abstract, and email at least one week before the talk.</li>
+</ul>
+
+<p><strong>During the visit:</strong></p>
+
+<ul>
+  <li>arrive early enough to help with the hybrid setup;</li>
+  <li>make sure the speaker is connected to the correct Zoom room;</li>
+  <li>check screen sharing and presentation mode;</li>
+  <li>set up and use the Meeting Owl / room microphone correctly;</li>
+  <li>introduce the speaker and help moderate questions.</li>
+</ul>
+
+<p>For a fully remote speaker, the host should similarly make sure the speaker receives the Zoom information and that their audio, video, and screen sharing are working before the seminar begins.</p>
+
+<h3>Signing up</h3>
+
+<p>To sign up yourself or an external visitor for a talk, email Floor Broekgaarden (<a href="mailto:fbroekgaarden@ucsd.edu">fbroekgaarden@ucsd.edu</a>) and/or Melanie Santiago (<a href="mailto:m6santiago@ucsd.edu">m6santiago@ucsd.edu</a>). When signing up an external speaker, please include yourself as the host. See the <a href="https://docs.google.com/document/d/1uMOfytKcFwXS8E5V29WFPh24wzx_FBFoSOJYacrABCU/edit?usp=sharing" target="_blank">speaker &amp; host expectations document</a> for more information.</p>
 </div>
 
 <div class="strand-section">
