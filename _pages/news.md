@@ -23,6 +23,24 @@ author_profile: true
 </div>
 
 <div class="news-item">
+  <div class="news-date">Oct 2, 2026</div>
+  <div class="news-text">🌟 <strong>New paper alert!</strong> 🌟 Our <a href="https://ui.adsabs.harvard.edu/abs/2026arXiv261000528V/abstract" target="_blank"><em>"Best practices in software citation"</em></a> paper just landed on the arXiv (<a href="https://arxiv.org/abs/2610.00528" target="_blank">arXiv:2610.00528</a>)! Led by <strong>Phil Van-Lane</strong>, who brought together a large collaboration — including organizing a <strong>NASA-funded workshop on software citation</strong> in April 2026 — this paper is the outcome of that workshop. Inconsistent software citation undermines both reproducibility and proper credit for the people who build research software. The paper examines four interconnected themes: (I) the cultural barriers to consistent citation practice; (II) the need for clearer community norms and conventions; (III) gaps in existing technical infrastructure and workflows; and (IV) the emerging challenges posed by AI-assisted research. It proposes targeted recommendations and advice for researchers, software developers, and the wider astronomy community on how to cite and support software, and highlights journal editors and publishers as the single highest-leverage point for accelerating this change.<br><br>
+  With Phil R. Van-Lane, <strong>Floor S. Broekgaarden</strong>, Daniel S. Katz, Bhavesh Patel, Pengyin Shan, Jonathan Starr, Samantha Teplitzky, Peter K. G. Williams, Alice Allen, <strong>Lucas M. de Sá</strong>, Andrew Fullard, Sandra Gesing, Tom Wagg, and Andrea Zonca 🎉 Also check out our companion <a href="https://arxiv.org/abs/2609.28622" target="_blank">practical primer on software citation</a>!</div>
+</div>
+
+<div class="news-item">
+  <div class="news-date">Sep 30, 2026</div>
+  <div class="news-text">📄🎉 <strong>Sasha Levina</strong>'s paper has been officially published (ApJ)! <a href="https://doi.org/10.3847/1538-4357/ae9c2f" target="_blank"><em>"From Cosmological Simulations to Binary Black Hole Mergers: The Impact of Using Analytical Star Formation History Models on Gravitational-wave Source Populations"</em></a> <a href="/publications/#levina2026sfh">[read more]</a></div>
+</div>
+
+<div class="news-item">
+  <div class="news-date">Sep 25, 2026</div>
+  <div class="news-text">🌟 <strong>New paper alert!</strong> 🌟 Software underlies virtually all modern research, yet citation practices for software remain inconsistent and often inadequate. Our short primer, <a href="https://arxiv.org/abs/2609.28622" target="_blank"><em>"A Practical Primer on Software Citation in Research"</em></a>, offers guidance for (early-career) researchers on how to properly cite the software you use in your research, and how to make your own software easy for others to cite (with astro examples) ✨<br><br>
+  Our goal is to lower the barrier to good software citation practice and to support a research culture in which software receives the scholarly credit it deserves! Thanks to <strong>NASA</strong> HPOSS and TWSC support for making this work possible!<br><br>
+  With Phil Van-Lane, <strong>Sasha Levina</strong>, Ahmed Bello, Sandra Gesing, Daniel S. Katz, Bhavesh Patel, Pengyin Shan, Samantha Teplitzky, Simon Thill, Peter K. G. Williams, and Andrea Zonca 🎉 <a href="/publications/#broekgaarden2026software">[read more]</a></div>
+</div>
+
+<div class="news-item">
   <div class="news-date">Aug 25, 2026</div>
   <div class="news-text">🤓🥳 Congratulations to GW Paleontology Lab member <strong><a href="https://mristic.space/" target="_blank">Marko Ristić</a></strong> for winning a <strong>2026 GDS Outstanding Dissertation Award</strong> from the <strong>American Physical Society</strong> (APS Topical Group on Data Science)! A wonderful recognition of Marko's PhD work — so well deserved! 🎉</div>
 </div>
