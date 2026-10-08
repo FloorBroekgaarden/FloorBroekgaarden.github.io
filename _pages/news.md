@@ -13,6 +13,16 @@ author_profile: true
 </style>
 
 <div class="news-item">
+  <div class="news-date">Oct 8, 2026</div>
+  <div class="news-text"><img src="/images/news/10_08_2026/alessi12-pce%20labeled.png" class="news-img" alt="Artist impression of Alessi12-PCE by Sasha Levina: a 1.06 solar-mass white dwarf and an M4V dwarf on a 6.99-hour orbit, in front of the Alessi 12 star cluster">🎨✨ <strong>Sasha Levina</strong> made this amazing artist impression of <strong>Alessi12-PCE</strong>: a white dwarf + M dwarf binary that <strong>Steffani Grondin</strong> studies and has a <a href="https://arxiv.org/abs/2607.20611" target="_blank">new paper</a> on. Press release coming soon! Isn't this fantastic! 🤩 <a href="/publications/#grondin2026ce">[read more]</a></div>
+</div>
+
+<div class="news-item">
+  <div class="news-date">Oct 7, 2026</div>
+  <div class="news-text"><img src="/images/news/10_07_2026/32782.jpg" class="news-img" alt="Floor with Chad and Mugdha in front of the Gravitational Wave Paleontology chalkboard at UC San Diego">This Monday and Tuesday (Oct 5 and 6), <strong>Chad</strong> and <strong>Mugdha</strong> were visiting UC San Diego, where they worked with Floor and the <strong>GROWL Task Force Co-I Team</strong> (Floor Broekgaarden, Marko Ristić, Julia Haynes, Tyler Smith, Steffani Grondin, Melanie Santiago, Rhea Kumar, Sofia Alvarez Lopez, Sasha Levina, Kyle Rocha) to work out and launch the first projects with <strong><a href="https://www.rakiura.co/" target="_blank">Rakiura</a></strong>, a new platform to do research! 🚀</div>
+</div>
+
+<div class="news-item">
   <div class="news-date">Aug 25, 2026</div>
   <div class="news-text">🤓🥳 Congratulations to GW Paleontology Lab member <strong><a href="https://mristic.space/" target="_blank">Marko Ristić</a></strong> for winning a <strong>2026 GDS Outstanding Dissertation Award</strong> from the <strong>American Physical Society</strong> (APS Topical Group on Data Science)! A wonderful recognition of Marko's PhD work — so well deserved! 🎉</div>
 </div>
