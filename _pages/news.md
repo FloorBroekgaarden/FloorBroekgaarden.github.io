@@ -13,13 +13,19 @@ author_profile: true
 </style>
 
 <div class="news-item">
+  <div class="news-date">Oct 22, 2026</div>
+  <div class="news-text"><img src="/images/news/10_22_2026/AASminigrant.png" class="news-img" alt="Description of the AAS workshop Small Towns, Big Skies: Strategies for Rural Astronomy Education and Outreach, Saturday 9 January 2027, 9:30 am to 4:00 pm, Principal Investigator Steffani Grondin">🏆 Congrats to <strong>Steffani Grondin</strong> for winning an <a href="https://aas.org/posts/news/2026/10/education-committee-announces-five-winners-2027-epd-mini-grants" target="_blank"><strong>AAS EPD mini-grant</strong></a> for her upcoming AAS workshop! Only ~5 astronomers won this award to organize a special meeting at the AAS, the largest astronomy meeting in America. 🎉<br><br>
+  🌌 <strong>Heading to AAS 249?</strong> You can join her effort! <strong>Steffani Grondin</strong> and <strong>Phil Van-Lane</strong>, together with Ella Meyer and Sara Reimanis (UBC), are leading <strong><em>Small Towns, Big Skies: Strategies for Rural Astronomy Education and Outreach</em></strong>, a one-day workshop on rural astronomy outreach (Sat Jan 9, 2027, 9:30 am – 4:00 pm; $35 at the AAS). It covers low-resource events, respectful community engagement, and science communication, and is open to all experience levels. Already registered? You can still add it through the AAS registration page. Please share! Thank you Steffani and Phil for doing this important work! ✨</div>
+</div>
+
+<div class="news-item">
   <div class="news-date">Oct 8, 2026</div>
   <div class="news-text"><img src="/images/news/10_08_2026/alessi12-pce%20labeled.png" class="news-img" alt="Artist impression of Alessi12-PCE by Sasha Levina: a 1.06 solar-mass white dwarf and an M4V dwarf on a 6.99-hour orbit, in front of the Alessi 12 star cluster">🎨✨ <strong>Sasha Levina</strong> made this amazing artist impression of <strong>Alessi12-PCE</strong>: a white dwarf + M dwarf binary that <strong>Steffani Grondin</strong> studies and has a <a href="https://arxiv.org/abs/2607.20611" target="_blank">new paper</a> on. Press release coming soon! Isn't this fantastic! 🤩 <a href="/publications/#grondin2026ce">[read more]</a></div>
 </div>
 
 <div class="news-item">
   <div class="news-date">Oct 7, 2026</div>
-  <div class="news-text"><img src="/images/news/10_07_2026/32782.jpg" class="news-img" alt="Floor with Chad and Mugdha in front of the Gravitational Wave Paleontology chalkboard at UC San Diego">This Monday and Tuesday (Oct 5 and 6), <strong>Chad</strong> and <strong>Mugdha</strong> were visiting UC San Diego, where they worked with Floor and the <strong>GROWL Task Force Co-I Team</strong> (Floor Broekgaarden, Marko Ristić, Julia Haynes, Tyler Smith, Steffani Grondin, Melanie Santiago, Rhea Kumar, Sofia Alvarez Lopez, Sasha Levina, Kyle Rocha) to work out and launch the first projects with <strong><a href="https://www.rakiura.co/" target="_blank">Rakiura</a></strong>, a new platform to do research! 🚀</div>
+  <div class="news-text"><img src="/images/news/10_07_2026/32782.jpg" class="news-img" alt="Floor with Chad and Mugdha in front of the Gravitational Wave Paleontology chalkboard at UC San Diego">This Monday and Tuesday (Oct 5 and 6), <strong>Chad</strong> and <strong>Mugdha</strong> were visiting UC San Diego, where they met with Floor and the <strong>GROWL Task Force Co-I Team</strong> (Floor Broekgaarden, Marko Ristić, Julia Haynes, Tyler Smith, Steffani Grondin, Melanie Santiago, Rhea Kumar, Sofia Alvarez Lopez, Sasha Levina, Kyle Rocha)! 🚀</div>
 </div>
 
 <div class="news-item">
@@ -121,7 +127,7 @@ author_profile: true
 
 <div class="news-item">
   <div class="news-date">Jul 21, 2026</div>
-  <div class="news-text">🚀 <strong>A brand-new initiative!</strong> Our GW Paleontology lab has launched an exciting new experiment: in collaboration with <a href="https://www.rakiura.co/labs/gw-paleontology" target="_blank">Rakiura</a>, we've started the <strong>Rakiura GROWL Task Force</strong> — an open community where participants from industry and students can follow the lab, listen to podcasts, get the news, and support and contribute to real research. Everyone gives something and everyone gets something back. <a href="/support/">[learn more &amp; join]</a></div>
+  <div class="news-text">🚀 <strong>A brand-new initiative!</strong> Our GW Paleontology lab has launched an exciting new experiment: the <strong>GROWL Task Force</strong> — an open community where participants from industry and students can follow the lab, get the news, and support and contribute to real research. Everyone gives something and everyone gets something back. Interested? Reach out to Floor, e.g. through our <a href="https://forms.gle/rr2kfbJ74pczVrvn7" target="_blank">interest form</a>! <a href="/support/">[learn more]</a></div>
 </div>
 
 <div class="news-item">
