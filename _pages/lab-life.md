@@ -95,6 +95,15 @@ details[open] summary::after {
 <p class="lab-intro">A glimpse into life in the GW Paleontology Lab — group activities, photos, podcasts, videos, and more. Click any item to expand it.</p>
 
 <details>
+  <summary>Karaoke Night 🎤 <span class="item-date">Sep 2026</span></summary>
+  <div class="details-content">
+    <img src="/images/gwp-news/26_09_karaoke/karaoke-night.jpg" alt="GW Paleontology lab members on stage singing Don't Stop Believin' at a karaoke night" style="width: 100%; max-width: 600px; border-radius: 6px; margin-bottom: 1em;">
+    <p>Science is only half the fun: we also love doing social things together as a group, from dinners and hikes to (very enthusiastic) karaoke! 🎶</p>
+    <p>Here's the team taking the stage for a full-group rendition of <em>Don't Stop Believin'</em> ("Just a city boy, born and raised in south Detroit…"). We got a sweet note afterwards: <em>"Your team did a great karaoke job tonight :)"</em> 🎤✨</p>
+  </div>
+</details>
+
+<details>
   <summary>Sasha Levina — PhD Candidacy Exam <span class="item-date">May 27, 2026</span></summary>
   <div class="details-content">
     <img src="/images/gwp-news/26_05_27/sasha-candidacy-2026.gif" alt="Sasha Levina PhD candidacy exam" style="width: 100%; max-width: 600px; border-radius: 6px; margin-bottom: 1em;">

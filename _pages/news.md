@@ -47,6 +47,11 @@ author_profile: true
 </div>
 
 <div class="news-item">
+  <div class="news-date">Sep 17, 2026</div>
+  <div class="news-text"><img src="/images/news/09_17_2026/joseph_talk.jpg" class="news-img" alt="Joseph Rodriguez presenting a talk on GRB 211211A, a long gamma-ray burst with a possible kilonova, at the meeting in Ensenada"><img src="/images/news/09_17_2026/phil_talk.jpg" class="news-img" alt="Phil Van-Lane presenting a talk on why stellar ages are important at the meeting in Ensenada"><img src="/images/news/09_17_2026/kyle_talk.jpg" class="news-img" alt="Kyle Rocha presenting a talk on binary evolution at the meeting in Ensenada"><img src="/images/news/09_17_2026/steffani_talk.jpg" class="news-img" alt="Steffani Grondin presenting a talk on common envelope evolution at the Instituto de Astronomía UNAM auditorium in Ensenada">🇲🇽🎤 <strong>Joseph Rodriguez</strong>, <strong>Phil Van-Lane</strong>, <strong>Kyle Rocha</strong>, and <strong>Steffani Grondin</strong> gave talks at the <strong>EAS meeting in Ensenada</strong>, a two-day workshop bringing together astronomers from Ensenada and UC San Diego! 🌟</div>
+</div>
+
+<div class="news-item">
   <div class="news-date">Aug 25, 2026</div>
   <div class="news-text">🤓🥳 Congratulations to GW Paleontology Lab member <strong><a href="https://mristic.space/" target="_blank">Marko Ristić</a></strong> for winning a <strong>2026 GDS Outstanding Dissertation Award</strong> from the <strong>American Physical Society</strong> (APS Topical Group on Data Science)! A wonderful recognition of Marko's PhD work — so well deserved! 🎉</div>
 </div>
