@@ -13,9 +13,21 @@ author_profile: true
 </style>
 
 <div class="news-item">
+  <div class="news-date">Oct 23, 2026</div>
+  <div class="news-text"><img src="/images/news/10_23_2026/osu-colloquium-title.jpg" class="news-img" alt="Floor presenting the title slide 'Simulation Silos: An Open Problem in Gravitational Wave Paleontology' at the OSU Astronomy Colloquium"><img src="/images/news/10_23_2026/osu-watermelon-demo.jpg" class="news-img" alt="Floor and OSU undergraduate student Tris each holding a watermelon during a demo explaining stars and delay time distributions"><img src="/images/news/10_23_2026/osu-colloquium-join.jpg" class="news-img" alt="Floor in front of the 'Join our adventure!' closing slide of the UC San Diego Gravitational Wave Paleontology Lab"><img src="/images/news/10_23_2026/columbus-marathon.jpg" class="news-img" alt="Four OSU astronomers smiling with their Columbus Marathon and half-marathon medals in front of a brick house">🌰 Floor was honored to give the <strong>OSU Astronomy Colloquium</strong> at <strong>The Ohio State University</strong> on October 22, discussing our latest <strong>gravitational-wave paleontology</strong> results! 🦖 It was a full week of adventures: Floor also gave a seminar titled <em>"The Most Productive Scientist Is a Happy Scientist: Things I Wish I Knew as a PhD Student, Postdoc, and Professor"</em>, and did a fun demo with OSU undergraduate student <strong>Tris</strong>, showing how watermelons 🍉 are a great prop for explaining stars and delay time distributions.<br><br>
+  The visit was also a fantastic opportunity to run the <strong>Columbus Marathon</strong> 🏃‍♀️ (in <strong>3:25, a new PR!</strong>) together with <strong>Claire Lamann</strong> and many other fantastic OSU astronomers. It was wonderful to meet so many kind and inspiring students, postdocs, and faculty, and we can't wait to see where their research goes next! Go OSU! ❤️ We can highly recommend applying to or visiting this department.<br><br>
+  <small>Colloquium and demo photo credit: Laura Lopez</small></div>
+</div>
+
+<div class="news-item">
   <div class="news-date">Oct 22, 2026</div>
   <div class="news-text"><img src="/images/news/10_22_2026/AASminigrant.png" class="news-img" alt="Description of the AAS workshop Small Towns, Big Skies: Strategies for Rural Astronomy Education and Outreach, Saturday 9 January 2027, 9:30 am to 4:00 pm, Principal Investigator Steffani Grondin">🏆 Congrats to <strong>Steffani Grondin</strong> for winning an <a href="https://aas.org/posts/news/2026/10/education-committee-announces-five-winners-2027-epd-mini-grants" target="_blank"><strong>AAS EPD mini-grant</strong></a> for her upcoming AAS workshop! Only ~5 astronomers won this award to organize a special meeting at the AAS, the largest astronomy meeting in America. 🎉<br><br>
   🌌 <strong>Heading to AAS 249?</strong> You can join her effort! <strong>Steffani Grondin</strong> and <strong>Phil Van-Lane</strong>, together with Ella Meyer and Sara Reimanis (UBC), are leading <strong><em>Small Towns, Big Skies: Strategies for Rural Astronomy Education and Outreach</em></strong>, a one-day workshop on rural astronomy outreach (Sat Jan 9, 2027, 9:30 am – 4:00 pm; $35 at the AAS). It covers low-resource events, respectful community engagement, and science communication, and is open to all experience levels. Already registered? You can still add it through the AAS registration page. Please share! Thank you Steffani and Phil for doing this important work! ✨</div>
+</div>
+
+<div class="news-item">
+  <div class="news-date">Oct 20, 2026</div>
+  <div class="news-text"><img src="/images/news/10_20_2026/breast-cancer-awareness-5k.jpg" class="news-img" alt="A large group of UC San Diego astronomy department members, many in pink hats and shirts, on a dirt trail at sunset during the breast cancer awareness 5K">🎀 The very talented <strong>Melanie Santiago</strong> organized a <strong>Breast Cancer Awareness 5K walk/run</strong> for our department on Oct 20, and so many people joined her initiative! 💗 Thank you, Melanie, for bringing everyone together for such an important cause. 🏃‍♀️🚶</div>
 </div>
 
 <div class="news-item">

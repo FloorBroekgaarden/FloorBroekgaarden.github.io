@@ -27,6 +27,7 @@ This page collects resources I have found useful or that were shared by colleagu
   <li><a href="https://twitter.com/astrocaits/status/1483271895961190403">Summer internship list (Twitter thread)</a></li>
   <li><a href="https://www.astrobetter.com/wiki/Masters+Bridge+Programs">Masters &amp; Bridge programs (AstroBetter)</a></li>
   <li><a href="https://www.nasa.gov/learning-resources/internship-programs/">NASA internships</a></li>
+  <li><a href="https://www.spacetosucceed.org/">Space to Succeed</a> — internships &amp; opportunities in astronomy and space research</li>
 </ul>
 
 <h3>PhD Programs — General</h3>
@@ -34,6 +35,7 @@ This page collects resources I have found useful or that were shared by colleagu
   <li><a href="https://github.com/gwisk/gradguide">STEM PhD guide by George Iskander</a></li>
   <li><a href="https://docs.google.com/document/d/1edbNoCX0frs4gl2jCYWNsBhVEcC049xTE-4f-bouJzw/edit">Undergrad-to-PhD guide by Eric Gagliano</a></li>
   <li><a href="https://thewocproject.org/resources">Women+ of Color Project resources</a></li>
+  <li><a href="https://www.spacetosucceed.org/">Space to Succeed</a> — resources for PhD applications in astronomy and space research</li>
   <li><a href="http://www.broekgaarden.nl/floor/wordpress/wp-content/uploads/2024/07/CaltechInfoSheet_astro_online_2020-3.pdf">PhD timeline &amp; expectations (Mia de los Reyes)</a></li>
   <li><a href="http://www.loganpearcescience.com/index.html">Logan Pearce's resource hub</a> — reference letters, fellowships, writing</li>
   <li><a href="https://docs.google.com/document/d/1mHZFVskJ8uEF5xdMnsq1LRMDaQtUVggPLWg5uUNSxD4/edit?usp=sharing">EU-focused PhD application guide</a></li>
