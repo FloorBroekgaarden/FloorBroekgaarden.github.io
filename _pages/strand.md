@@ -74,7 +74,7 @@ author_profile: true
 <div class="strand-section">
 <h2>Speaker &amp; Host Information</h2>
 
-<p>Full details are in the <a href="https://docs.google.com/document/d/1uMOfytKcFwXS8E5V29WFPh24wzx_FBFoSOJYacrABCU/edit?usp=sharing" target="_blank">STRAND speaker &amp; host expectations document</a>, summarized below.</p>
+<p>Full details are in the <a href="https://docs.google.com/document/d/1uMOfytKcFwXS8E5V29WFPh24wzx_FBFoSOJYacrABCU/edit?usp=sharing" target="_blank">STRAND speaker &amp; host expectations document</a> (UCSD Google login required), summarized below.</p>
 
 <h3>External speakers</h3>
 
