@@ -6,7 +6,21 @@ author_profile: true
 
 Interested in learning more about the lab or joining? Fill out this interest form to receive our newsletter, receive information about resources, opportunities or internships, and/or to connect with us through journal clubs or chats: [https://forms.gle/rr2kfbJ74pczVrvn7](https://forms.gle/rr2kfbJ74pczVrvn7)
 
-*Not looking to join the lab at UCSD as a student, PhD, or postdoc, but still want to follow along and support and contribute to real science? Anyone — from the curious public to industry professionals and students anywhere — is welcome to get involved through our [GROWL Task Force](/support/) initiative — just reach out to Floor, for example through the interest form above.*
+*Not looking to join the lab at UCSD as a student, PhD, or postdoc, but still want to follow along and contribute to real science? See the [GROWL Task Force](#growl-task-force) below.*
+
+---
+
+## Join the GROWL Task Force {#growl-task-force}
+
+The **GROWL Task Force** is our initiative to open up gravitational-wave research to people beyond the lab. Anyone, from the curious public to industry professionals and students anywhere, is welcome to join. As a participant you can:
+
+- **Follow the lab** and see what we're working on, week to week;
+- **Get the news**: updates, results, and behind-the-scenes stories from the group;
+- **Contribute to real science** by working alongside us on genuine research problems.
+
+You don't need to be an astrophysicist to take part, just curious. Participants from industry bring software and data-engineering expertise, students get mentorship and new career pathways, and everyone gets a firsthand look at how science is done.
+
+**How to join:** reach out to Floor, for example by filling out our [interest form](https://forms.gle/rr2kfbJ74pczVrvn7) and mentioning the GROWL Task Force. More background is on the [Support the Lab](/support/) page.
 
 ---
 
