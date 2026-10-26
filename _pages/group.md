@@ -270,15 +270,6 @@ author_profile: true
 </div>
 
 <div class="member-card">
-  <img src="/images/group/eugene-shang.jpg" alt="Eugene Shang" class="member-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
-  <div class="member-photo-placeholder" style="display:none;">No photo</div>
-  <div class="member-info">
-    <h3>Eugene Shang</h3>
-    <p class="role">2nd-year Undergraduate Student (Mathematics), UC San Diego &mdash; <a href="mailto:eshang@ucsd.edu">eshang@ucsd.edu</a></p>
-  </div>
-</div>
-
-<div class="member-card">
   <img src="/images/group/kera-yu.jpg" alt="Kera Yu" class="member-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
   <div class="member-photo-placeholder" style="display:none;">No photo</div>
   <div class="member-info">
@@ -458,6 +449,14 @@ author_profile: true
     <h3><a href="https://www.linkedin.com/in/esther-park-/" style="color:inherit;">Esther Park</a></h3>
     <p class="role">Post-baccalaureate, UC San Diego</p>
     <p>Esther worked on data science for computational astrophysics to understand how massive stars influence the evolution of the universe and their roles as progenitors of gravitational-wave sources. She practices kendo outside of research!</p>
+  </div>
+</div>
+
+<div class="member-card">
+  <div class="member-photo-placeholder">No photo</div>
+  <div class="member-info">
+    <h3>Eugene Shang</h3>
+    <p class="role">Undergraduate Student (Mathematics), UC San Diego</p>
   </div>
 </div>
 
