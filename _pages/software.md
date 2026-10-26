@@ -178,7 +178,7 @@ author_profile: true
 
 <div class="software-item">
   <h3>PhD Thesis Figures</h3>
-  <p class="software-meta">2023 · <a href="https://doi.org/10.5281/zenodo.7810953" target="_blank">10.5281/zenodo.7810953</a></p>
+  <p class="software-meta">2023 · <a href="https://zenodo.org/records/7810953" target="_blank">10.5281/zenodo.7810953</a></p>
   <p>Floor Broekgaarden</p>
 </div>
 
