@@ -33,3 +33,12 @@ It's a community where everyone gives something and everyone gets something back
 Interested in joining the GROWL Task Force or supporting the lab? Reach out to Floor, for example by filling out our interest form:
 
 > **[GW Paleontology Lab interest form →](https://forms.gle/rr2kfbJ74pczVrvn7)**
+
+## Donate to the lab
+
+You can also support the lab directly with a donation through UC San Diego:
+
+1. Go to the **[UC San Diego Giving website →](https://giveto.ucsd.edu/giving/home/)**
+2. Search for **"Broekgaarden"** or for fund number **RP343** to find our lab's gift fund.
+
+Donations are used to support the training of students and early-career astronomers in the lab. Thank you! 💫
