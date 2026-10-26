@@ -403,7 +403,7 @@ author_profile: true
 
 <div class="news-item">
   <div class="news-date">Aug 26, 2025</div>
-  <div class="news-text"><img src="https://www.broekgaarden.nl/floor/wordpress/wp-content/uploads/2025/08/Screenshot-2025-08-26-at-2.23.03%20PM-300x169.png" class="news-img" alt="">New gravitational-wave results released from LIGO, Virgo, and KAGRA (GWTC-4). I made an astrophysics-focused summary of the new catalog. <a href="https://docs.google.com/document/d/1eiVeKh0Q3A9h_569n5Thm89uYJdg7NHL9OeM5wGs4Uw/edit?usp=sharing">[summary]</a></div>
+  <div class="news-text">New gravitational-wave results released from LIGO, Virgo, and KAGRA (GWTC-4). I made an astrophysics-focused summary of the new catalog. <a href="https://docs.google.com/document/d/1eiVeKh0Q3A9h_569n5Thm89uYJdg7NHL9OeM5wGs4Uw/edit?usp=sharing">[summary]</a></div>
 </div>
 
 <div class="news-item">
@@ -428,7 +428,7 @@ author_profile: true
 
 <div class="news-item">
   <div class="news-date">Aug 5, 2025</div>
-  <div class="news-text">Multiple group members presented their research at UCSD's Summer Research Conference. <a href="https://ugresearch.ucsd.edu/_files/src/2025-SRC-Presenter-Lineup.pdf">[schedule]</a></div>
+  <div class="news-text">Multiple group members presented their research at UCSD's Summer Research Conference.</div>
 </div>
 
 <div class="news-item">
@@ -513,7 +513,7 @@ author_profile: true
 
 <div class="news-item">
   <div class="news-date">Feb 27, 2025</div>
-  <div class="news-text"><img src="https://www.broekgaarden.nl/floor/wordpress/wp-content/uploads/2025/02/Screenshot-2025-02-27-at-7.38.21%20AM.png" class="news-img" alt="">My PhD thesis was selected as one of six finalists for the 2023 GWIC-Braccini Gravitational Wave Thesis Prize. <a href="https://gwic.ligo.org/thesis-prize.html">[prize info]</a></div>
+  <div class="news-text">My PhD thesis was selected as one of six finalists for the 2023 GWIC-Braccini Gravitational Wave Thesis Prize. <a href="https://gwic.ligo.org/thesis-prize.html">[prize info]</a></div>
 </div>
 
 <div class="news-item">
@@ -623,7 +623,7 @@ author_profile: true
 
 <div class="news-item">
   <div class="news-date">Apr 24, 2023</div>
-  <div class="news-text"><img src="https://www.broekgaarden.nl/floor/wordpress/wp-content/uploads/2023/05/FufC9CWWAAEZrZa-1024x768.jpeg" class="news-img" alt="">Successfully defended my PhD dissertation! <a href="https://docs.google.com/presentation/d/1gN3p3KspTrM21PY5R9LdM5EAqzq_j6HH/edit?usp=share_link&ouid=105945932062731719388&rtpof=true&sd=true">[slides]</a></div>
+  <div class="news-text"><img src="https://www.broekgaarden.nl/floor/wordpress/wp-content/uploads/2023/05/FufC9CWWAAEZrZa-1024x768.jpeg" class="news-img" alt="">Successfully defended my PhD dissertation!</div>
 </div>
 
 <div class="news-item">
