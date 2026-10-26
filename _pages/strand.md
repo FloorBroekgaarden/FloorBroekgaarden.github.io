@@ -130,20 +130,53 @@ author_profile: true
 </div>
 
 <div class="strand-section">
-<h2>Current Talk Schedule — AY 2025–26 Spring</h2>
+<h2>Current Talk Schedule — AY 2026–27</h2>
+
+<p>Meetings are on Thursdays at 3:00pm PT unless noted otherwise. Talk titles are added as they come in.</p>
 
 <table class="strand-table">
   <tr><th>Date</th><th>Time</th><th>Speaker</th><th>Location</th></tr>
-  <tr><td>Jun 11, 2026</td><td>11:00am</td><td>Anna Wright (CCA) <a href="https://youtu.be/isDu05rGk_8" target="_blank">[recording]</a></td><td>SERF 383</td></tr>
-  <tr><td>May 8, 2026</td><td>11:00am</td><td>Pranav Nagarajan <a href="https://youtu.be/dCVtaacHxdQ" target="_blank">[recording]</a></td><td>SERF 383</td></tr>
-  <tr><td>Apr 30, 2026</td><td>11:00am</td><td>Natsuko Yamaguchi</td><td>SERF 383</td></tr>
-  <tr><td>Apr 16, 2026</td><td>11:00am</td><td>Daichi Tsuna</td><td>SERF 383</td></tr>
-  <tr><td>Apr 9, 2026</td><td>1:00pm</td><td>Pratik Gandhi (Yale; virtual)</td><td>SERF 383</td></tr>
+  <tr><td>Oct 29, 2026</td><td>3:00pm</td><td>Sibasish Laha (CRESST/UMBC/NASA-GSFC) — <em>Exoplanet detection using AI-ML</em></td><td>SERF 383</td></tr>
+  <tr><td>Oct 29, 2026</td><td>3:00pm</td><td>Julia Haynes</td><td>SERF 383</td></tr>
+  <tr><td>Nov 5, 2026</td><td>3:00pm</td><td>Ruichong Hu (UNLV; in person)</td><td>SERF 383</td></tr>
+  <tr><td>Nov 5, 2026</td><td>3:00pm</td><td>Milan Pesta (OSU)</td><td>SERF 383</td></tr>
+  <tr><td>Nov 12, 2026</td><td>3:00pm</td><td>Elias Oakes (UConn; virtual)</td><td>SERF 383</td></tr>
+  <tr><td>Nov 12, 2026</td><td>3:00pm</td><td>Brett Gladman</td><td>SERF 383</td></tr>
+  <tr><td>Nov 19, 2026</td><td>3:00pm</td><td>Alexandra Guerrero (UChicago; in person)</td><td>SERF 383</td></tr>
+  <tr><td>Tue, Nov 24, 2026</td><td>3:00pm</td><td>Tara Dacunha (Stanford; in person)</td><td>SERF 383</td></tr>
+  <tr><td>Tue, Nov 24, 2026</td><td>3:00pm</td><td>Megan McDuffie (Stony Brook)</td><td>SERF 383</td></tr>
+  <tr><td>Nov 26, 2026</td><td>—</td><td><em>No meeting (Thanksgiving) — meeting on Tuesday Nov 24 instead</em></td><td>—</td></tr>
+  <tr><td>Dec 3, 2026</td><td>3:00pm</td><td>Ania Liu (Perimeter; virtual)</td><td>SERF 383</td></tr>
+  <tr><td>Dec 3, 2026</td><td>3:00pm</td><td>Melanie Santiago (UCSD) — recent results</td><td>SERF 383</td></tr>
+  <tr><td>Dec 10, 2026</td><td>3:00pm</td><td>Arpit Arora (UW)</td><td>SERF 383</td></tr>
+  <tr><td>Dec 10, 2026</td><td>3:00pm</td><td>Pradyumna Sadhu (UCR)</td><td>SERF 383</td></tr>
+  <tr><td>Dec 17, 2026</td><td>3:00pm</td><td>Leo Tsukada (UNLV)</td><td>SERF 383</td></tr>
+  <tr><td>Jan 7, 2027</td><td>3:00pm</td><td>Benjamin Rackham (MIT) — full-length talk</td><td>SERF 383</td></tr>
+  <tr><td>Jan 14, 2027</td><td>—</td><td><em>No meeting (AAS)</em></td><td>—</td></tr>
+  <tr><td>Jan 21, 2027</td><td>3:00pm</td><td>Akhil Nair (Clemson) — <em>Mass transfer binaries / IMBH / SMBH</em></td><td>SERF 383</td></tr>
+  <tr><td>Feb 25, 2027</td><td>3:00pm</td><td>Claire Lamann</td><td>SERF 383</td></tr>
+  <tr><td>Apr 8, 2027</td><td>3:00pm</td><td>Dang Pham (CU Boulder) — <em>White dwarf kicks / white dwarf pollution</em></td><td>SERF 383</td></tr>
 </table>
 </div>
 
 <div class="strand-section">
 <h2>Past Talks</h2>
+
+<h3>AY 2026–27 — Fall 2026</h3>
+<table class="strand-table">
+  <tr><th>Date</th><th>Time</th><th>Speaker</th><th>Location</th></tr>
+  <tr><td>Oct 22, 2026</td><td>3:00pm</td><td>Jonathan Tan (in person)</td><td>SERF 383</td></tr>
+  <tr><td>Oct 22, 2026</td><td>3:00pm</td><td>Shasha Arani (UCSD)</td><td>SERF 383</td></tr>
+  <tr><td>Mon, Oct 12, 2026</td><td>3:00pm</td><td>Sanika Khadkikar (Penn State; in person)</td><td>SERF 383</td></tr>
+  <tr><td>Mon, Oct 12, 2026</td><td>3:00pm</td><td>Phil Van-Lane (UCSD) — <em>Software Citation: How to cite software or make your software citeable</em></td><td>SERF 383</td></tr>
+  <tr><td>Oct 8, 2026</td><td>3:00pm</td><td>Stephanie O'Neil (UPenn)</td><td>SERF 383</td></tr>
+  <tr><td>Oct 8, 2026</td><td>3:00pm</td><td>Floor Broekgaarden — <em>Summary and open discussion on recent AI policies from arXiv / AAS, and a note from the 80 Years of Monte Carlo conference</em></td><td>SERF 383</td></tr>
+  <tr><td>Mon, Sep 28, 2026</td><td>3:00pm</td><td>Claire Williams (UCLA; in person)</td><td>SERF 383</td></tr>
+  <tr><td>Mon, Sep 28, 2026</td><td>3:00pm</td><td>Sandip Roy (UCSD) — pedagogical talk</td><td>SERF 383</td></tr>
+  <tr><td>Sep 17, 2026</td><td>3:00pm</td><td>Mia de los Reyes (Amherst)</td><td>SERF 383</td></tr>
+  <tr><td>Fri, Aug 28, 2026</td><td>11:00am</td><td>Calvin Osinga (UMD) — <em>Hierarchies Turn a Corner: Defining Halos Using Dynamics</em></td><td>SERF 383</td></tr>
+  <tr><td>Fri, Aug 28, 2026</td><td>11:00am</td><td>Maude Gull (Carnegie Observatories/Caltech) — <em>Metal-poor Massive Stars, Binaries and Binary Products In the Local Group</em></td><td>SERF 383</td></tr>
+</table>
 
 <h3>AY 2025–26 — Summer 2026</h3>
 <table class="strand-table">
@@ -153,6 +186,16 @@ author_profile: true
   <tr><td>Jul 24, 2026</td><td>11:00am</td><td>Rachel Nazareth (Caltech) — <em>Spectroscopic Validation of GEMS Candidates</em></td><td>SERF 383</td></tr>
   <tr><td>Jul 24, 2026</td><td>11:00am</td><td>Valentina Bonilla Villalobos (Caltech) — <em>Identifying signatures of stellar youth in APOGEE spectra</em></td><td>SERF 383</td></tr>
   <tr><td>Jul 24, 2026</td><td>11:00am</td><td>Maya Nunez (Caltech) — <em>Searching for recent X-ray transients in Swift/XRT data</em></td><td>SERF 383</td></tr>
+</table>
+
+<h3>AY 2025–26 — Spring 2026</h3>
+<table class="strand-table">
+  <tr><th>Date</th><th>Time</th><th>Speaker</th><th>Location</th></tr>
+  <tr><td>Jun 11, 2026</td><td>11:00am</td><td>Anna Wright (CCA) <a href="https://youtu.be/isDu05rGk_8" target="_blank">[recording]</a></td><td>SERF 383</td></tr>
+  <tr><td>May 8, 2026</td><td>11:00am</td><td>Pranav Nagarajan <a href="https://youtu.be/dCVtaacHxdQ" target="_blank">[recording]</a></td><td>SERF 383</td></tr>
+  <tr><td>Apr 30, 2026</td><td>11:00am</td><td>Natsuko Yamaguchi</td><td>SERF 383</td></tr>
+  <tr><td>Apr 16, 2026</td><td>11:00am</td><td>Daichi Tsuna</td><td>SERF 383</td></tr>
+  <tr><td>Apr 9, 2026</td><td>1:00pm</td><td>Pratik Gandhi (Yale; virtual)</td><td>SERF 383</td></tr>
 </table>
 
 <h3>AY 2025–26 — Winter 2026</h3>

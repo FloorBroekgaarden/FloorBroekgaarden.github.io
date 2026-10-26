@@ -1,0 +1,111 @@
+/* ==========================================================================
+   Dark-mode overrides for page-level styles
+
+   Several pages (news, research, group, lab-life, publications, ...) define
+   their own <style> blocks and inline styles with hardcoded light colours.
+   These rules re-colour them when the dark theme is active.
+   ========================================================================== */
+
+$dk-card   : #525252;  // card / panel background (a bit lighter than the page)
+$dk-fill   : #3c3c3c;  // subtle filled areas (callouts, table headers, placeholders)
+$dk-border : #666;     // light grey borders → mid grey
+$dk-muted  : #cfcfcf;  // secondary text (#444–#aaa in light mode)
+$dk-text   : #fff;     // headings that were #222/#333
+
+html[data-theme="dark"] {
+
+  /* ---- cards & expandable items (lab-life, publications, research-blog,
+          interactive-figures, research tiles) ---- */
+  details,
+  details.anim-item,
+  .research-tile,
+  .figure-item,
+  .event-card {
+    background: $dk-card;
+    border-color: $dk-border;
+  }
+  details[open],
+  details.anim-item[open] { border-color: #888; }
+
+  /* ---- subtle filled areas ---- */
+  .highlight-box,
+  .question-box,
+  .research-tile-placeholder,
+  .member-photo,
+  .member-photo-placeholder,
+  .strand-table th,
+  .strand-table tr:hover td {
+    background: $dk-fill;
+  }
+  .highlight-box { border-left-color: #7fa8e8; }
+
+  /* ---- headings / strong text ---- */
+  .research-tile-body h3,
+  .event-card .event-name {
+    color: $dk-text;
+  }
+
+  /* ---- secondary text ---- */
+  .news-date,
+  .media-date,
+  .photo-caption,
+  .software-meta,
+  .course-meta,
+  .item-date,
+  .res-section h3,
+  .strand-section h3,
+  .member-info .role,
+  .member-photo-placeholder,
+  .research-tile-placeholder,
+  .research-tile-body p,
+  .fig-caption,
+  .details-content figcaption,
+  .question-box .q-label,
+  .caveat,
+  .figure-item p,
+  .figure-item .figure-meta,
+  .anim-content p,
+  .anim-content .figure-meta,
+  summary::after,
+  details.anim-item summary::after {
+    color: $dk-muted;
+  }
+
+  /* ---- light borders & dividers ---- */
+  .news-item,
+  .media-list li,
+  .talk-list li,
+  .software-item,
+  .strand-table th,
+  .strand-table td,
+  .details-content,
+  .anim-content,
+  .details-content h2,
+  .gwtc-body h2,
+  .caveat,
+  .fig-block img,
+  .media-section h2,
+  .res-section h2,
+  .smash-intro h2,
+  .talk-section h2,
+  .teaching-section h2,
+  .strand-section h2,
+  .group-section h2 {
+    border-color: $dk-border;
+  }
+
+  /* ---- inline styles written directly in the pages ---- */
+  [style*="color: #555"], [style*="color:#555"],
+  [style*="color: #666"], [style*="color:#666"],
+  [style*="color: #888"], [style*="color:#888"] {
+    color: $dk-muted !important;
+  }
+  [style*="background: #f7f7f7"], [style*="background:#f7f7f7"],
+  [style*="background: #f0f0f0"], [style*="background:#f0f0f0"] {
+    background: $dk-fill !important;
+  }
+  [style*="solid #ddd"], [style*="solid #e0e0e0"] {
+    border-color: $dk-border !important;
+  }
+  [style*="solid #555"] { border-left-color: #aaa !important; }
+}
