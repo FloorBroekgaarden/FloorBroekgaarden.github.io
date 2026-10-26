@@ -24,7 +24,6 @@ This page collects resources I have found useful or that were shared by colleagu
 <ul>
   <li><a href="https://www.astrobetter.com/wiki/Summer+Internships">AstroBetter — Summer internships wiki</a></li>
   <li><a href="https://docs.google.com/document/d/1yQFGidu6PL_Oif5jYfK4p1Xx7jXq96QYSccjdI8zGV8/edit?usp=sharing">Post-BSc research opportunities guide</a></li>
-  <li><a href="https://twitter.com/astrocaits/status/1483271895961190403">Summer internship list (Twitter thread)</a></li>
   <li><a href="https://www.astrobetter.com/wiki/Masters+Bridge+Programs">Masters &amp; Bridge programs (AstroBetter)</a></li>
   <li><a href="https://www.nasa.gov/learning-resources/internship-programs/">NASA internships</a></li>
   <li><a href="https://www.spacetosucceed.org/">Space to Succeed</a> — internships &amp; opportunities in astronomy and space research</li>
@@ -34,7 +33,7 @@ This page collects resources I have found useful or that were shared by colleagu
 <ul>
   <li><a href="https://github.com/gwisk/gradguide">STEM PhD guide by George Iskander</a></li>
   <li><a href="https://docs.google.com/document/d/1edbNoCX0frs4gl2jCYWNsBhVEcC049xTE-4f-bouJzw/edit">Undergrad-to-PhD guide by Eric Gagliano</a></li>
-  <li><a href="https://thewocproject.org/resources">Women+ of Color Project resources</a></li>
+  <li>Women+ of Color Project resources</li>
   <li><a href="https://www.spacetosucceed.org/">Space to Succeed</a> — resources for PhD applications in astronomy and space research</li>
   <li><a href="http://www.broekgaarden.nl/floor/wordpress/wp-content/uploads/2024/07/CaltechInfoSheet_astro_online_2020-3.pdf">PhD timeline &amp; expectations (Mia de los Reyes)</a></li>
   <li><a href="http://www.loganpearcescience.com/index.html">Logan Pearce's resource hub</a> — reference letters, fellowships, writing</li>
@@ -45,7 +44,7 @@ This page collects resources I have found useful or that were shared by colleagu
 <h3>PhD Programs — Fellowships &amp; Funding</h3>
 <ul>
   <li><a href="https://www.alexhunterlang.com/nsf-fellowship">NSF GRFP examples (Alex Lang)</a></li>
-  <li><a href="https://www.loganpearcescience.com/resources/GRFP_common_feedback.pdf">NSF GRFP common feedback (Logan Pearce)</a></li>
+  <li><a href="http://www.loganpearcescience.com/resources/GRFP_common_feedback.pdf">NSF GRFP common feedback (Logan Pearce)</a></li>
   <li><a href="https://djstrouse.com/guide-to-applying-to-us-science-phd-programs-and-fellowships">US fellowships guide — Ford, NSF, NDSEG, DOE CSGF, Hertz (DJ Strouse)</a></li>
   <li><a href="https://astrobites.org/2018/04/27/list-of-major-us-fellowships-for-astronomy-students/">Major US fellowships list (Astrobites)</a></li>
   <li><a href="https://docs.google.com/spreadsheets/d/1V_pvhqWliwqLhAVcXikxAEuJPD4mwwgl9LEgOnzN-zM/edit?gid=1417047090">STEAM funding spreadsheet</a></li>
@@ -66,7 +65,6 @@ This page collects resources I have found useful or that were shared by colleagu
   <li><a href="https://jobregister.aas.org/">AAS Job Register</a></li>
   <li><a href="https://twitter.com/MiaDoesAstro/status/1482947935562350599">Grad program interview tips (Mia de los Reyes)</a></li>
   <li><a href="https://www.reddit.com/r/gradadmissions/comments/a4vpc4/master_list_of_interview_questions/">Master list of interview questions</a></li>
-  <li><a href="https://twitter.com/astroarianna/status/1582039372282486786">Reference letters advice (Arianna Long)</a></li>
 </ul>
 
 <h3>Postdoc Positions — Overviews &amp; Guides</h3>
@@ -84,7 +82,7 @@ This page collects resources I have found useful or that were shared by colleagu
 
 <h3>Postdoc Positions — Application Materials</h3>
 <ul>
-  <li><a href="https://cdn-careerservices.fas.harvard.edu/wp-content/uploads/sites/161/2022/04/undergrad_resumes_and_cover_letters-1.pdf">Resume &amp; cover letter guide (Harvard OCS)</a></li>
+  <li><a href="https://careerservices.fas.harvard.edu/resources/">Resume &amp; cover letter guides (Harvard Mignone Center)</a></li>
   <li><a href="https://career.ucsf.edu/phds/academic-careers/academic-samples">CV &amp; cover letter samples by institution type (UCSF)</a></li>
   <li><a href="https://academicpositions.com/career-advice/how-to-write-an-outstanding-postdoc-cover-letter">How to write a postdoc cover letter</a></li>
   <li><a href="http://www.loganpearcescience.com/resources/common-feedback-workshop.pdf">Common feedback on research statements (Logan Pearce)</a></li>
@@ -95,9 +93,9 @@ This page collects resources I have found useful or that were shared by colleagu
 <h3>Postdoc Positions — Country-Specific Fellowships</h3>
 <ul>
   <li><strong>USA:</strong> <a href="https://www.stsci.edu/stsci-research/fellowships/nasa-hubble-fellowship-program/announcement-of-opportunity/advice-for-applicants">NASA Hubble Fellowship advice for applicants (STScI)</a> · <a href="https://amp-up.space/mentorship.html#resources">AMP-UP mentorship resources</a> · <a href="https://www.astrobetter.com/blog/2019/10/09/honing-your-hubble-fellowship-application-repost/">Honing your Hubble Fellowship application (AstroBetter)</a> · <a href="https://carnegiescience.edu/news/crafting-competitive-postdoctoral-application-insider-tips-epl-experts">Carnegie Science tips</a></li>
-  <li><strong>Canada:</strong> <a href="https://banting.fellowships-bourses.gc.ca/en/home-accueil.html">Banting Fellowships</a> · <a href="https://www.cita.utoronto.ca/opportunities/national-fellows-programs/">CITA National Fellowships</a></li>
+  <li><strong>Canada:</strong> <a href="https://banting.fellowships-bourses.gc.ca/en/home-accueil.html">Banting Fellowships</a> · <a href="https://www.cita.utoronto.ca/national-fellow-hosts/">CITA National Fellowships</a></li>
   <li><strong>Netherlands:</strong> <a href="https://ec.europa.eu/research/mariecurieactions/">Marie Skłodowska-Curie Actions</a> · NWO Veni &amp; Vidi fellowships</li>
-  <li><strong>Spain:</strong> Juan de la Cierva-Formación · Juan de la Cierva-Incorporación · <a href="https://agaur.gencat.cat/es/Beatriu-de-Pinos/">Beatriu de Pinós (Catalunya)</a></li>
+  <li><strong>Spain:</strong> Juan de la Cierva-Formación · Juan de la Cierva-Incorporación · <a href="https://agaur.gencat.cat/en/beques-i-ajuts/convocatories-per-temes/Beatriu-de-Pinos/">Beatriu de Pinós (Catalunya)</a></li>
   <li><strong>GW-specific:</strong> <a href="https://docs.google.com/spreadsheets/d/1Vs11SgEQUr2Yr2gAtTjBgc1EDJgbGMBbodo5wJAhI0w/edit">GW fellowships &amp; grants spreadsheet</a></li>
   <li><a href="https://aas.org/jobregister/postdoc-application-guidelines">AAS postdoc application guidelines</a></li>
 </ul>
@@ -117,11 +115,10 @@ This page collects resources I have found useful or that were shared by colleagu
 
 <h3>Faculty Positions — DEI Statements</h3>
 <ul>
-  <li><a href="https://epl.carnegiescience.edu/diversity-statements-academic-job-applications">DEI statement resources with examples (Carnegie Observatories)</a></li>
+  <li><a href="https://carnegiescience.edu/diversity-statements-academic-job-applications">DEI statement resources with examples (Carnegie Observatories)</a></li>
   <li><a href="http://www.broekgaarden.nl/floor/wordpress/wp-content/uploads/2024/07/Diversity-Statement-Slides-2-1.pdf">DEI statement workshop slides</a></li>
   <li><a href="http://www.broekgaarden.nl/floor/wordpress/wp-content/uploads/2024/07/Diversity-Statement-Resource-List-1.pdf">DEI statement resource list</a></li>
   <li><a href="https://ofew.berkeley.edu/guidelines-applicants-writing-statements">DEI statement guidelines (UC Berkeley)</a></li>
-  <li><a href="https://physicalsciences.ucsd.edu/_files/examples-submitted-diversity-statements.pdf">DEI statement examples (UC San Diego)</a></li>
 </ul>
 
 <h3>Simons Society of Fellows</h3>
@@ -138,10 +135,7 @@ This page collects resources I have found useful or that were shared by colleagu
   <li><a href="https://owl.purdue.edu/owl/purdue_owl.html">Purdue Online Writing Lab (OWL)</a></li>
   <li><a href="https://writingcenter.unc.edu/tips-and-tools/">UNC Writing Center tips &amp; tools</a></li>
   <li><a href="https://www.coursera.org/learn/sciwrite">Free Coursera scientific writing course</a></li>
-  <li><a href="https://www.fabriziogilardi.org/resources/papers/good-abstracts.pdf">Template for paper abstracts</a></li>
-  <li><a href="https://www.springer.com/cda/content/document/cda_downloaddocument/Free+Download+-+Useful+Phrases.pdf?SGWID=0-0-45-1543172-p177775190">Useful academic phrases (Springer)</a></li>
   <li><a href="https://twitter.com/FloorAstro/status/1371531751508619264">Finding and reading arXiv papers (my Twitter thread)</a></li>
-  <li><a href="https://twitter.com/vicgrinberg/status/1378277567602495491">Writing abstracts (Victoria Grinberg)</a></li>
 </ul>
 </div>
 
@@ -198,7 +192,7 @@ This page collects resources I have found useful or that were shared by colleagu
 <ul>
   <li><a href="https://supernovafoundation.org/">Supernova Foundation (SN Network)</a></li>
   <li><a href="https://www.lumamentoring.com/">LUMA — mentoring for Black, Indigenous, and Latinx women</a></li>
-  <li><a href="https://thewocproject.org/">Women+ of Color Project</a></li>
+  <li>Women+ of Color Project</li>
   <li><a href="https://gwecs.org/">Gravitational Waves Early Career Scientists (GWECS)</a></li>
   <li><a href="http://www.astronomyallies.com/Astronomy_Allies/Welcome.html">Astronomy Allies</a></li>
 </ul>
@@ -207,9 +201,9 @@ This page collects resources I have found useful or that were shared by colleagu
 <ul>
   <li><a href="https://aas.org/comms/cswa/resources/mentoring">CSWA mentoring resources (AAS)</a></li>
   <li><a href="https://www.nap.edu/resource/25568/interactive/">National resource on effective mentoring in STEMM (NAP)</a></li>
-  <li><a href="https://www.brown.edu/sheridan/teaching-learning-resources/mentoring-resources/effective-mentoring-practices">Effective mentoring practices (Brown University)</a></li>
+  <li><a href="https://sheridan.brown.edu/resources/inclusive-anti-racist-teaching/inclusive-teaching/inclusive-mentoring">Inclusive mentoring resources (Brown University)</a></li>
   <li><a href="https://www.astrobetter.com/wiki/Mentoring+in+Astronomy+and+Geophysics">Mentoring in astronomy (AstroBetter)</a></li>
-  <li><a href="http://colorado.edu/graduateschool/sites/default/files/attached-files/mentoring.pdf">"How to get the mentoring you want" (University of Michigan)</a></li>
+  <li><a href="https://rackham.umich.edu/wp-content/uploads/2024/11/student-mentoring-handbook-2024.pdf">"How to get the mentoring you want" (University of Michigan)</a></li>
 </ul>
 </div>
 
