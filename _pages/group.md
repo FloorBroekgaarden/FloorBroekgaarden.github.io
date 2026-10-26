@@ -467,7 +467,7 @@ author_profile: true
   <img src="/images/adam-boesky.png" alt="Adam Boesky" class="member-photo" onerror="this.style.display='none';this.nextElementSibling.style.display='flex';">
   <div class="member-photo-placeholder" style="display:none;">No photo</div>
   <div class="member-info">
-    <h3><a href="https://adamboesky.me/" style="color:inherit;">Adam Boesky</a></h3>
+    <h3>Adam Boesky</h3>
     <p class="role">Undergraduate, Harvard University, 2022–2024 &mdash; now PhD student, Harvard University</p>
   </div>
 </div>
