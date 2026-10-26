@@ -94,7 +94,7 @@ This page collects resources I have found useful or that were shared by colleagu
 
 <h3>Postdoc Positions — Country-Specific Fellowships</h3>
 <ul>
-  <li><strong>USA:</strong> <a href="https://www.nhfp-equity.org/resources-for-applicants">NASA Hubble Fellowship Program resources</a> · <a href="https://carnegiescience.edu/news/crafting-competitive-postdoctoral-application-insider-tips-epl-experts">Carnegie Science tips</a></li>
+  <li><strong>USA:</strong> <a href="https://www.stsci.edu/stsci-research/fellowships/nasa-hubble-fellowship-program/announcement-of-opportunity/advice-for-applicants">NASA Hubble Fellowship advice for applicants (STScI)</a> · <a href="https://amp-up.space/mentorship.html#resources">AMP-UP mentorship resources</a> · <a href="https://www.astrobetter.com/blog/2019/10/09/honing-your-hubble-fellowship-application-repost/">Honing your Hubble Fellowship application (AstroBetter)</a> · <a href="https://carnegiescience.edu/news/crafting-competitive-postdoctoral-application-insider-tips-epl-experts">Carnegie Science tips</a></li>
   <li><strong>Canada:</strong> <a href="https://banting.fellowships-bourses.gc.ca/en/home-accueil.html">Banting Fellowships</a> · <a href="https://www.cita.utoronto.ca/opportunities/national-fellows-programs/">CITA National Fellowships</a></li>
   <li><strong>Netherlands:</strong> <a href="https://ec.europa.eu/research/mariecurieactions/">Marie Skłodowska-Curie Actions</a> · NWO Veni &amp; Vidi fellowships</li>
   <li><strong>Spain:</strong> Juan de la Cierva-Formación · Juan de la Cierva-Incorporación · <a href="https://agaur.gencat.cat/es/Beatriu-de-Pinos/">Beatriu de Pinós (Catalunya)</a></li>
