@@ -56,6 +56,7 @@ This page collects resources I have found useful or that were shared by colleagu
   <li><a href="https://www.youtube.com/watch?v=5oQxATL08SM">Writing a Statement of Purpose</a> (Women+ of Color Project)</li>
   <li><a href="https://www.youtube.com/watch?v=AstUVUGKf7E">Recommendation letters</a> (Women+ of Color Project)</li>
   <li><a href="https://www.youtube.com/watch?v=UynK5ZarDR8">Fellowships &amp; Funding</a> (Women+ of Color Project)</li>
+  <li><a href="https://www.startastro.org/resources/community-workshops">STARTastro Community Workshops</a> (UC San Diego) — slides &amp; recordings on why and how to apply to grad school, GRE prep, and applying to summer research programs</li>
 </ul>
 
 <h3>PhD Programs — Finding Programs &amp; Interviews</h3>
@@ -158,6 +159,7 @@ This page collects resources I have found useful or that were shared by colleagu
   <li><a href="https://writing.caltech.edu/resources-for-writers/posters">Caltech poster resources</a></li>
   <li><a href="https://www.animateyour.science/post/best-examples-of-scientific-posters">Best examples of scientific posters</a></li>
   <li><a href="https://www.brightcarbon.com/blog/effective-academic-posters-powerpoint/">Academic posters in PowerPoint (Emily Pinch)</a></li>
+  <li><a href="https://www.startastro.org/resources/community-workshops">STARTastro Community Workshops</a> (UC San Diego) — workshop slides, recording &amp; quick guide for preparing an AAS iPoster</li>
 </ul>
 </div>
 
